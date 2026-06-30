@@ -1,0 +1,51 @@
+{
+  "task_id": "task-20260522-074248-7eacf05d",
+  "created_at": "2026-05-22T07:42:48.561464+00:00",
+  "created_by": "brain",
+  "status": "blocked",
+  "priority": "high",
+  "target": "any",
+  "requirement": "[验证 task bus 管道] 数据层: 模型 + 存储",
+  "context": {
+    "project": "social-scraper",
+    "files": [
+      "models.py",
+      "db.py"
+    ],
+    "deps_completed": [],
+    "notes": ""
+  },
+  "acceptance": {
+    "tests_pass": true,
+    "files_changed": [
+      "models.py",
+      "db.py"
+    ],
+    "checklist": [
+      "frozen dataclass",
+      "SQLite schema",
+      "CRUD",
+      "pytest 80%+"
+    ]
+  },
+  "parent_goal": "验证 task bus 管道",
+  "timeout_minutes": 30,
+  "retry_count": 0,
+  "assigned_to": null,
+  "claimed_at": null,
+  "completed_at": null,
+  "result_path": null,
+  "run_log": null,
+  "error_log": null,
+  "routing": {
+    "misrouted": true,
+    "blocked_reason": "target_repo_missing",
+    "target_repo": "social-scraper",
+    "target_path": "/srv/social-scraper",
+    "required_files": ["models.py", "db.py"],
+    "routed_from": "invest-brain",
+    "blocked_at": "2026-06-30",
+    "blocked_by": "claude",
+    "note": "目标代码库 social-scraper 未挂载。不得在 invest-brain 内新建 models.py / db.py。待目标仓库存在后转投执行。"
+  }
+}

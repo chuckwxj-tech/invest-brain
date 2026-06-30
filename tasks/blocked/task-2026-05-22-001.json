@@ -2,7 +2,7 @@
   "task_id": "task-2026-05-22-001",
   "created_at": "2026-05-22T10:00:00+08:00",
   "created_by": "cc-win",
-  "status": "pending",
+  "status": "blocked",
   "priority": "high",
   "target": "any",
   "requirement": "验证任务总线：读取 social-scraper 的 CODEX_PROMPT.md，写一份中文摘要到 results/ 目录，内容包含模块列表和你的理解",
@@ -15,5 +15,16 @@
     "tests_pass": false,
     "files_changed": [],
     "checklist": ["读取 CODEX_PROMPT.md", "写出中文摘要到 results/task-2026-05-22-001/summary.md", "把任务 JSON 从 inbox 移到 done"]
+  },
+  "routing": {
+    "misrouted": true,
+    "blocked_reason": "target_repo_missing",
+    "target_repo": "social-scraper",
+    "target_path": "/srv/social-scraper",
+    "required_files": ["CODEX_PROMPT.md"],
+    "routed_from": "invest-brain",
+    "blocked_at": "2026-06-30",
+    "blocked_by": "claude",
+    "note": "任务误投递到 invest-brain（投资管线/任务总线/文档归档），目标代码库 social-scraper 未挂载。不得在 invest-brain 内补造目标文件或伪造 done。待 social-scraper 仓库存在后转投执行。"
   }
 }
