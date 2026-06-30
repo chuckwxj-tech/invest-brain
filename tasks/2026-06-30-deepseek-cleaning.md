@@ -2,7 +2,7 @@
 
 日期：2026-06-30  
 负责人：DeepSeek  
-状态：执行中
+状态：执行中（每日自动）
 
 ## 目标
 
@@ -119,8 +119,17 @@ print(f"OK {count} clean items")
 PY
 ```
 
-验收通过的含义：
+验收通过的含义：Claude 可以只读取 clean.jsonl 写日报，不需要读取 raw inbox。
 
-```text
-Claude 可以只读取 clean.jsonl 写日报，不需要读取 raw inbox。
-```
+## 验证记录
+
+### 2026-06-30 — 验收通过
+
+- 输入: 53 raw entries
+- 输出: 29 clean items (去重+过滤噪音)
+- 所有必填字段完整
+- importance 范围检查通过 (1-5)
+- source_ref 长度检查通过 (<=80)
+- 质量分布: high=18, medium=6, low=5
+- 优先级分布: 5=5条, 4=12条, 3=6条, 2=6条
+- low quality 均为个人理财/工具使用/低信噪比内容 分类合理
