@@ -1,0 +1,26 @@
+{
+  "id": "8397c68d-c0a5-4a44-999a-7d2049743198",
+  "capture_type": "page",
+  "url": "https://x.com/VincentLogic/status/2069345576593076430",
+  "canonical_url": null,
+  "title": "天塌了：Codex 左侧历史对话全没了。\n\n先别慌，大概率不是会话真丢了。\n\n最常见原因是：\n你把 config.toml 里的 provider 从 open...",
+  "source_domain": "x.com",
+  "author": "Vincent | 信号＞噪音",
+  "published_at": "2026-06-23T09:03:26.000Z",
+  "captured_at": "2026-06-24T03:10:31.530558+00:00",
+  "storage_date": "2026-06-24",
+  "content_hash": "4fc9d297bf0b71ab842fd4a1b51bf7160b5c97aa4c39656531805bb895850162",
+  "tags": [],
+  "priority": "urgent",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-24/cap_20260624_031031_天塌了-codex-左侧历史对话全没了-先别慌-大概率不是会话真丢了-最常见原因是-你把-confi_8397c68d.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-24/cap_20260624_031031_天塌了-codex-左侧历史对话全没了-先别慌-大概率不是会话真丢了-最常见原因是-你把-confi_8397c68d.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-24/cap_20260624_031031_天塌了-codex-左侧历史对话全没了-先别慌-大概率不是会话真丢了-最常见原因是-你把-confi_8397c68d.analysis_prompt.md"
+  }
+}

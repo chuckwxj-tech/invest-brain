@@ -1,0 +1,26 @@
+{
+  "id": "d6db71fb-c76a-4a49-8a38-1d8444e19941",
+  "capture_type": "page",
+  "url": "https://x.com/jukan05/status/2064878400926580864",
+  "canonical_url": null,
+  "title": "@alexeheath\n’s Sources report today:\n\n- The allocation process for Vera Rubin su...",
+  "source_domain": "x.com",
+  "author": "Jukan",
+  "published_at": "2026-06-11T01:12:29.000Z",
+  "captured_at": "2026-06-11T08:07:03.514175+00:00",
+  "storage_date": "2026-06-11",
+  "content_hash": "3431770a72c86c4e6154951fe44daf4a37bc2cdda7a03330d2cdd5c1abab4261",
+  "tags": [],
+  "priority": "urgent",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-11/cap_20260611_080703_alexeheath-s-sources-report-today-the-allocation-p_d6db71fb.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-11/cap_20260611_080703_alexeheath-s-sources-report-today-the-allocation-p_d6db71fb.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-11/cap_20260611_080703_alexeheath-s-sources-report-today-the-allocation-p_d6db71fb.analysis_prompt.md"
+  }
+}

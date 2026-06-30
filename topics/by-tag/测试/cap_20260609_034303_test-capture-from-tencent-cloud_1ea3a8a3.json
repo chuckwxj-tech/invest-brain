@@ -1,0 +1,28 @@
+{
+  "id": "1ea3a8a3-53b3-4bf5-a79c-a5c0c04375b6",
+  "capture_type": "page",
+  "url": "https://example.com/test",
+  "canonical_url": null,
+  "title": "Test Capture from Tencent Cloud",
+  "source_domain": "example.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-06-09T03:43:03.943073+00:00",
+  "storage_date": "2026-06-09",
+  "content_hash": "test123",
+  "tags": [
+    "测试"
+  ],
+  "priority": "high",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034303_test-capture-from-tencent-cloud_1ea3a8a3.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034303_test-capture-from-tencent-cloud_1ea3a8a3.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034303_test-capture-from-tencent-cloud_1ea3a8a3.analysis_prompt.md"
+  }
+}

@@ -1,0 +1,11 @@
+# 密钥/环境变量（安全红线）
+*.env
+!*.env.example
+
+# Python
+__pycache__/
+*.pyc
+
+# 系统杂物
+.DS_Store
+Thumbs.db

@@ -1,0 +1,28 @@
+{
+  "id": "d6b40c63-0cc3-4b7b-8243-434f2f9034bc",
+  "capture_type": "page",
+  "url": "https://example.com/test",
+  "canonical_url": null,
+  "title": "Test Capture Cloud",
+  "source_domain": "example.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-06-09T03:43:30.254880+00:00",
+  "storage_date": "2026-06-09",
+  "content_hash": "test456",
+  "tags": [
+    "部署"
+  ],
+  "priority": "high",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034330_test-capture-cloud_d6b40c63.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034330_test-capture-cloud_d6b40c63.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034330_test-capture-cloud_d6b40c63.analysis_prompt.md"
+  }
+}

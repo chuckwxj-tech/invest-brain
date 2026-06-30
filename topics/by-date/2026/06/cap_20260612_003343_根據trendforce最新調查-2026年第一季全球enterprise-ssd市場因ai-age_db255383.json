@@ -1,0 +1,26 @@
+{
+  "id": "db255383-4b5e-43c4-8714-8e373c02c303",
+  "capture_type": "page",
+  "url": "https://x.com/home",
+  "canonical_url": null,
+  "title": "根據TrendForce最新調查，2026年第一季全球Enterprise SSD市場因AI Agent服務普及與CSP強勁拉貨，出現嚴重供需失衡。前五大品牌廠...",
+  "source_domain": "x.com",
+  "author": "駿HaYaO",
+  "published_at": "2026-06-11T16:39:21.000Z",
+  "captured_at": "2026-06-12T00:33:43.889783+00:00",
+  "storage_date": "2026-06-12",
+  "content_hash": "7b41c6f0d82a56eb7f8c11cc45d948176ec0d12db3c079ea023804aede015acb",
+  "tags": [],
+  "priority": "urgent",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "fuzzy_warn",
+  "duplicate_of": "3e02cb0f-177b-4cbc-81e4-262e0c538109",
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-12/cap_20260612_003343_根據trendforce最新調查-2026年第一季全球enterprise-ssd市場因ai-age_db255383.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-12/cap_20260612_003343_根據trendforce最新調查-2026年第一季全球enterprise-ssd市場因ai-age_db255383.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-12/cap_20260612_003343_根據trendforce最新調查-2026年第一季全球enterprise-ssd市場因ai-age_db255383.analysis_prompt.md"
+  }
+}

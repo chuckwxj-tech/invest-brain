@@ -1,0 +1,19 @@
+{
+  "task_id": "task-2026-05-22-001",
+  "created_at": "2026-05-22T10:00:00+08:00",
+  "created_by": "cc-win",
+  "status": "pending",
+  "priority": "high",
+  "target": "any",
+  "requirement": "验证任务总线：读取 social-scraper 的 CODEX_PROMPT.md，写一份中文摘要到 results/ 目录，内容包含模块列表和你的理解",
+  "context": {
+    "project": "social-scraper",
+    "files": ["CODEX_PROMPT.md"],
+    "notes": "这是任务总线验收测试。任何 agent 都可以接。"
+  },
+  "acceptance": {
+    "tests_pass": false,
+    "files_changed": [],
+    "checklist": ["读取 CODEX_PROMPT.md", "写出中文摘要到 results/task-2026-05-22-001/summary.md", "把任务 JSON 从 inbox 移到 done"]
+  }
+}

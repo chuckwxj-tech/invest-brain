@@ -1,0 +1,28 @@
+{
+  "id": "f11a2ee0-146e-4737-827c-b844baf5fb3f",
+  "capture_type": "page",
+  "url": "https://example.com/test",
+  "canonical_url": null,
+  "title": "Test Capture",
+  "source_domain": "example.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-06-09T03:43:16.455479+00:00",
+  "storage_date": "2026-06-09",
+  "content_hash": "test123",
+  "tags": [
+    "测试"
+  ],
+  "priority": "high",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034316_test-capture_f11a2ee0.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034316_test-capture_f11a2ee0.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_034316_test-capture_f11a2ee0.analysis_prompt.md"
+  }
+}

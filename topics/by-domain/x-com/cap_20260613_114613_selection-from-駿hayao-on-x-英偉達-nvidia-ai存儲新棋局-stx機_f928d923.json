@@ -1,0 +1,26 @@
+{
+  "id": "f928d923-bfa5-45dd-be4a-516c0cd10bcc",
+  "capture_type": "selection",
+  "url": "https://x.com/QQ_Timmy/status/2065702209208340615",
+  "canonical_url": null,
+  "title": "Selection from: 駿HaYaO on X: \"英偉達( NVIDIA )AI存儲新棋局：STX機架重構層級，NAND躍升為核心擴容底座 在萬億參數、百萬Token長上下文時代，KV Cache 指數級增長讓傳統存儲架構面臨「內存牆」與能效瓶頸。英偉達在 Vera Rubin平台 中推出 BlueField-4 STX存儲機架，搭配全新\" / X",
+  "source_domain": "x.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-06-13T11:46:13.522783+00:00",
+  "storage_date": "2026-06-13",
+  "content_hash": "3797d99e0af191fce5a630a83fc72f762d5ecbd202533356f579d8121aaeb4dd",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-13/cap_20260613_114613_selection-from-駿hayao-on-x-英偉達-nvidia-ai存儲新棋局-stx機_f928d923.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-13/cap_20260613_114613_selection-from-駿hayao-on-x-英偉達-nvidia-ai存儲新棋局-stx機_f928d923.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-13/cap_20260613_114613_selection-from-駿hayao-on-x-英偉達-nvidia-ai存儲新棋局-stx機_f928d923.analysis_prompt.md"
+  }
+}

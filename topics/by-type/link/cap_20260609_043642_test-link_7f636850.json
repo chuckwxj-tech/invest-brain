@@ -1,0 +1,26 @@
+{
+  "id": "7f636850-80ec-4ef1-a930-49882aba2e70",
+  "capture_type": "link",
+  "url": "https://example.com/article",
+  "canonical_url": "https://example.com/article",
+  "title": "Test Link",
+  "source_domain": "example.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-06-09T04:36:42.577923+00:00",
+  "storage_date": "2026-06-09",
+  "content_hash": "632538290468e7a39c06323c9e3ae98f31072d641cbb37ea37917f56bbeb5539",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_043642_test-link_7f636850.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_043642_test-link_7f636850.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_043642_test-link_7f636850.analysis_prompt.md"
+  }
+}

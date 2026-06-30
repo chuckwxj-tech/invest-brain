@@ -1,0 +1,28 @@
+{
+  "id": "7467ed0e-f83e-4ecf-ba31-8bda7c646b2d",
+  "capture_type": "image",
+  "url": "https://example.com/chart.png",
+  "canonical_url": "https://example.com/chart.png",
+  "title": "AI Server Market Share 2026",
+  "source_domain": "example.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-06-09T04:26:53.406710+00:00",
+  "storage_date": "2026-06-09",
+  "content_hash": "205881e413b13abf50c596e902f37bb810ee170a2cadea974cc52f9df27534df",
+  "tags": [
+    "AI服务器"
+  ],
+  "priority": "high",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_042653_ai-server-market-share-2026_7467ed0e.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_042653_ai-server-market-share-2026_7467ed0e.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-06-09/cap_20260609_042653_ai-server-market-share-2026_7467ed0e.analysis_prompt.md"
+  }
+}
