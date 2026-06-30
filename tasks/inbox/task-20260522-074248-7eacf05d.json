@@ -4,18 +4,16 @@
   "created_by": "brain",
   "status": "pending",
   "priority": "high",
-  "target": "cc-win",
+  "target": "any",
   "requirement": "[验证 task bus 管道] 数据层: 模型 + 存储",
   "context": {
     "project": "social-scraper",
-    "target_repo": "social-scraper",
-    "target_path": "/srv/cloud-vault/projects/social-scraper",
     "files": [
       "models.py",
       "db.py"
     ],
     "deps_completed": [],
-    "notes": "交给 Claude Code / cc-win 执行。不要在 /srv/invest-brain 中执行；目标项目在 /srv/cloud-vault/projects/social-scraper。执行前先确认目标仓库 Git 状态。"
+    "notes": ""
   },
   "acceptance": {
     "tests_pass": true,
@@ -33,7 +31,7 @@
   "parent_goal": "验证 task bus 管道",
   "timeout_minutes": 30,
   "retry_count": 0,
-  "assigned_to": "cc-win",
+  "assigned_to": null,
   "claimed_at": null,
   "completed_at": null,
   "result_path": null,

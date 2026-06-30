@@ -4,17 +4,15 @@
   "created_by": "brain",
   "status": "pending",
   "priority": "normal",
-  "target": "cc-win",
+  "target": "any",
   "requirement": "[验证 task bus 管道] 编排层: CLI + 定时 + 监控",
   "context": {
     "project": "social-scraper",
-    "target_repo": "social-scraper",
-    "target_path": "/srv/cloud-vault/projects/social-scraper",
     "files": [],
     "deps_completed": [
       "task-20260522-074249-11906e35"
     ],
-    "notes": "交给 Claude Code / cc-win 执行。不要在 /srv/invest-brain 中执行；目标项目在 /srv/cloud-vault/projects/social-scraper。必须等业务逻辑层任务完成后再执行。"
+    "notes": ""
   },
   "acceptance": {
     "tests_pass": true,
@@ -28,7 +26,7 @@
   "parent_goal": "验证 task bus 管道",
   "timeout_minutes": 20,
   "retry_count": 0,
-  "assigned_to": "cc-win",
+  "assigned_to": null,
   "claimed_at": null,
   "completed_at": null,
   "result_path": null,

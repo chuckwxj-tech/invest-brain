@@ -4,15 +4,12 @@
   "created_by": "cc-win",
   "status": "pending",
   "priority": "high",
-  "target": "cc-win",
-  "assigned_to": "cc-win",
+  "target": "any",
   "requirement": "验证任务总线：读取 social-scraper 的 CODEX_PROMPT.md，写一份中文摘要到 results/ 目录，内容包含模块列表和你的理解",
   "context": {
     "project": "social-scraper",
-    "target_repo": "social-scraper",
-    "target_path": "/srv/cloud-vault/projects/social-scraper",
     "files": ["CODEX_PROMPT.md"],
-    "notes": "交给 Claude Code / cc-win 执行。不要在 /srv/invest-brain 中执行；目标项目在 /srv/cloud-vault/projects/social-scraper。"
+    "notes": "这是任务总线验收测试。任何 agent 都可以接。"
   },
   "acceptance": {
     "tests_pass": false,
