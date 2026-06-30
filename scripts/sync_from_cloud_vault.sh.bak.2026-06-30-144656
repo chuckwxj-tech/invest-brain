@@ -29,7 +29,6 @@ cd "$REPO"
 # 格式: "源相对路径|目标相对路径|说明"
 SYNC_SPECS=(
   "markdown/daily|daily|每日日报"
-  "markdown/push|push|推送摘要"
   "markdown/weekly|weekly|每周周报"
   "results|results|结构化 JSONL"
   "markdown/content-collection|topics|主题分类"
