@@ -1,0 +1,26 @@
+{
+  "id": "3042f209-8893-41b5-a361-f168e9243136",
+  "capture_type": "page",
+  "url": "https://x.com/Etched/status/2071972119932796940",
+  "canonical_url": null,
+  "title": "We're coming out of stealth.\n\nWe've built our first racks after a successful A0 ...",
+  "source_domain": "x.com",
+  "author": "Etched",
+  "published_at": "2026-06-30T15:00:09.000Z",
+  "captured_at": "2026-07-01T01:06:08.253131+00:00",
+  "storage_date": "2026-07-01",
+  "content_hash": "fa21db0b8a2ae02f8850d081cd5a00cd4f5772c9c22bd751c8e6f88ef19069dd",
+  "tags": [],
+  "priority": "urgent",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-01/cap_20260701_010608_we-re-coming-out-of-stealth-we-ve-built-our-first-_3042f209.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-01/cap_20260701_010608_we-re-coming-out-of-stealth-we-ve-built-our-first-_3042f209.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-01/cap_20260701_010608_we-re-coming-out-of-stealth-we-ve-built-our-first-_3042f209.analysis_prompt.md"
+  }
+}
