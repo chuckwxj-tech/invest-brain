@@ -1,0 +1,26 @@
+{
+  "id": "399fe3ac-1656-4542-8f9d-1f9bdbcef801",
+  "capture_type": "selection",
+  "url": "https://x.com/ShanghaoJin",
+  "canonical_url": null,
+  "title": "Selection from: Herman Jin (@ShanghaoJin) / X",
+  "source_domain": "x.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-07-02T23:24:50.327503+00:00",
+  "storage_date": "2026-07-02",
+  "content_hash": "0aa54a9dbf1fcb09d6db80c3b5ab98c4a158ad8c2b9b7a6c38cfddce51e4cfe0",
+  "tags": [],
+  "priority": "urgent",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-02/cap_20260702_232450_selection-from-herman-jin-shanghaojin-x_399fe3ac.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-02/cap_20260702_232450_selection-from-herman-jin-shanghaojin-x_399fe3ac.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-02/cap_20260702_232450_selection-from-herman-jin-shanghaojin-x_399fe3ac.analysis_prompt.md"
+  }
+}
