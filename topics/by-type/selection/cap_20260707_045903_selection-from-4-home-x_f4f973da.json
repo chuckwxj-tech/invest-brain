@@ -1,0 +1,26 @@
+{
+  "id": "f4f973da-0985-4b16-a574-c8443ecbea5a",
+  "capture_type": "selection",
+  "url": "https://x.com/home",
+  "canonical_url": null,
+  "title": "Selection from: (4) Home / X",
+  "source_domain": "x.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-07-07T04:59:03.405221+00:00",
+  "storage_date": "2026-07-07",
+  "content_hash": "558032e682dbddd7c2037a117352215d4c2ccd949c594cddf9b85706b8e96e42",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "fuzzy_warn",
+  "duplicate_of": "2fe49ae9-a0fb-4db8-a5e5-cd656d83cf72",
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-07/cap_20260707_045903_selection-from-4-home-x_f4f973da.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-07/cap_20260707_045903_selection-from-4-home-x_f4f973da.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-07/cap_20260707_045903_selection-from-4-home-x_f4f973da.analysis_prompt.md"
+  }
+}
