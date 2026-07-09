@@ -1,0 +1,26 @@
+{
+  "id": "db716c3a-574d-42c7-ba26-3df7dc364a8b",
+  "capture_type": "page",
+  "url": "https://x.com/SemiAnalysis_/status/2074971917618938072",
+  "canonical_url": null,
+  "title": "At ECTC, GUC showed a practical STCO flow for CoWoS-R style UCIe-A integration, ...",
+  "source_domain": "x.com",
+  "author": "SemiAnalysis",
+  "published_at": "2026-07-08T21:40:30.000Z",
+  "captured_at": "2026-07-08T23:45:42.763985+00:00",
+  "storage_date": "2026-07-08",
+  "content_hash": "27986d261f016733d94956966c91d338a6b3326b8ee8711f3d63aa76d6110403",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-08/cap_20260708_234542_at-ectc-guc-showed-a-practical-stco-flow-for-cowos_db716c3a.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-08/cap_20260708_234542_at-ectc-guc-showed-a-practical-stco-flow-for-cowos_db716c3a.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-08/cap_20260708_234542_at-ectc-guc-showed-a-practical-stco-flow-for-cowos_db716c3a.analysis_prompt.md"
+  }
+}
