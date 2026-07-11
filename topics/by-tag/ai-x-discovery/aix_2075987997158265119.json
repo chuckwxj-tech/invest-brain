@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075987997158265119",
+  "capture_type": "post",
+  "url": "https://x.com/ramonsanders007/status/2075987997158265119",
+  "canonical_url": "https://x.com/ramonsanders007/status/2075987997158265119",
+  "title": "Strong $ALAB Leo readthrough from $PENG: a Tier-1 financial customer reordered Penguin’s MemoryAI KV-cache servers, built with Astera’s Leo CXL controllers. That’s CXL moving fr...",
+  "source_domain": "x.com",
+  "author": "ramonsanders007",
+  "published_at": "Sat Jul 11 16:58:03 +0000 2026",
+  "captured_at": "2026-07-11T17:30:01.451440+00:00",
+  "storage_date": "2026-07-12",
+  "content_hash": "a072fcc155ab7c752c79f931d91cc2a7fa0f237ee2a9dd84061f42e2061f296e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2075987997158265119.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2075987997158265119.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2075987997158265119.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

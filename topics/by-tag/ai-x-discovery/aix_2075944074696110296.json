@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075944074696110296",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2075944074696110296",
+  "canonical_url": "https://x.com/TheValueist/status/2075944074696110296",
+  "title": "$SKHY $000660 SK HYNIX U.S. ADS LISTING, AI MEMORY DEMAND, AND SK GROUP CAPITAL ALLOCATION EXECUTIVE SUMMARY The source material is a roughly 30-minute Bloomberg Technology inte...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Sat Jul 11 14:03:31 +0000 2026",
+  "captured_at": "2026-07-11T14:30:01.942254+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "d8960d555544c8ff828e706b2ebdaf0f1c375a1663b8538faae0ae7aef145e67",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075944074696110296.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075944074696110296.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075944074696110296.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

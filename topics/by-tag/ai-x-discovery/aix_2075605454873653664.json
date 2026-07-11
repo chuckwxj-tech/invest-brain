@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075605454873653664",
+  "capture_type": "post",
+  "url": "https://x.com/ausydau/status/2075605454873653664",
+  "canonical_url": "https://x.com/ausydau/status/2075605454873653664",
+  "title": "@0xGL0YALTY_3 @grok Grok answer doesnt have enough context here you go. SK Group Chairman Chey Tae-won has explicitly linked the future of SK hynix’s investment strategy to the ...",
+  "source_domain": "x.com",
+  "author": "ausydau",
+  "published_at": "Fri Jul 10 15:37:57 +0000 2026",
+  "captured_at": "2026-07-10T16:00:01.685422+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "e2f85f6e2bb2cd4abf47f0421cfd845f9c4b2204d32a2971197e662c17ea25d0",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075605454873653664.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075605454873653664.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075605454873653664.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

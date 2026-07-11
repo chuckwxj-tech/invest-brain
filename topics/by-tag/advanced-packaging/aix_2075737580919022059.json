@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075737580919022059",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2075737580919022059",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2075737580919022059",
+  "title": "HBM4, 2nm GAA, AI manufacturing… Cutting-edge technologies heat up Nano Korea 2026. Samsung Electronics and LG Electronics showcased their next-generation AI semiconductor and a...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Sat Jul 11 00:22:59 +0000 2026",
+  "captured_at": "2026-07-11T00:30:01.782269+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "f696d9332f7e8f920f23c29f7ee3b2c2810a9fce9c2aa2fe0f9dd5a755960945",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075737580919022059.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075737580919022059.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075737580919022059.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

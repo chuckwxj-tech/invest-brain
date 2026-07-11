@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075634054406279216",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2075634054406279216",
+  "canonical_url": "https://x.com/TheValueist/status/2075634054406279216",
+  "title": "$NDVA $MU $SNDK $LITE $SKHY $000660 EXECUTIVE CONCLUSION Semi Doped is a semiconductor podcast launched in 2026 and hosted by Austin Lyons and Vikram Sekar. Sekar, who leads thi...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Fri Jul 10 17:31:36 +0000 2026",
+  "captured_at": "2026-07-10T18:00:01.375522+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "d49b10739c01fa65d8b74c5f84dcec47d770235f82b4b9560155b9a4b8d42f18",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075634054406279216.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075634054406279216.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075634054406279216.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

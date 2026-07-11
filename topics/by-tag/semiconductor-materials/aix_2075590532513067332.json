@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075590532513067332",
+  "capture_type": "post",
+  "url": "https://x.com/Teo_Sinamin/status/2075590532513067332",
+  "canonical_url": "https://x.com/Teo_Sinamin/status/2075590532513067332",
+  "title": "@ShowerCapAM @ThematicTrades Agree. MHT would help, but I'm not entirely whether new mine supplies require new qualification process for WF6. Sadly half of HC Starck's productio...",
+  "source_domain": "x.com",
+  "author": "Teo_Sinamin",
+  "published_at": "Fri Jul 10 14:38:40 +0000 2026",
+  "captured_at": "2026-07-10T16:00:01.685422+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "079350fa9d20df13dbd7bdcc54d0a0def9c9cc012b44d75b27c794872db09d97",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075590532513067332.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075590532513067332.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075590532513067332.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

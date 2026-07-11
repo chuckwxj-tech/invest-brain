@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075708546914668567",
+  "capture_type": "post",
+  "url": "https://x.com/napoleon21st/status/2075708546914668567",
+  "canonical_url": "https://x.com/napoleon21st/status/2075708546914668567",
+  "title": "So the week is over. It was a terrible week in general but ended on a positive note. We're not completely out of the woods, the recovery has been cautious and timid, but we hope...",
+  "source_domain": "x.com",
+  "author": "napoleon21st",
+  "published_at": "Fri Jul 10 22:27:37 +0000 2026",
+  "captured_at": "2026-07-10T22:30:01.434824+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "1566ba4a9ed4adc333ef0b4ffd8aba7183a8e6ee4b2262f1bf1454513cf533a2",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075708546914668567.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075708546914668567.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075708546914668567.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

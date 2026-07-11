@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075798036597645715",
+  "capture_type": "post",
+  "url": "https://x.com/ViewsOfChris/status/2075798036597645715",
+  "canonical_url": "https://x.com/ViewsOfChris/status/2075798036597645715",
+  "title": "孙宇晨： “短期缺芯片，长期缺能源，永远缺存储”。你不用认同的做派，但必须承认他认知很高，只看结果和趋势。 .@justinsuntron 说实在的，说很很多遍，如果这位朋友看我之前的推，应该有个大概的了解。关于周期性，大部分的商品都有，问题是时间的长度，譬如手机，现在也饱和了。 存储，有几个类别，HBM，DRAM， NAND，SSD、HDD、 CXL...",
+  "source_domain": "x.com",
+  "author": "ViewsOfChris",
+  "published_at": "Sat Jul 11 04:23:13 +0000 2026",
+  "captured_at": "2026-07-11T05:00:02.058572+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "6286b0d90f6903aa575568c226e98c32d6817f9de906e4faa2e30c9361a033de",
+  "tags": [
+    "ai-x-discovery",
+    "cn_hardware_signal",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075798036597645715.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075798036597645715.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075798036597645715.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cn_hardware_signal",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075862472398168489",
+  "capture_type": "post",
+  "url": "https://x.com/Semiconsight/status/2075862472398168489",
+  "canonical_url": "https://x.com/Semiconsight/status/2075862472398168489",
+  "title": "이르면 연내 시제품, 삼성의 유리 인터포저 승부수와 TSMC 패키징 독점의 균열 TSMC의 CoWoS 독점 체제가 영원할 것이라는 착각은 버려야 한다. AI 반도체 원가의 핵심을 차지하는 실리콘 인터포저의 물리적, 경제적 한계가 임계점에 달한 현재, 삼성전자와 삼성디스플레이가 꺼내든 유리 인터포저 카드는 단순한 소재...",
+  "source_domain": "x.com",
+  "author": "Semiconsight",
+  "published_at": "Sat Jul 11 08:39:15 +0000 2026",
+  "captured_at": "2026-07-11T09:00:01.440062+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "ee3937e85c85f6417e34eac82f262248f2365398dee58df953855cc61ce5a014",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075862472398168489.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075862472398168489.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075862472398168489.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

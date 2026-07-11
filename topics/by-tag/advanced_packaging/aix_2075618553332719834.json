@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2075618553332719834",
+  "capture_type": "post",
+  "url": "https://x.com/valuechainkoala/status/2075618553332719834",
+  "canonical_url": "https://x.com/valuechainkoala/status/2075618553332719834",
+  "title": "$BESI is down on news that HBM hybrid bonding has been further delayed. The market is scoring the wrong thesis. BESI's current 6-month lead times are not for hybrid bonding orde...",
+  "source_domain": "x.com",
+  "author": "valuechainkoala",
+  "published_at": "Fri Jul 10 16:30:00 +0000 2026",
+  "captured_at": "2026-07-10T17:00:01.218860+00:00",
+  "storage_date": "2026-07-11",
+  "content_hash": "3e1083d23c90d6bb1ca345850cb93c4f2211fd4c4712a0ec297eed83e107d43a",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075618553332719834.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075618553332719834.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-11/aix_2075618553332719834.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
