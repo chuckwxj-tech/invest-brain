@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076065385636647213",
+  "capture_type": "post",
+  "url": "https://x.com/JDynan/status/2076065385636647213",
+  "canonical_url": "https://x.com/JDynan/status/2076065385636647213",
+  "title": "$VIVO is becoming one of the most interesting AI-infrastructure speculation setups on the market right now. This is NOT confirmed. But the dot-connection is getting hard to igno...",
+  "source_domain": "x.com",
+  "author": "JDynan",
+  "published_at": "Sat Jul 11 22:05:34 +0000 2026",
+  "captured_at": "2026-07-12T00:30:01.822835+00:00",
+  "storage_date": "2026-07-12",
+  "content_hash": "9721822464eff4f1e2f4645414877ed01ec8b5a9d14f3119368d48086968ad51",
+  "tags": [
+    "ai-x-discovery",
+    "ai_supply_chain",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076065385636647213.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076065385636647213.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076065385636647213.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "ai_supply_chain",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

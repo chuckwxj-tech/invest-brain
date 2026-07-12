@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076335279317856390",
+  "capture_type": "post",
+  "url": "https://x.com/junnyBCap/status/2076335279317856390",
+  "canonical_url": "https://x.com/junnyBCap/status/2076335279317856390",
+  "title": "$GLW erased $52B in market value in 4 days. That same company just took a $3.2B investment from Nvidia, signed 3 hyperscaler deals worth up to $6B each, and grew its AI segment ...",
+  "source_domain": "x.com",
+  "author": "junnyBCap",
+  "published_at": "Sun Jul 12 15:58:01 +0000 2026",
+  "captured_at": "2026-07-12T17:00:01.376917+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "5d410d879a3ef065304fd259dc50dc9bc35f9d31c43d8c495defab17fa6276f6",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076335279317856390.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076335279317856390.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076335279317856390.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

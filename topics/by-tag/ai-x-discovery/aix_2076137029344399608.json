@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076137029344399608",
+  "capture_type": "post",
+  "url": "https://x.com/Kay2289123/status/2076137029344399608",
+  "canonical_url": "https://x.com/Kay2289123/status/2076137029344399608",
+  "title": "内存是一堵墙，大家都想打破它。 内存即服务（Memory as a Service）可能是关键方向。截止今天，这还是早期商业构想，但 $MRVL 的下一代内存架构、数据中心架构不谋而合，触发了我的投资雷达 “内存即服务”里的 HBM、DRAM、SSD 也仍是实体芯片，只是客户可能不再一次性买断，而是租用容量、带宽或整套 AI 内存系统” 1/ 啥意思 ...",
+  "source_domain": "x.com",
+  "author": "Kay2289123",
+  "published_at": "Sun Jul 12 02:50:15 +0000 2026",
+  "captured_at": "2026-07-12T03:00:02.090768+00:00",
+  "storage_date": "2026-07-12",
+  "content_hash": "18e2f411a70131528b771fdfa33f061337e8af97e2eac80cb4add25d692d6c2e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076137029344399608.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076137029344399608.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076137029344399608.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

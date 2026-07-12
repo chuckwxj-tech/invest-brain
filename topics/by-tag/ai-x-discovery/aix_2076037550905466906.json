@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076037550905466906",
+  "capture_type": "post",
+  "url": "https://x.com/VonburyResearch/status/2076037550905466906",
+  "canonical_url": "https://x.com/VonburyResearch/status/2076037550905466906",
+  "title": "🇨🇳 Flagging this unusually surgical semi-conductor related move of China: China restricted the high-purity tungsten powder Japan needs to make WF6, while Chinese exports of fini...",
+  "source_domain": "x.com",
+  "author": "VonburyResearch",
+  "published_at": "Sat Jul 11 20:14:57 +0000 2026",
+  "captured_at": "2026-07-11T21:00:01.737311+00:00",
+  "storage_date": "2026-07-12",
+  "content_hash": "208296f923045a47a50852b9d7e28b2ad754ab36df8d8dcaffb0ecceed9f5164",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076037550905466906.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076037550905466906.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076037550905466906.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

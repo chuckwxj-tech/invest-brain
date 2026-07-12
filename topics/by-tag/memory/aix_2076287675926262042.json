@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076287675926262042",
+  "capture_type": "post",
+  "url": "https://x.com/Cyber_Dystopia7/status/2076287675926262042",
+  "canonical_url": "https://x.com/Cyber_Dystopia7/status/2076287675926262042",
+  "title": "SK 하이닉스 최태원: CXL + 메모리 풀링 + 고속 연결 기술은 AI 데이터센터에서 필수. - Broadcom $AVGO 의 강점(By 그록) • Google TPU(텐서처리장치)의 주요 설계/제조 파트너 (Broadcom이 backend physical design 담당). TPU는 CXL 같은 고속 인터커넥트...",
+  "source_domain": "x.com",
+  "author": "Cyber_Dystopia7",
+  "published_at": "Sun Jul 12 12:48:52 +0000 2026",
+  "captured_at": "2026-07-12T13:00:01.309127+00:00",
+  "storage_date": "2026-07-12",
+  "content_hash": "03385e1e96d8d94992cdfdcf7541fcb33da3afd70e88f11bfad2d8269251a04e",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076287675926262042.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076287675926262042.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076287675926262042.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

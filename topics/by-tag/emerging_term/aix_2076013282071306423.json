@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076013282071306423",
+  "capture_type": "post",
+  "url": "https://x.com/rzayev7895/status/2076013282071306423",
+  "canonical_url": "https://x.com/rzayev7895/status/2076013282071306423",
+  "title": "KULICKE & SOFFA INDUSTRIES, INC. ( $KLIC) Kapsamlı Şirket Değerleme ve Stratejik Analiz 1. Yönetici Özeti ve Stratejik Yol Ayrımı Yarı iletken endüstrisinde Moore Kanunu'nun fiz...",
+  "source_domain": "x.com",
+  "author": "rzayev7895",
+  "published_at": "Sat Jul 11 18:38:31 +0000 2026",
+  "captured_at": "2026-07-11T19:00:01.209571+00:00",
+  "storage_date": "2026-07-12",
+  "content_hash": "d8de1861d68c09f4f2bc289c20ea34a25cceeafea8530e1dd2fa29fc513629e2",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076013282071306423.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076013282071306423.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-12/aix_2076013282071306423.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
