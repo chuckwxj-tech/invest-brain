@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076521926647042478",
+  "capture_type": "post",
+  "url": "https://x.com/paurooteri/status/2076521926647042478",
+  "canonical_url": "https://x.com/paurooteri/status/2076521926647042478",
+  "title": "そこは先端プロセスシェアの多いSUMCOを言及しないと TSMCの高度なプロセス加速技術は、GlobalWafersとWafer Worksという3つの主要なシリコンウェハーメーカーに恩恵をもたらしている。 シリコンウェハー市場の需給構造は変化しており、WoW積層技術は急速な成長期に入りつつあり、GlobalWafersやWafer Worksといった...",
+  "source_domain": "x.com",
+  "author": "paurooteri",
+  "published_at": "Mon Jul 13 04:19:41 +0000 2026",
+  "captured_at": "2026-07-13T04:30:01.132081+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "ecfb8af78fc4db4109839580168781103bc2c823d754acde2d80a5c52e9a5a5c",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076521926647042478.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076521926647042478.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076521926647042478.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

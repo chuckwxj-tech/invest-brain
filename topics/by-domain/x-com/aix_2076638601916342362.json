@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076638601916342362",
+  "capture_type": "post",
+  "url": "https://x.com/Privacy_ci/status/2076638601916342362",
+  "canonical_url": "https://x.com/Privacy_ci/status/2076638601916342362",
+  "title": "MORNING BRIEFING: Europe's Border Biometrics Become a Capacity Test - Privacy risk became clearest at the point of use: Europe added staff to preserve border biometrics, while M...",
+  "source_domain": "x.com",
+  "author": "Privacy_ci",
+  "published_at": "Mon Jul 13 12:03:19 +0000 2026",
+  "captured_at": "2026-07-13T12:30:01.376230+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "c707e8d3ccaf6038e7902f7e43fb50f6067bb3b633dda300a99e0a1e03d960c0",
+  "tags": [
+    "ai-x-discovery",
+    "bigtech_ai",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076638601916342362.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076638601916342362.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076638601916342362.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "bigtech_ai",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

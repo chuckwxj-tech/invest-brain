@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076488188580053301",
+  "capture_type": "post",
+  "url": "https://x.com/SIMANX_/status/2076488188580053301",
+  "canonical_url": "https://x.com/SIMANX_/status/2076488188580053301",
+  "title": "🔥2026中报预增热门梯队 ｜ 三大景气层级 这份榜单按照业绩景气 确定性分为三大梯队， 算力硬件为中长期核心主线， 周期反转、 低基数弹性赛道作为轮动分支， 完整覆盖AI算力上下游、 周期、金融、液冷、医药板块。 第一梯队：可持续高景气 算力硬件+储能电池， 业绩确定性最强 全产业链覆盖AI算力基础设施， 全年业绩持续兑现， 是资金中长期抱团主线 1...",
+  "source_domain": "x.com",
+  "author": "SIMANX_",
+  "published_at": "Mon Jul 13 02:05:38 +0000 2026",
+  "captured_at": "2026-07-13T03:30:01.587151+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "e95064eebcffe6ed5e6f43dc39aab271ede5137c7d863b944be8ab582fe24586",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076488188580053301.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076488188580053301.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076488188580053301.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

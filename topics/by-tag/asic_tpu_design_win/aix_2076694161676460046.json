@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076694161676460046",
+  "capture_type": "post",
+  "url": "https://x.com/yijiangren/status/2076694161676460046",
+  "canonical_url": "https://x.com/yijiangren/status/2076694161676460046",
+  "title": "台积电再建两座先进封装厂，Rubin Ultra 的真相更清楚 前几天我写了一篇：Rubin Ultra 延期， $NVDA 和黄仁勋可能正在撞击 AI 机柜的物理极限。 SemiAnalysis 爆料，为明年 Rubin Ultra 准备的 Kyber NVL144 机柜架构，可能因为超复杂 PCB 中板的制造难度，被推迟超过12个月，延后到后年。 ...",
+  "source_domain": "x.com",
+  "author": "yijiangren",
+  "published_at": "Mon Jul 13 15:44:05 +0000 2026",
+  "captured_at": "2026-07-13T16:00:01.255257+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "f37f9368cec9683d7411241cde19ca15e14e097b5c491745b37d90ef6ffc1291",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076694161676460046.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076694161676460046.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076694161676460046.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

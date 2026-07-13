@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076698211809648747",
+  "capture_type": "post",
+  "url": "https://x.com/MBazilian/status/2076698211809648747",
+  "canonical_url": "https://x.com/MBazilian/status/2076698211809648747",
+  "title": "New from @payneinstitute's extensive work on energy and materials for AI. China’s Tungsten Controls Expose a Semiconductor Chokepoint \"WF6, a critical semiconductor gas, remains...",
+  "source_domain": "x.com",
+  "author": "MBazilian",
+  "published_at": "Mon Jul 13 16:00:11 +0000 2026",
+  "captured_at": "2026-07-13T16:30:01.957983+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "e4e232d0582145f125752d642179c5a8c160e19c1331d293c3209319dfa79ea0",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076698211809648747.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076698211809648747.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076698211809648747.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

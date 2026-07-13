@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076652870968213851",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2076652870968213851",
+  "canonical_url": "https://x.com/pequityresearch/status/2076652870968213851",
+  "title": "Morgan Stanley: Scale-Up Market Massive Expansion of the Scale-Up Market > 4x Market Surge: The AI scale-up network market is projected to reach a $70 billion+ opportunity by 20...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Mon Jul 13 13:00:01 +0000 2026",
+  "captured_at": "2026-07-13T13:30:01.519094+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "d839b1f67f82e0dbcafc7822dc2d5ca1bb2a089504259eacf8cfe4ca1d37f2cf",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076652870968213851.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076652870968213851.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076652870968213851.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

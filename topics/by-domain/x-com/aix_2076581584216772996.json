@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076581584216772996",
+  "capture_type": "post",
+  "url": "https://x.com/Mark85119395/status/2076581584216772996",
+  "canonical_url": "https://x.com/Mark85119395/status/2076581584216772996",
+  "title": "MRVL 的核心曝險不是單一 AI 晶片，而是 AI cluster 擴張帶來的 Data Movement Complexity。 近端由 800G／1.6T Optical DSP 驅動，中期看 Custom ASIC ramp，Ethernet、SerDes、PCIe／CXL 則提高 attach depth。 Kyber 延遲更像 revenu...",
+  "source_domain": "x.com",
+  "author": "Mark85119395",
+  "published_at": "Mon Jul 13 08:16:45 +0000 2026",
+  "captured_at": "2026-07-13T08:30:01.443460+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "429d6718f956f084ebbc4196950437826a2c30acda719fdb71d922306b287e74",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076581584216772996.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076581584216772996.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076581584216772996.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

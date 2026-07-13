@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076653148790464990",
+  "capture_type": "post",
+  "url": "https://x.com/dubidubabap/status/2076653148790464990",
+  "canonical_url": "https://x.com/dubidubabap/status/2076653148790464990",
+  "title": "2026/7/13 뉴스 AI 투자 사이클이 이제 반도체 주가를 넘어 물가와 전력정책까지 움직이기 시작했다. 오늘 뉴스는 이 한 문장으로 정리된다. 핵심은 다섯 가지다. 1. AI 투자와 인플레. 2. 칩플레이션과 전자제품 수요 감소. 3. TSMC 역대 최대 매출. 4. AI 전력 수요와 추가 원전 논의. 5. 미·...",
+  "source_domain": "x.com",
+  "author": "dubidubabap",
+  "published_at": "Mon Jul 13 13:01:07 +0000 2026",
+  "captured_at": "2026-07-13T13:30:01.519094+00:00",
+  "storage_date": "2026-07-13",
+  "content_hash": "24e1c56169aeb5726d63ff5e410ccd5a1182e6b5faf7fd9ccf631495ed39cba0",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076653148790464990.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076653148790464990.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-13/aix_2076653148790464990.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

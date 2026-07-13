@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076719605557481948",
+  "capture_type": "post",
+  "url": "https://x.com/yianisz/status/2076719605557481948",
+  "canonical_url": "https://x.com/yianisz/status/2076719605557481948",
+  "title": "This looks like technical supply/ profit-taking, rebalancing and insider sales—rather than fresh evidence of weakening demand. $ALAB leverage is architectural: PCIe/CXL connecti...",
+  "source_domain": "x.com",
+  "author": "yianisz",
+  "published_at": "Mon Jul 13 17:25:12 +0000 2026",
+  "captured_at": "2026-07-13T17:30:01.738584+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "1c905b6136fd26499d82e363225013159f61c790cd851da9fe046310fe8fb59d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076719605557481948.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076719605557481948.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076719605557481948.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
