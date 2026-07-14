@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076801574157033493",
+  "capture_type": "post",
+  "url": "https://x.com/AtenKrotos/status/2076801574157033493",
+  "canonical_url": "https://x.com/AtenKrotos/status/2076801574157033493",
+  "title": "⭐ What to take into the field Do not reach for CXL first. Prefix caching and paged attention give you more per dollar with zero new hardware. Look at pooling when your bottlenec...",
+  "source_domain": "x.com",
+  "author": "AtenKrotos",
+  "published_at": "Mon Jul 13 22:50:55 +0000 2026",
+  "captured_at": "2026-07-13T23:00:01.923176+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "63a396abc13b8b589eae4fe4ad2b04a8c779030d9fdce3d9291b2943f4c80617",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076801574157033493.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076801574157033493.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076801574157033493.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

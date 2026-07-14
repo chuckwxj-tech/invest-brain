@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076952645764276601",
+  "capture_type": "post",
+  "url": "https://x.com/BenCockmanX/status/2076952645764276601",
+  "canonical_url": "https://x.com/BenCockmanX/status/2076952645764276601",
+  "title": "@JulienTechInvst @Frenchie_ Claude mais j’avais mis Sonnet 5. Voici la version plus courte avec fable 5: $000660 SK Hynix : la « mémoire désagrégée » va-t-elle tuer le premium H...",
+  "source_domain": "x.com",
+  "author": "BenCockmanX",
+  "published_at": "Tue Jul 14 08:51:13 +0000 2026",
+  "captured_at": "2026-07-14T09:00:01.176827+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "f9d42537cf843419f2371301740b8f77fb7ed4cac7ef9d25e960c611e76bb42a",
+  "tags": [
+    "ai-x-discovery",
+    "nvidia_platform_constraint",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076952645764276601.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076952645764276601.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076952645764276601.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "nvidia_platform_constraint",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

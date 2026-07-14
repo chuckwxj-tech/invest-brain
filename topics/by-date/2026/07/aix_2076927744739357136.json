@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076927744739357136",
+  "capture_type": "post",
+  "url": "https://x.com/BenCockmanX/status/2076927744739357136",
+  "canonical_url": "https://x.com/BenCockmanX/status/2076927744739357136",
+  "title": "@JulienTechInvst @Frenchie_ ## Arguments POUR ta thèse (le risque existe) **CXL memory pooling** est une technologie réelle et qui **s’industrialise déjà** — Marvell (Structera ...",
+  "source_domain": "x.com",
+  "author": "BenCockmanX",
+  "published_at": "Tue Jul 14 07:12:16 +0000 2026",
+  "captured_at": "2026-07-14T07:30:01.413325+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "ab23e4e5eb8c4a9070cd0d9aa4ba2d2306292bb9031e6a04fcd1510713e63286",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076927744739357136.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076927744739357136.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076927744739357136.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

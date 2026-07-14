@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076879852909609019",
+  "capture_type": "post",
+  "url": "https://x.com/paurooteri/status/2076879852909609019",
+  "canonical_url": "https://x.com/paurooteri/status/2076879852909609019",
+  "title": "CXL ついについに来ますか Meta社によるCXL技術の導入と、Phison社が享受する可能性のあるメリットが期待されている。 Meta社は、自社開発のVistara ASICを通じて、旧型サーバーとともに廃棄されたDDR4メモリを、CXLインターフェースを介してDDR5のみをサポートする新世代サーバーに再接続することに成功しました。これにより、既存...",
+  "source_domain": "x.com",
+  "author": "paurooteri",
+  "published_at": "Tue Jul 14 04:01:58 +0000 2026",
+  "captured_at": "2026-07-14T04:30:01.223496+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "f78188859dc48936039271e3a35d0156384afb2fc2cb65e9927348acf2ae912b",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076879852909609019.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076879852909609019.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076879852909609019.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

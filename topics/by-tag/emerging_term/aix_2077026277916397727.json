@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077026277916397727",
+  "capture_type": "post",
+  "url": "https://x.com/hukugyootaku/status/2077026277916397727",
+  "canonical_url": "https://x.com/hukugyootaku/status/2077026277916397727",
+  "title": "メモリ半導体市場のリサーチとかどうやってますか？との事ですが。 本とかnoteは買わずに僕はこんな感じで。これが無料なのが恐ろしい。半導体投資リサーチAI☟ マイクロン・Sandisk・SK hynix・キオクシアとDRAM／NAND市況の上昇余地を徹底分析する完成版プロンプト あなたは、実行日時点の最新Web情報、企業IR、決算資料、有価証券報告書、...",
+  "source_domain": "x.com",
+  "author": "hukugyootaku",
+  "published_at": "Tue Jul 14 13:43:48 +0000 2026",
+  "captured_at": "2026-07-14T14:00:01.301450+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "18f39c3bc5c8b24e220db11304d06827f94fbe3d2a34fd2740dcbb00cf565150",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2077026277916397727.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2077026277916397727.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2077026277916397727.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

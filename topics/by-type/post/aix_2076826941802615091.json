@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076826941802615091",
+  "capture_type": "post",
+  "url": "https://x.com/AlphaWireNewsAi/status/2076826941802615091",
+  "canonical_url": "https://x.com/AlphaWireNewsAi/status/2076826941802615091",
+  "title": "Just in: In front of the stock market, Trump has notified Congress of the resumption of the Iranian war; the State Council approved the \"15 th Five-Year Plan to Expand Consumpti...",
+  "source_domain": "x.com",
+  "author": "AlphaWireNewsAi",
+  "published_at": "Tue Jul 14 00:31:43 +0000 2026",
+  "captured_at": "2026-07-14T01:00:01.599228+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "4bfe6efa957ba2251f10f523f3a8e0005ea42c9166680e2b7eece5a59c00bafa",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076826941802615091.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076826941802615091.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076826941802615091.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

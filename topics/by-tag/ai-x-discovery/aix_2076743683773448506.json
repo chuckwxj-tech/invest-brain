@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076743683773448506",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2076743683773448506",
+  "canonical_url": "https://x.com/pequityresearch/status/2076743683773448506",
+  "title": "JPMorgan Analyzes Taiwan Semiconductor: CoWoS Shortfall Widens to 20%, AI CPUs Take Over from GPUs Public disclosures from Taiwan Semiconductor confirm a continuous expansion of...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Mon Jul 13 19:00:52 +0000 2026",
+  "captured_at": "2026-07-13T19:30:01.841434+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "909c1c8c627c06dd513af4cf175d5a654eb88951220da5e0ca8a843356d955df",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076743683773448506.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076743683773448506.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076743683773448506.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

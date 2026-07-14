@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077077896418693458",
+  "capture_type": "post",
+  "url": "https://x.com/itsmichaelluu/status/2077077896418693458",
+  "canonical_url": "https://x.com/itsmichaelluu/status/2077077896418693458",
+  "title": "According to $IBM, $MU should spike to $2000+ These are $IBM CEO exact words: \"In the last few weeks of June, we saw clients shift their quarterly capex spend toward servers, st...",
+  "source_domain": "x.com",
+  "author": "itsmichaelluu",
+  "published_at": "Tue Jul 14 17:08:55 +0000 2026",
+  "captured_at": "2026-07-14T17:30:01.457348+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "2e071d3567fa5fe03999fce83be5351d5a06467c1e57f44a36139a1eb6eafa89",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077077896418693458.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077077896418693458.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077077896418693458.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

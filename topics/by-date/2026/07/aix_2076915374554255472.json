@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2076915374554255472",
+  "capture_type": "post",
+  "url": "https://x.com/antfeedapp/status/2076915374554255472",
+  "canonical_url": "https://x.com/antfeedapp/status/2076915374554255472",
+  "title": "THE HBM BONDING LEADER: HANMI SEMICONDUCTOR DELIVERS RECORD REVENUE AND 51.9% MARGINS TLDR: Hanmi Semiconductor posted record quarterly revenue as demand surged for HBM TC bonde...",
+  "source_domain": "x.com",
+  "author": "antfeedapp",
+  "published_at": "Tue Jul 14 06:23:07 +0000 2026",
+  "captured_at": "2026-07-14T06:30:01.609900+00:00",
+  "storage_date": "2026-07-14",
+  "content_hash": "ed08185c85f35487cc35d69839be0f681dd9346467924a6b325d1e532773b436",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076915374554255472.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076915374554255472.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-14/aix_2076915374554255472.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
