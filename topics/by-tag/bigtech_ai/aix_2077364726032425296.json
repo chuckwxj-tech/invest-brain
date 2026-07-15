@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077364726032425296",
+  "capture_type": "post",
+  "url": "https://x.com/MoneyCode10x/status/2077364726032425296",
+  "canonical_url": "https://x.com/MoneyCode10x/status/2077364726032425296",
+  "title": "🚨If you’re holding $MU or $SNDK, or already positioning into $MRVL or $ALAB, this one’s worth reading in full. ⠀ $MU ⠀ $SNDK ⠀ $MRVL ⠀ $ALAB ⠀ 🔍Over the past two weeks I met int...",
+  "source_domain": "x.com",
+  "author": "MoneyCode10x",
+  "published_at": "Wed Jul 15 12:08:40 +0000 2026",
+  "captured_at": "2026-07-15T12:30:01.560563+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "ee2895e96222c293116b5e11d1f1836a9ef345e675eb348f213fdef480e2ec4d",
+  "tags": [
+    "ai-x-discovery",
+    "bigtech_ai",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077364726032425296.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077364726032425296.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077364726032425296.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "bigtech_ai",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

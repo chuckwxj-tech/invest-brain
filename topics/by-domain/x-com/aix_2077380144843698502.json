@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077380144843698502",
+  "capture_type": "post",
+  "url": "https://x.com/Rocky_Bitcoin/status/2077380144843698502",
+  "canonical_url": "https://x.com/Rocky_Bitcoin/status/2077380144843698502",
+  "title": "最近这几天的市场回调，我知道让不少兄弟心里打起了退堂鼓。甚至有人开始怀疑，这一轮AI浪潮是不是已经到了“泡沫破裂”的节点？🧐 但我的回答斩钉截铁：这绝非终点，反而是今年最黄金的一次“黄金坑”抄底机会。虽然昨晚因为纽约州禁止建设数据中心这件事，让我错过了最佳的抄底时间，但今天盘前我已经加了一半仓位！ 接下来，我讲讲一些思考的底层逻辑，结合 $ASML Q...",
+  "source_domain": "x.com",
+  "author": "Rocky_Bitcoin",
+  "published_at": "Wed Jul 15 13:09:57 +0000 2026",
+  "captured_at": "2026-07-15T14:00:01.290029+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "11c6c41346dee015f57c7672e39931c25e8f4401e0b6b9654bd35f9f5eb835d4",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077380144843698502.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077380144843698502.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077380144843698502.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

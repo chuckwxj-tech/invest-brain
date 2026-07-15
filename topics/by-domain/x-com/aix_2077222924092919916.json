@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077222924092919916",
+  "capture_type": "post",
+  "url": "https://x.com/BestBlogsDev/status/2077222924092919916",
+  "canonical_url": "https://x.com/BestBlogsDev/status/2077222924092919916",
+  "title": "BestBlogs Daily · 07-15 # Qwen 3.5-397B / Ironwood TPU / Airbnb LLM evaluation / NVIDIA reasoning challenge / open-weight model economics [1] ★ Deep Dive · Systems Engineering P...",
+  "source_domain": "x.com",
+  "author": "BestBlogsDev",
+  "published_at": "Wed Jul 15 02:45:12 +0000 2026",
+  "captured_at": "2026-07-15T03:30:02.053010+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "212c4ae05fb306948250021e607673772852604c77a950d57b5a9509f539e4bf",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077222924092919916.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077222924092919916.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077222924092919916.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

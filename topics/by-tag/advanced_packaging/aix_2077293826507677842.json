@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077293826507677842",
+  "capture_type": "post",
+  "url": "https://x.com/dnystedt/status/2077293826507677842",
+  "canonical_url": "https://x.com/dnystedt/status/2077293826507677842",
+  "title": "TSMC 2nd quarter (Q2) conference on Thursday (7/16), media report expectations: Q2 revenue NT$1.27 trillion (already known, US$ not known) -Net profit seen up 59% to NT$632.6 bi...",
+  "source_domain": "x.com",
+  "author": "dnystedt",
+  "published_at": "Wed Jul 15 07:26:57 +0000 2026",
+  "captured_at": "2026-07-15T08:00:01.585847+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "8b6ff11587c444a6c4dac80a86f2004af0ffe23eee8df19366f16b2dfc9ee098",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077293826507677842.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077293826507677842.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077293826507677842.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

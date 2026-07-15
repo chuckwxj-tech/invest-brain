@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077363549517832283",
+  "capture_type": "post",
+  "url": "https://x.com/aidata8888/status/2077363549517832283",
+  "canonical_url": "https://x.com/aidata8888/status/2077363549517832283",
+  "title": "【台积电SoIC先进封装进入扩产周期】 1、BofA预计，台积电SoIC产能将于2026年第四季度达到约2万片/月，并在2027年第四季度进一步扩张至3.5万片/月。对应季度产能（WPQ）将由2026年初约3.5万片提升至2028年底约15万片，先进3D封装进入快速扩产阶段。 2、尽管产能持续增加，SoIC需求同步增长。图中显示，2028年第四季度需求...",
+  "source_domain": "x.com",
+  "author": "aidata8888",
+  "published_at": "Wed Jul 15 12:04:00 +0000 2026",
+  "captured_at": "2026-07-15T13:00:01.269251+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "8436fb1250c7d0d8a2318a6f4e3738bbc861f46d6374b49828a0e46e43a65bfd",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077363549517832283.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077363549517832283.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077363549517832283.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

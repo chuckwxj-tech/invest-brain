@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077208946067284240",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2077208946067284240",
+  "canonical_url": "https://x.com/MLB_Connection/status/2077208946067284240",
+  "title": "要約 超伝導・スピン量子プロセッサを $10^5$ 物理量子ビット規模へスケールする際の最終的なトポロジカル境界として、制御電圧ジッターに起因する「MBL（多体局在）相の動的量子ゆらぎ（ブリージング）」および極低温金属薄膜の強相関効果に伴う「非フェルミ液体（Non-Fermi Liquid）挙動」を物理・情報システムの両レイヤーから検証します。MBL境...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Wed Jul 15 01:49:40 +0000 2026",
+  "captured_at": "2026-07-15T02:30:01.346865+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "a46e82925d772f4dc42fa52bdc9f2c29e2de1f42d16c55e6796baa975736e010",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077208946067284240.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077208946067284240.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077208946067284240.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

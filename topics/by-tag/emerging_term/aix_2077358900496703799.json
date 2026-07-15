@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077358900496703799",
+  "capture_type": "post",
+  "url": "https://x.com/statementdog/status/2077358900496703799",
+  "canonical_url": "https://x.com/statementdog/status/2077358900496703799",
+  "title": "If you own $NVDA or $AVGO, the CPO ramp runs through a component most investors have never heard of: the FAU (fiber array unit). Right now, FAUs for CPO are ~100% single-sourced...",
+  "source_domain": "x.com",
+  "author": "statementdog",
+  "published_at": "Wed Jul 15 11:45:31 +0000 2026",
+  "captured_at": "2026-07-15T12:00:01.761354+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "697aad80876fbacf6b492e44563678ee93683377415270566cb39af18757381e",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077358900496703799.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077358900496703799.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077358900496703799.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

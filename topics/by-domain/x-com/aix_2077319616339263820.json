@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077319616339263820",
+  "capture_type": "post",
+  "url": "https://x.com/babybluecream/status/2077319616339263820",
+  "canonical_url": "https://x.com/babybluecream/status/2077319616339263820",
+  "title": "AI 광연결 공급망, 원인과 결과로 다시 읽기ㅣ260715 1. 이번엔 왜 이 종목들이 한 흐름으로 묶이는지 인과로 풀어봄. 소재→장비→기판→생산→광원→엔진→실리콘→스위치로 이어지는 사슬이고, 각 칸이 앞 칸의 결과를 받아 다음 칸으로 넘김. 그래서 한 곳이 막히면 전체가 막힘. 2. 출발점은 단순함. 데이터가 너무...",
+  "source_domain": "x.com",
+  "author": "babybluecream",
+  "published_at": "Wed Jul 15 09:09:25 +0000 2026",
+  "captured_at": "2026-07-15T10:00:01.641675+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "95a0c0d138e9024588f70498119f73b638a2b921c0a2d55fb1f5535f4346193a",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077319616339263820.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077319616339263820.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077319616339263820.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

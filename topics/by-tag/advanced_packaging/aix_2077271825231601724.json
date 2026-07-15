@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077271825231601724",
+  "capture_type": "post",
+  "url": "https://x.com/leoliang7285/status/2077271825231601724",
+  "canonical_url": "https://x.com/leoliang7285/status/2077271825231601724",
+  "title": "我继续追问：这些制约硬件对应的股票行业龙头 genini回复： 针对前文梳理的四项硬件制约瓶颈，在股票市场上，对应的行业龙头（美股、台股及部分亚太市场）呈现出高度集中的寡头垄断格局。 以下是对应四大制约瓶颈的行业核心龙头、市场地位及实战投资视角的分析： 1. 内存墙（Memory Wall）—— 对应行业：HBM 与先进存储芯片 大模型推理极度依赖 H...",
+  "source_domain": "x.com",
+  "author": "leoliang7285",
+  "published_at": "Wed Jul 15 05:59:31 +0000 2026",
+  "captured_at": "2026-07-15T07:00:01.515169+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "a34ab3065df84b3a5d97e0a186c24b67d014fa7b90e305c36c3f0b4a32a7baa7",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077271825231601724.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077271825231601724.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077271825231601724.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077208331496951903",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2077208331496951903",
+  "canonical_url": "https://x.com/MLB_Connection/status/2077208331496951903",
+  "title": "要約 10万物理量子ビット規模の極限環境において、隣接スピン間の「交換相互作用（Exchange Coupling）」と疑似重力接続が非線形に混成し、多体エンタングルメントを介して幾何学的ジッターが非局所的に高速伝播するリスクが同定されました。また、過渡フォノンを捕獲するフォノニック・ブラックホール（PBH）中心部の常伝導金（Au）電子浴における、極低...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Wed Jul 15 01:47:13 +0000 2026",
+  "captured_at": "2026-07-15T02:30:01.346865+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "b713c53f50be73dfb68b8007fd94f225373ead7f32071d19dbbe9e0e5dfde89e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077208331496951903.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077208331496951903.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077208331496951903.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

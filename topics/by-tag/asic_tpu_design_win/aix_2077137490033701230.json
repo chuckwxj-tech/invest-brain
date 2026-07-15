@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077137490033701230",
+  "capture_type": "post",
+  "url": "https://x.com/edge_of_power/status/2077137490033701230",
+  "canonical_url": "https://x.com/edge_of_power/status/2077137490033701230",
+  "title": "Goldman Sachs projects that SiPh penetration in the datacom market will increase nearly 8x, from 6% in 1Q24 to 46% in 4Q28E, driven by the adoption of new hardware architectures...",
+  "source_domain": "x.com",
+  "author": "edge_of_power",
+  "published_at": "Tue Jul 14 21:05:43 +0000 2026",
+  "captured_at": "2026-07-14T21:30:01.770218+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "415995d1c677202832f14dc57aee61c525dea1287dfb1a9f72ba2accfa985714",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077137490033701230.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077137490033701230.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077137490033701230.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077264899122802882",
+  "capture_type": "post",
+  "url": "https://x.com/sotoRsmith/status/2077264899122802882",
+  "canonical_url": "https://x.com/sotoRsmith/status/2077264899122802882",
+  "title": "韬定律 + 先进封装主线复盘｜通富微电业绩大超预期 一、盘面环境：科技板块二次冰点后迎来普反 市场情绪：前期科技赛道快速深度回调，昨日二次冰点探明支撑，上证站稳 3850 点支撑，全天成交 2.7 万亿，近 4000 只个股上涨，AI 硬件全线修复。 核心修复主线：CPO 光模块、算力 PCB、半导体先进封装、铜箔 / 电子布等算力硬件业绩兑现方向。 ...",
+  "source_domain": "x.com",
+  "author": "sotoRsmith",
+  "published_at": "Wed Jul 15 05:32:00 +0000 2026",
+  "captured_at": "2026-07-15T06:00:01.875865+00:00",
+  "storage_date": "2026-07-15",
+  "content_hash": "9f80dc910f4db0fc9bec043cef0aefaf6d57a9d628771bcb7de53e279a62ee71",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077264899122802882.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077264899122802882.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-15/aix_2077264899122802882.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
