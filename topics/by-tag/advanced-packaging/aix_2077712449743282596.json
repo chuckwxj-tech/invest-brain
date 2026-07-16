@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077712449743282596",
+  "capture_type": "post",
+  "url": "https://x.com/K_Securities/status/2077712449743282596",
+  "canonical_url": "https://x.com/K_Securities/status/2077712449743282596",
+  "title": "👨🏻‍💼ผู้บริหาร TSMC มองภาพการลงทุนด้าน AI ยังคงแข็งแกร่งต่อเนื่อง C.C. Wei มองว่า CAEPX ใน 3 ปีข้างหน้าของ TSMC จะสูงกว่า 3 ปีที่ผ่านมาอย่างมีนัยสำคัญ หรือมากกว่า USD100bn (2023-...",
+  "source_domain": "x.com",
+  "author": "K_Securities",
+  "published_at": "Thu Jul 16 11:10:24 +0000 2026",
+  "captured_at": "2026-07-16T12:00:02.087336+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "4c7e8a8d5d16d1079aa8cf5916c10e7e34ec3323d56e708571803bdc24da858b",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077712449743282596.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077712449743282596.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077712449743282596.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

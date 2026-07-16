@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077706311882752489",
+  "capture_type": "post",
+  "url": "https://x.com/superposition_V/status/2077706311882752489",
+  "canonical_url": "https://x.com/superposition_V/status/2077706311882752489",
+  "title": "3. 대만 위험은 침공 하나로 설명되지 않는다 TSMC를 평가할 때 흔히 등장하는 질문은 \"중국이 대만을 침공할 것인가\"다. 하지만 기업에 실제로 영향을 주는 위험은 훨씬 넓다. 첫 번째 위험은 이미 발생하고 있는 수출통제다. 미국은 첨단 AI 칩과 HBM, 반도체 장비와 소프트웨어의 중국 수출을 제한하고 있다. 이...",
+  "source_domain": "x.com",
+  "author": "superposition_V",
+  "published_at": "Thu Jul 16 10:46:01 +0000 2026",
+  "captured_at": "2026-07-16T11:00:01.982941+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "9d781608b1d3e12c71592a2908260f258e262c1104b524ec794b21dcea7413c8",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077706311882752489.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077706311882752489.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077706311882752489.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

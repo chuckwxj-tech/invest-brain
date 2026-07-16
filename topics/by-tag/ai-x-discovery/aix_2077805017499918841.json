@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077805017499918841",
+  "capture_type": "post",
+  "url": "https://x.com/ebp8k/status/2077805017499918841",
+  "canonical_url": "https://x.com/ebp8k/status/2077805017499918841",
+  "title": "🔶【決算まとめ】 TSMC、4指標が全面上振れ AI需要は無尽蔵、業績の天井を決めるのは生産能力 ✅ 台湾セミコンダクター・マニュファクチャリングの2026年4〜6月期決算は、人工知能（AI）向け半導体需要の強さを改めて示した。 焦点は需要の有無ではない。 2ナノ、3ナノの先端プロセスと、CoWoSを中心とする先端パッケージングの供給能力を、どこまで迅...",
+  "source_domain": "x.com",
+  "author": "ebp8k",
+  "published_at": "Thu Jul 16 17:18:14 +0000 2026",
+  "captured_at": "2026-07-16T17:30:02.153491+00:00",
+  "storage_date": "2026-07-17",
+  "content_hash": "5b28a0171e5fc0f706ba4d38e909a87cfb5611a5ffa20b3e2609f40f32f9d40f",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077805017499918841.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077805017499918841.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077805017499918841.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

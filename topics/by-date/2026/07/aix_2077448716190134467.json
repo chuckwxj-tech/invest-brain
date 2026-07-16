@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077448716190134467",
+  "capture_type": "post",
+  "url": "https://x.com/JoeAnima/status/2077448716190134467",
+  "canonical_url": "https://x.com/JoeAnima/status/2077448716190134467",
+  "title": "1/ 美联储主席凯文·沃什今天在参议院听证会上的核心表态 2/ 最核心原文（与参议员Jack Reed交流，全段直引）： “The supply shock of AI has an effect on demand and supply. We see the effect on demand much more quickly. We see it...",
+  "source_domain": "x.com",
+  "author": "JoeAnima",
+  "published_at": "Wed Jul 15 17:42:25 +0000 2026",
+  "captured_at": "2026-07-15T18:30:01.972857+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "956a267845acb5c1e6093b8ed458c875d8403733ed2ac5ce018092a9b14db4ec",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077448716190134467.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077448716190134467.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077448716190134467.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

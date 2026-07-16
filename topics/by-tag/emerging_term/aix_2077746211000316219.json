@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077746211000316219",
+  "capture_type": "post",
+  "url": "https://x.com/WilliamGKubik/status/2077746211000316219",
+  "canonical_url": "https://x.com/WilliamGKubik/status/2077746211000316219",
+  "title": "Celkový trh s AI ASIC čipy čeká podle dat #Mizuho masivní expanze. Celkové dodávky se mají zvýšit ze 4,1 milionu kusů v roce 2025 na 24,0 milionů kusů v roce 2028. #Google Očeká...",
+  "source_domain": "x.com",
+  "author": "WilliamGKubik",
+  "published_at": "Thu Jul 16 13:24:34 +0000 2026",
+  "captured_at": "2026-07-16T14:30:01.436342+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "f8a6309b84233ca6a48efd46e925c8ff59c771e442d9d44c36ebe2f4e1659a99",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077746211000316219.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077746211000316219.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077746211000316219.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

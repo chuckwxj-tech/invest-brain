@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077743456257188001",
+  "capture_type": "post",
+  "url": "https://x.com/jimmyhuli/status/2077743456257188001",
+  "canonical_url": "https://x.com/jimmyhuli/status/2077743456257188001",
+  "title": "$NVDA $MRVL AI Hyperscalers 已从\"建设\"阶段转入\"变现\"阶段，瓶颈随之转移。关键不再是有多少算力，而是每瓦电能跑出多少 token。 Memory wall 在扩大，不是在收窄： - 过去 20 年，Peak FLOPs 每两年 +3x，但 memory bandwidth 只 +1.6x，capacity 只 +2x - ...",
+  "source_domain": "x.com",
+  "author": "jimmyhuli",
+  "published_at": "Thu Jul 16 13:13:37 +0000 2026",
+  "captured_at": "2026-07-16T13:30:01.242851+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "8a54b870e7d1f238cc6792ff86d5c0ea4bb2128865e230a5975fcea2296a3976",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077743456257188001.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077743456257188001.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077743456257188001.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077755134696976838",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2077755134696976838",
+  "canonical_url": "https://x.com/pequityresearch/status/2077755134696976838",
+  "title": "UBS: Materials Sector Following a stock price correction, market focus is shifting toward products with strong price-hike visibility. UBS ranks the visibility of price hikes in ...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Thu Jul 16 14:00:01 +0000 2026",
+  "captured_at": "2026-07-16T14:30:01.436342+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "d0fe146d4bd2cbc28142f22a1bcde5564b4ee3eb637d0533d5d776084deb657a",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077755134696976838.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077755134696976838.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077755134696976838.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

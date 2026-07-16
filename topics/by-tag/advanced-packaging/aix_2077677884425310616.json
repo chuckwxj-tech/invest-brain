@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077677884425310616",
+  "capture_type": "post",
+  "url": "https://x.com/tsungrow/status/2077677884425310616",
+  "canonical_url": "https://x.com/tsungrow/status/2077677884425310616",
+  "title": "$TSM TSMC 様の今回の決算は，売上・利益率・設備投資を同時に引き上げた，かなり強烈な内容🚀 2Q26売上$40.20B 前年比+33.7% 純利益NT$706.56B 前年比+77.4% 粗利益率は67.7% 営業利益率は60.3% 純利益率は55.6%（ﾓﾉｽｯｺﾞ上昇中！！） 巨大工場を抱える製造企業様で，売上の半分以上が純利益として残るな...",
+  "source_domain": "x.com",
+  "author": "tsungrow",
+  "published_at": "Thu Jul 16 08:53:03 +0000 2026",
+  "captured_at": "2026-07-16T09:00:01.388330+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "f217308e8ff95462152c53309a93ef42c238227d737d8991fc72f9ec9403696f",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077677884425310616.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077677884425310616.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077677884425310616.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

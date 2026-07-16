@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077661254026395756",
+  "capture_type": "post",
+  "url": "https://x.com/MintMin23358411/status/2077661254026395756",
+  "canonical_url": "https://x.com/MintMin23358411/status/2077661254026395756",
+  "title": "2026年7月15日盤後復盤 【核心總結】 2026年7月16日台股呈現「指數震盪、題材熱炒」格局。當前屬於典型的「短線接力與機構抱團並存」行情，賺錢效應極度集中於「矽光子與AI機器人」雙主線。外資與投信在權值股控盤穩住大盤，游資則在中小板塊大肆點火。首板與連板梯隊完整，但高位股情緒分歧開始加大。未來一至兩個月，伴隨半年報財報季到來，具備實質EPS業績...",
+  "source_domain": "x.com",
+  "author": "MintMin23358411",
+  "published_at": "Thu Jul 16 07:46:58 +0000 2026",
+  "captured_at": "2026-07-16T08:00:01.787053+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "49ac013fdd028262975f7f9677b50a44b389082dffdeb3eaac1eb1b9bb8bb4b5",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077661254026395756.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077661254026395756.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077661254026395756.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

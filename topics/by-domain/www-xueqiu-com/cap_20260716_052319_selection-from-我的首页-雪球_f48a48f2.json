@@ -1,0 +1,26 @@
+{
+  "id": "f48a48f2-5c67-4521-b561-8ee77063a7d1",
+  "capture_type": "selection",
+  "url": "https://www.xueqiu.com/#/?t=1784178925440",
+  "canonical_url": null,
+  "title": "Selection from: 我的首页 - 雪球",
+  "source_domain": "www.xueqiu.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-07-16T05:23:19.514203+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "570dc417aeb7ad918244d4bedc6c582040f7cecc1e23deb10613032ecc4920f1",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "fuzzy_warn",
+  "duplicate_of": "db73b754-02df-4072-a026-6f4d6c81cf4f",
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/cap_20260716_052319_selection-from-我的首页-雪球_f48a48f2.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/cap_20260716_052319_selection-from-我的首页-雪球_f48a48f2.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/cap_20260716_052319_selection-from-我的首页-雪球_f48a48f2.analysis_prompt.md"
+  }
+}

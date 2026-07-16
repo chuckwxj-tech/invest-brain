@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077669107399545111",
+  "capture_type": "post",
+  "url": "https://x.com/statementdog/status/2077669107399545111",
+  "canonical_url": "https://x.com/statementdog/status/2077669107399545111",
+  "title": "TSMC $TSM raised everything today: full-year revenue growth guidance from 30%+ to slightly above 40%, capex from $52–56B to $60–64B, and its US commitment by another $100B. Five...",
+  "source_domain": "x.com",
+  "author": "statementdog",
+  "published_at": "Thu Jul 16 08:18:11 +0000 2026",
+  "captured_at": "2026-07-16T09:00:01.388330+00:00",
+  "storage_date": "2026-07-16",
+  "content_hash": "451f70737df64b8b9c0b134e6681b879a2fd77f14a4483c7b9fbfc8085f7fcdc",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077669107399545111.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077669107399545111.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-16/aix_2077669107399545111.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
