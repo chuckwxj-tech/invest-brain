@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077926220336075126",
+  "capture_type": "post",
+  "url": "https://x.com/p_sasa27/status/2077926220336075126",
+  "canonical_url": "https://x.com/p_sasa27/status/2077926220336075126",
+  "title": "先进封测混合键合核心股票梳理 一、 核心设备端 1. 拓荆科技：国产混合键合设备绝对龙头。其W2W（晶圆对晶圆）混合键合设备Dione 300已实现量产并获重复订单，深度绑定国内封装龙头。 2. 北方华创：推出12英寸D2W（芯片对晶圆）混合键合设备Qomola HPD30，并通过收购芯源微进一步补齐键合设备短板，TSV刻蚀电镀平台协同效应强。 3. ...",
+  "source_domain": "x.com",
+  "author": "p_sasa27",
+  "published_at": "Fri Jul 17 01:19:51 +0000 2026",
+  "captured_at": "2026-07-17T02:00:01.337139+00:00",
+  "storage_date": "2026-07-17",
+  "content_hash": "62d9c4e1aba64aed5170500648d6e481b4ac13345ebfec67280f0047d0c3e92f",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077926220336075126.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077926220336075126.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077926220336075126.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

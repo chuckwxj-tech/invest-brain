@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078144948571144515",
+  "capture_type": "post",
+  "url": "https://x.com/tengyanAI/status/2078144948571144515",
+  "canonical_url": "https://x.com/tengyanAI/status/2078144948571144515",
+  "title": "DRAM has become the main constraint on PENG’s upside. That’s bullish because demand is no longer the bottleneck. Management disclosed an enterprise generative AI customer deploy...",
+  "source_domain": "x.com",
+  "author": "tengyanAI",
+  "published_at": "Fri Jul 17 15:49:00 +0000 2026",
+  "captured_at": "2026-07-17T16:00:01.269677+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "6739c5ae24bc2e8955134d7b8d7d57086b1b3903dde1e8cb2f6b66adc681df63",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078144948571144515.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078144948571144515.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078144948571144515.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

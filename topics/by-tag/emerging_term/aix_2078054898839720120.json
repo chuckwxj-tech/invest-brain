@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078054898839720120",
+  "capture_type": "post",
+  "url": "https://x.com/sssjeffpu/status/2078054898839720120",
+  "canonical_url": "https://x.com/sssjeffpu/status/2078054898839720120",
+  "title": "Abstract of MRVL (Buy) Earnings Preview, QCOM (Hold) Initiation MRVL (Buy) Earnings Preview 🚀 •Maintain Buy & $280 TP •F2Q27E: Expect +12% QoQ revenue, ~59% non-GAAP GM (vs. Str...",
+  "source_domain": "x.com",
+  "author": "sssjeffpu",
+  "published_at": "Fri Jul 17 09:51:10 +0000 2026",
+  "captured_at": "2026-07-17T10:30:01.282499+00:00",
+  "storage_date": "2026-07-17",
+  "content_hash": "0f5a346a61633d47e5c8186ffc48fa0a5c934bde586be4adc4dfcb4d3ee17472",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078054898839720120.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078054898839720120.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078054898839720120.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

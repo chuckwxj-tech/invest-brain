@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078100446938636751",
+  "capture_type": "post",
+  "url": "https://x.com/yijiangren/status/2078100446938636751",
+  "canonical_url": "https://x.com/yijiangren/status/2078100446938636751",
+  "title": "别 FOMO 存储了，去看看【光】 最近我的社群里，所有人的注意力几乎都在存储。 $MU 能不能抄底， $SNDK 会不会反弹，海力士还能不能做空。 每天翻来覆去，还是 DRAM、NAND、HBM。 存储没有失去逻辑。 AI服务器仍然需要更大的内存容量，HBM也仍然是高端GPU最重要的配套之一。 只是在经过一轮价格上涨、盈利上修和股价重估以后，存储已经...",
+  "source_domain": "x.com",
+  "author": "yijiangren",
+  "published_at": "Fri Jul 17 12:52:10 +0000 2026",
+  "captured_at": "2026-07-17T13:00:01.509232+00:00",
+  "storage_date": "2026-07-17",
+  "content_hash": "07fee48070322b90084f49a50572ec9b159110f7aa792eaf1d81c9c68338de15",
+  "tags": [
+    "ai-x-discovery",
+    "cn_hardware_signal",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078100446938636751.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078100446938636751.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078100446938636751.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cn_hardware_signal",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

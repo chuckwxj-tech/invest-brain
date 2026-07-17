@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078077875937263732",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2078077875937263732",
+  "canonical_url": "https://x.com/TheValueist/status/2078077875937263732",
+  "title": "WAICO AND THE EMERGING AI GOVERNANCE ARCHITECTURE WAICO is described in the founding agreement as an independent intergovernmental international organization headquartered in Sh...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Fri Jul 17 11:22:29 +0000 2026",
+  "captured_at": "2026-07-17T12:00:01.343108+00:00",
+  "storage_date": "2026-07-17",
+  "content_hash": "cec6df1839ffb770d2a1ca3f4d284c8550b1cead06c9ae852709f6bef40b3992",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078077875937263732.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078077875937263732.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2078077875937263732.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

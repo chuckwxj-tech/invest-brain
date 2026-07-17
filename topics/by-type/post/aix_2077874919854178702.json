@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2077874919854178702",
+  "capture_type": "post",
+  "url": "https://x.com/itsmichaelluu/status/2077874919854178702",
+  "canonical_url": "https://x.com/itsmichaelluu/status/2077874919854178702",
+  "title": "1. $AMD ~$1200 The \"legit second source\" to $NVDA. Agentic AI is CPU-heavy, and EPYC owns that lane every step up the AI stack adds general-compute demand. Catalysts stacked: Ad...",
+  "source_domain": "x.com",
+  "author": "itsmichaelluu",
+  "published_at": "Thu Jul 16 21:56:00 +0000 2026",
+  "captured_at": "2026-07-16T23:00:01.799304+00:00",
+  "storage_date": "2026-07-17",
+  "content_hash": "a30cb01f4f6d401603ca0ac5ff2c97428f3a53a2e0efb5e81cb169db954daa7b",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077874919854178702.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077874919854178702.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-17/aix_2077874919854178702.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
