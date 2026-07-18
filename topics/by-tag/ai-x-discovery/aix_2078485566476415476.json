@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078485566476415476",
+  "capture_type": "post",
+  "url": "https://x.com/MelvinInvests/status/2078485566476415476",
+  "canonical_url": "https://x.com/MelvinInvests/status/2078485566476415476",
+  "title": "Marvell will become a trillion dollar company and here is exactly why (Save this). Morgan Stanley now expects the CXL memory controller (MXC) chip market to hit $2.1 billion by ...",
+  "source_domain": "x.com",
+  "author": "MelvinInvests",
+  "published_at": "Sat Jul 18 14:22:30 +0000 2026",
+  "captured_at": "2026-07-18T15:00:02.014247+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "f07521eb293551debb0b3c7f323754dda4734beac457c3eacedee7b502c8d213",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078485566476415476.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078485566476415476.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078485566476415476.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

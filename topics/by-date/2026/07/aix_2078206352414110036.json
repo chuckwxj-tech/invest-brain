@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078206352414110036",
+  "capture_type": "post",
+  "url": "https://x.com/crux_capital_/status/2078206352414110036",
+  "canonical_url": "https://x.com/crux_capital_/status/2078206352414110036",
+  "title": "Alright, let's start with $VIAV Market cap: ~$9.2B Next-quarter guide: ~$432M (+6.2% QoQ, +48.7% YoY) Next-12M revenue: $1.80-1.95B, 32-43% growth Exit margins: 63-64.5% gross, ...",
+  "source_domain": "x.com",
+  "author": "crux_capital_",
+  "published_at": "Fri Jul 17 19:53:00 +0000 2026",
+  "captured_at": "2026-07-17T20:00:01.528043+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "ad6f549b5f6025568801d66d6d13a3f2f4dcf88c342a9120f6f76007d837d875",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078206352414110036.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078206352414110036.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078206352414110036.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

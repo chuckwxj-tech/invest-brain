@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078352709405835759",
+  "capture_type": "post",
+  "url": "https://x.com/CompaCompu/status/2078352709405835759",
+  "canonical_url": "https://x.com/CompaCompu/status/2078352709405835759",
+  "title": "The WF6 shortage bottlenecks all 3 pillars of AI data centers: storage (NAND), memory (HBM), and compute (Logic GPUs).",
+  "source_domain": "x.com",
+  "author": "CompaCompu",
+  "published_at": "Sat Jul 18 05:34:34 +0000 2026",
+  "captured_at": "2026-07-18T06:00:01.875907+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "aed7c9d2a2477cc6b3134b119f9e9edc25362bfff36cdf9144fcb90eedfd61c7",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078352709405835759.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078352709405835759.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078352709405835759.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

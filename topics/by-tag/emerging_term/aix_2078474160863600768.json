@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078474160863600768",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2078474160863600768",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2078474160863600768",
+  "title": "Korean materials and equipment companies are accelerating copper bonding technology for glass substrates. As AI chip glass substrates gain traction (mass production eyed for 202...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Sat Jul 18 13:37:10 +0000 2026",
+  "captured_at": "2026-07-18T14:00:01.893794+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "c4cb99133a9fa9c754e6d63fdd567232f81b65ac7815ee89293ffe61eb4ceaba",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078474160863600768.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078474160863600768.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078474160863600768.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

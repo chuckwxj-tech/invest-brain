@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078448409820672291",
+  "capture_type": "post",
+  "url": "https://x.com/man26uel/status/2078448409820672291",
+  "canonical_url": "https://x.com/man26uel/status/2078448409820672291",
+  "title": "New day, new $SHMD dilution SEC files. But let's check the details: SHMD has 65,675,726 shares outstanding. Under the full dilution scenario the share count jumps to 130,090,622...",
+  "source_domain": "x.com",
+  "author": "man26uel",
+  "published_at": "Sat Jul 18 11:54:51 +0000 2026",
+  "captured_at": "2026-07-18T12:00:01.613148+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "6e31340240fbf2ea85d42ffdbe84bd7c54942851e1583081c967f54ad3a498f4",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078448409820672291.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078448409820672291.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078448409820672291.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

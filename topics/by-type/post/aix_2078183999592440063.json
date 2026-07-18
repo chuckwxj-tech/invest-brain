@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078183999592440063",
+  "capture_type": "post",
+  "url": "https://x.com/Kay2289123/status/2078183999592440063",
+  "canonical_url": "https://x.com/Kay2289123/status/2078183999592440063",
+  "title": "如果你投 $MRVL 至少 1 美元，不要只说一些虚的、空的，要扎实地理解它的业务、营收和占比，以及未来的产品方向。投了多年，我应该是在中文 Twitter 里对 Marvell 有顶尖了解的人之一 8 月 25 到 27 日，有一个 企业AI 产业峰会。 $MRVL CEO Matt Murphy 是 8 月 26 日、Day 2 的开场嘉宾，我会注...",
+  "source_domain": "x.com",
+  "author": "Kay2289123",
+  "published_at": "Fri Jul 17 18:24:10 +0000 2026",
+  "captured_at": "2026-07-17T19:00:01.572882+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "926eb2d35491a63174ab80e711847ed17aa7c673dde88bbe7dceb9aedaf45a0e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078183999592440063.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078183999592440063.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078183999592440063.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

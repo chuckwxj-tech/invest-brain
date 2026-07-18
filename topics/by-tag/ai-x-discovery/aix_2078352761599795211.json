@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078352761599795211",
+  "capture_type": "post",
+  "url": "https://x.com/CompaCompu/status/2078352761599795211",
+  "canonical_url": "https://x.com/CompaCompu/status/2078352761599795211",
+  "title": "Kioxia &amp; 3D NAND: WF6 is critical for 200+ layer NAND. 70-90% gas price hikes mean higher costs for high-capacity enterprise AI SSDs.",
+  "source_domain": "x.com",
+  "author": "CompaCompu",
+  "published_at": "Sat Jul 18 05:34:46 +0000 2026",
+  "captured_at": "2026-07-18T06:00:01.875907+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "480ab5fabbe710b866b376fe5b2723611957c111ab10029ec33860500bea75be",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078352761599795211.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078352761599795211.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/aix_2078352761599795211.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

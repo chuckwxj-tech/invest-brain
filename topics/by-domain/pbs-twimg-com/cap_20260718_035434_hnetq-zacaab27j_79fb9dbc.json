@@ -1,0 +1,26 @@
+{
+  "id": "79fb9dbc-b6a0-4b8c-9b28-808b19ce037b",
+  "capture_type": "image",
+  "url": "https://pbs.twimg.com/media/HNeTQ_zacAAb27J?format=jpg&name=medium",
+  "canonical_url": "https://pbs.twimg.com/media/HNeTQ_zacAAb27J?format=jpg&name=medium",
+  "title": "HNeTQ_zacAAb27J",
+  "source_domain": "pbs.twimg.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-07-18T03:54:34.467488+00:00",
+  "storage_date": "2026-07-18",
+  "content_hash": "92a716386af68480e0f7169be2176aad8e1e341d613eef2ce38239ccb5e56555",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/cap_20260718_035434_hnetq-zacaab27j_79fb9dbc.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/cap_20260718_035434_hnetq-zacaab27j_79fb9dbc.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-18/cap_20260718_035434_hnetq-zacaab27j_79fb9dbc.analysis_prompt.md"
+  }
+}
