@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078871075425833237",
+  "capture_type": "post",
+  "url": "https://x.com/cherryPayment/status/2078871075425833237",
+  "canonical_url": "https://x.com/cherryPayment/status/2078871075425833237",
+  "title": "做一个简单的小总结，目前大家能在我的主页看到一下公司的基本面分析： 我按赛道给大家归好类，其中RKLB 正在收尾 一、硅光 / CPO 光互连全链条（从地基到光模块） $SOI（Soitec）：硅光”地基”，Smart Cut 专利墙、特种晶圆垄断者 $IQE：光芯片最底层的 InP 外延片，MACOM 入股，看 10 倍 $AXTI：InP/GaAs...",
+  "source_domain": "x.com",
+  "author": "cherryPayment",
+  "published_at": "Sun Jul 19 15:54:22 +0000 2026",
+  "captured_at": "2026-07-19T16:00:01.972571+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "be9ed4c6688486c15cecf53c96ff2f6a4007aee6736139e3c214c1ef5b147f81",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078871075425833237.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078871075425833237.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078871075425833237.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078853714731770095",
+  "capture_type": "post",
+  "url": "https://x.com/BaBig90/status/2078853714731770095",
+  "canonical_url": "https://x.com/BaBig90/status/2078853714731770095",
+  "title": "AI is no longer one trade. It’s compute, memory, and interconnect. That’s why I keep circling $MU, $MRVL, $CRDO, $ALAB, $AAOI and $AMAT. Analyst reporting says AI optics are shi...",
+  "source_domain": "x.com",
+  "author": "BaBig90",
+  "published_at": "Sun Jul 19 14:45:23 +0000 2026",
+  "captured_at": "2026-07-19T15:00:01.395931+00:00",
+  "storage_date": "2026-07-19",
+  "content_hash": "3478d17cc8dbd0765072dc1227fafbaa0891769b675913461b6723ef18a3f31d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-19/aix_2078853714731770095.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-19/aix_2078853714731770095.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-19/aix_2078853714731770095.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

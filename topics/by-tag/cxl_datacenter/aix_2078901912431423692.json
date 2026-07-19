@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078901912431423692",
+  "capture_type": "post",
+  "url": "https://x.com/Serenity_qf/status/2078901912431423692",
+  "canonical_url": "https://x.com/Serenity_qf/status/2078901912431423692",
+  "title": "$MRVL at $186. XConn acquisition closes the last gap in the Marvell AI interconnect chain. surface: analysts raise targets on incremental TAM. reality: XConn PCIe 6.0/CXL switch...",
+  "source_domain": "x.com",
+  "author": "Serenity_qf",
+  "published_at": "Sun Jul 19 17:56:54 +0000 2026",
+  "captured_at": "2026-07-19T18:00:01.596752+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "f2fa50fee2fa09ce302877422ed86d1fd89bcc881ca0e8bffd2c5624c257c27b",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078901912431423692.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078901912431423692.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078901912431423692.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
