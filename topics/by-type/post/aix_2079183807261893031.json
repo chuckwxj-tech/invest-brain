@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079183807261893031",
+  "capture_type": "post",
+  "url": "https://x.com/NateOnTopfr/status/2079183807261893031",
+  "canonical_url": "https://x.com/NateOnTopfr/status/2079183807261893031",
+  "title": "The memory story is the AI story right now. Nvidia's CMX pushes KV cache onto dedicated SSD shelves. The big three just scrapped their in-house CXL controller programs. And cont...",
+  "source_domain": "x.com",
+  "author": "NateOnTopfr",
+  "published_at": "Mon Jul 20 12:37:03 +0000 2026",
+  "captured_at": "2026-07-20T13:30:02.099026+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "ed33225b79f7e21abddc9e2c2e7a6f17f4730432f798037114606f21f7e7a679",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079183807261893031.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079183807261893031.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079183807261893031.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

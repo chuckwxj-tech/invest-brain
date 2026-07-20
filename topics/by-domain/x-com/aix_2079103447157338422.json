@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079103447157338422",
+  "capture_type": "post",
+  "url": "https://x.com/jukan05/status/2079103447157338422",
+  "canonical_url": "https://x.com/jukan05/status/2079103447157338422",
+  "title": "Memory Big Three Scrap In-House CXL Controller Chip Development The world’s three largest memory chipmakers have all halted in-house development of controllers for Compute Expre...",
+  "source_domain": "x.com",
+  "author": "jukan05",
+  "published_at": "Mon Jul 20 07:17:44 +0000 2026",
+  "captured_at": "2026-07-20T07:30:01.619293+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "d567a073096f40101cba238dbda69512847a66ab7ead1aef4f8a77e93da6430d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079103447157338422.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079103447157338422.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079103447157338422.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

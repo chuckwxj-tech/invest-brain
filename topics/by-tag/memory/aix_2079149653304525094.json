@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079149653304525094",
+  "capture_type": "post",
+  "url": "https://x.com/0J0BIT/status/2079149653304525094",
+  "canonical_url": "https://x.com/0J0BIT/status/2079149653304525094",
+  "title": "Eugene Investment & Securities analyst Yim So-jung put a number on the adoption curve: \"As AI expands, so will the market's appetite for CXL, and that really takes off from 2026...",
+  "source_domain": "x.com",
+  "author": "0J0BIT",
+  "published_at": "Mon Jul 20 10:21:20 +0000 2026",
+  "captured_at": "2026-07-20T10:30:01.197902+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "c60f8e0ede9370691b827e6ffd3bbf576fd06f60b4f0de54b878d3381a5617d6",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079149653304525094.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079149653304525094.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079149653304525094.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

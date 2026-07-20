@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078954880140771679",
+  "capture_type": "post",
+  "url": "https://x.com/naklongpoong/status/2078954880140771679",
+  "canonical_url": "https://x.com/naklongpoong/status/2078954880140771679",
+  "title": "AI Networking กำลังเข้าสู่รอบลงทุนครั้งใหญ่ หนุนหุ้น Optical และ Silicon Photonics Mizuho Securities มองว่า การขยายโครงสร้างพื้นฐาน AI ไม่ได้ต้องการเพียง GPU และ HBM แต่ยังผลักด...",
+  "source_domain": "x.com",
+  "author": "naklongpoong",
+  "published_at": "Sun Jul 19 21:27:23 +0000 2026",
+  "captured_at": "2026-07-19T22:00:01.570601+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "4881828c7172e3011905ebd1cef3a6698accee3d4065186b9506f4918f8622c6",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078954880140771679.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078954880140771679.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078954880140771679.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

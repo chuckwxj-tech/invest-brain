@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078959270050271429",
+  "capture_type": "post",
+  "url": "https://x.com/FinnStockinger/status/2078959270050271429",
+  "canonical_url": "https://x.com/FinnStockinger/status/2078959270050271429",
+  "title": "TECH EARNINGS CALENDAR (W30/2026) 🚀 We are heading into a massive week for tech earnings! The season is kicking into high gear with major tech and semiconductor players stepping...",
+  "source_domain": "x.com",
+  "author": "FinnStockinger",
+  "published_at": "Sun Jul 19 21:44:49 +0000 2026",
+  "captured_at": "2026-07-19T22:00:01.570601+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "e3014ac4e155be819acee0f132af384e1571b97d97c8c67327927c129994ae91",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078959270050271429.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078959270050271429.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078959270050271429.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

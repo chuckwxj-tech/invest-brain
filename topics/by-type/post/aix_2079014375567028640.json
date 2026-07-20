@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079014375567028640",
+  "capture_type": "post",
+  "url": "https://x.com/khawatmiTradez/status/2079014375567028640",
+  "canonical_url": "https://x.com/khawatmiTradez/status/2079014375567028640",
+  "title": "@AtlasShrug1 Yeah but growth has been insane. Also $mrvl is literally involved in every single AI bottleneck. * Custom XPUs/ASICs * 800G and 1.6T optical interconnects * Etherne...",
+  "source_domain": "x.com",
+  "author": "khawatmiTradez",
+  "published_at": "Mon Jul 20 01:23:48 +0000 2026",
+  "captured_at": "2026-07-20T01:30:01.985380+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "b0c852a606dc09f94a569a1b191eaf716b2398a3d6f8b706c75e7026e66ac62d",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079014375567028640.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079014375567028640.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079014375567028640.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078986195015696556",
+  "capture_type": "post",
+  "url": "https://x.com/HunterAllen4/status/2078986195015696556",
+  "canonical_url": "https://x.com/HunterAllen4/status/2078986195015696556",
+  "title": "$SHMD I told the subs earlier I had a good one. It’s finally entering what I believe is an accumulation range. DON’T MISS THIS BOTTLENECK. Advanced packaging + high-performance ...",
+  "source_domain": "x.com",
+  "author": "HunterAllen4",
+  "published_at": "Sun Jul 19 23:31:49 +0000 2026",
+  "captured_at": "2026-07-20T00:00:01.699054+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "f31b416bf355e4987613da01d07554a4a292ccdb01f30d9261b80e9aab507f56",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078986195015696556.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078986195015696556.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078986195015696556.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

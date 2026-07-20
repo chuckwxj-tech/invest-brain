@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079219044637639114",
+  "capture_type": "post",
+  "url": "https://x.com/crux_capital_/status/2079219044637639114",
+  "canonical_url": "https://x.com/crux_capital_/status/2079219044637639114",
+  "title": "Now one of my favorite companies, $COHR Market cap: ~$57.2B Next-quarter guide: ~$1.98B (+9.6% QoQ, +29.5% YoY) My next-4Qrevenue estimate: $8.5–9.0B, 29–36% growth My exit marg...",
+  "source_domain": "x.com",
+  "author": "crux_capital_",
+  "published_at": "Mon Jul 20 14:57:04 +0000 2026",
+  "captured_at": "2026-07-20T15:00:02.094269+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "b86b765ed1175ed464d0b2d8e36894c5868a5de5c668507cf75c693d30c9354d",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079219044637639114.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079219044637639114.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079219044637639114.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

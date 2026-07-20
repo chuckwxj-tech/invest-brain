@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079248357101560062",
+  "capture_type": "post",
+  "url": "https://x.com/gulVasikova/status/2079248357101560062",
+  "canonical_url": "https://x.com/gulVasikova/status/2079248357101560062",
+  "title": "The AI Selloff Is Dominating Headlines—But the Industry Is Sending a Very Different Signal Over the past week, investors have been flooded with bearish headlines. South Korea’s ...",
+  "source_domain": "x.com",
+  "author": "gulVasikova",
+  "published_at": "Mon Jul 20 16:53:33 +0000 2026",
+  "captured_at": "2026-07-20T17:00:01.665582+00:00",
+  "storage_date": "2026-07-21",
+  "content_hash": "517f877fc3eda21d2defd45e9e745e6d992ac48b4dd130c8aab4c636637176f3",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079248357101560062.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079248357101560062.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079248357101560062.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

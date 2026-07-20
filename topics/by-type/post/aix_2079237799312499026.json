@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079237799312499026",
+  "capture_type": "post",
+  "url": "https://x.com/VestigiaLabs/status/2079237799312499026",
+  "canonical_url": "https://x.com/VestigiaLabs/status/2079237799312499026",
+  "title": "Yuanbrain Servers (Inspur's AI infrastructure brand) officially launched a breakthrough CXL (Compute Express Link) memory cross-generation expansion solution on July 20, 2026, e...",
+  "source_domain": "x.com",
+  "author": "VestigiaLabs",
+  "published_at": "Mon Jul 20 16:11:36 +0000 2026",
+  "captured_at": "2026-07-20T16:30:02.052296+00:00",
+  "storage_date": "2026-07-21",
+  "content_hash": "b91a8a545c4f2a4050ee11d5d2dd1972912598d86974e28a175d84d09393fb18",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079237799312499026.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079237799312499026.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079237799312499026.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

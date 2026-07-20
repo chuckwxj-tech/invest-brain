@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2078973162319183983",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2078973162319183983",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2078973162319183983",
+  "title": "UMC is entering next-generation glass packaging technology. Beyond its silicon interposer efforts, it is investing in TGV (through-glass via) processes for advanced packaging. F...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Sun Jul 19 22:40:02 +0000 2026",
+  "captured_at": "2026-07-19T23:00:01.937394+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "8987940cd1453d7ab8cdecb08de3162d048b15db1e431b8d22511f902a6bd8ec",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078973162319183983.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078973162319183983.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2078973162319183983.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

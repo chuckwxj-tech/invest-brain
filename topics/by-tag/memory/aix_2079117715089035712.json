@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079117715089035712",
+  "capture_type": "post",
+  "url": "https://x.com/DavidKWilliams/status/2079117715089035712",
+  "canonical_url": "https://x.com/DavidKWilliams/status/2079117715089035712",
+  "title": "The memory Big Three stepping back from proprietary CXL controllers is not bearish for CXL. It may be one of the clearest bullish signals yet for the fabless layer. According to...",
+  "source_domain": "x.com",
+  "author": "DavidKWilliams",
+  "published_at": "Mon Jul 20 08:14:26 +0000 2026",
+  "captured_at": "2026-07-20T08:30:01.174756+00:00",
+  "storage_date": "2026-07-20",
+  "content_hash": "9de9406f0739767a43ecd169b1c253d8f9a932923393d8f6718fb7f67c0a9c73",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079117715089035712.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079117715089035712.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-20/aix_2079117715089035712.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
