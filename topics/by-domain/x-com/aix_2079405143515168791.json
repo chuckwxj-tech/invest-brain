@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079405143515168791",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2079405143515168791",
+  "canonical_url": "https://x.com/algotradingdesk/status/2079405143515168791",
+  "title": "🇺🇸 Analysis of Astera Labs Inc. ($ALAB) Many investors continue to view Astera Labs as another AI semiconductor company. However, Astera Labs has emerged as one of the critical ...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Tue Jul 21 03:16:34 +0000 2026",
+  "captured_at": "2026-07-21T03:30:01.797599+00:00",
+  "storage_date": "2026-07-21",
+  "content_hash": "16a2e36af2bfc8c5b2564be25764f48f6a24deb6787c77a70e10175afcfa7b3a",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079405143515168791.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079405143515168791.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079405143515168791.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

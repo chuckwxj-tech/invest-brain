@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079460660610756819",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2079460660610756819",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2079460660610756819",
+  "title": "TSMC unfazed by Japanese supplier halt. Taiwan’s semiconductor giant says it sees “no impact” on operations after Japanese specialty gas maker Central Glass announced plans to s...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Tue Jul 21 06:57:10 +0000 2026",
+  "captured_at": "2026-07-21T07:00:01.706863+00:00",
+  "storage_date": "2026-07-21",
+  "content_hash": "66f0c9cf612b19c731a67a780dd6e0451359820795d90c1d3a45cc2d5ff195f0",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079460660610756819.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079460660610756819.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079460660610756819.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

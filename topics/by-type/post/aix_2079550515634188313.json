@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079550515634188313",
+  "capture_type": "post",
+  "url": "https://x.com/LIWEI_TWCapital/status/2079550515634188313",
+  "canonical_url": "https://x.com/LIWEI_TWCapital/status/2079550515634188313",
+  "title": "Samsung is reportedly targeting mass production of its CMM-D 3.0 memory module, upgraded from CXL 3.1 to CXL 3.2, by year-end 2026. This remains a reported roadmap rather than a...",
+  "source_domain": "x.com",
+  "author": "LIWEI_TWCapital",
+  "published_at": "Tue Jul 21 12:54:13 +0000 2026",
+  "captured_at": "2026-07-21T13:00:02.093243+00:00",
+  "storage_date": "2026-07-21",
+  "content_hash": "dfe0de9ea82875d17747e463b7f4a07e8a771fe245fff2cd54715c4a074cb58a",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079550515634188313.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079550515634188313.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-21/aix_2079550515634188313.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
