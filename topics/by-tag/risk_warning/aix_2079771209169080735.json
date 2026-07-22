@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079771209169080735",
+  "capture_type": "post",
+  "url": "https://x.com/yyw2000/status/2079771209169080735",
+  "canonical_url": "https://x.com/yyw2000/status/2079771209169080735",
+  "title": "My bet: the next major bottleneck in AI scale-up systems will not be compute—it will be memory. Today, many scale-up architectures are essentially built around Broadcom switches...",
+  "source_domain": "x.com",
+  "author": "yyw2000",
+  "published_at": "Wed Jul 22 03:31:11 +0000 2026",
+  "captured_at": "2026-07-22T04:00:01.928291+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "b1ff86560bed700caa6f240037b353f392540456a1e06c29e772eef286b29f2d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079771209169080735.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079771209169080735.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079771209169080735.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

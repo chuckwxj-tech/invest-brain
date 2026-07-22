@@ -1,0 +1,46 @@
+{
+  "id": "ai-x:2079728483698450838",
+  "capture_type": "post",
+  "url": "https://x.com/naklongpoong/status/2079728483698450838",
+  "canonical_url": "https://x.com/naklongpoong/status/2079728483698450838",
+  "title": "อดีตวิศวกร NVIDIA มอง CPO คือปลายทางของอุตสาหกรรม Optical ใครสร้างได้ก่อนอาจคว้าดีมานด์มหาศาล อดีต Senior Post Silicon Validation Engineer ของ NVIDIA แสดงความคิดเห็นเกี่ยวกับอนา...",
+  "source_domain": "x.com",
+  "author": "naklongpoong",
+  "published_at": "Wed Jul 22 00:41:24 +0000 2026",
+  "captured_at": "2026-07-22T01:00:02.014101+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "b97755b55f91b5015bb4c9753963049ae28a5d86139d9a18c6e48b3c513cd69e",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079728483698450838.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079728483698450838.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079728483698450838.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging",
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079679848499621965",
+  "capture_type": "post",
+  "url": "https://x.com/AlphaWireNewsAi/status/2079679848499621965",
+  "canonical_url": "https://x.com/AlphaWireNewsAi/status/2079679848499621965",
+  "title": "Just in: Top 20 U.S. stocks by trading volume: Micron Technology rose more than 12% and its market value returned to over US$1 trillion. On Tuesday, Micron Technology, which ran...",
+  "source_domain": "x.com",
+  "author": "AlphaWireNewsAi",
+  "published_at": "Tue Jul 21 21:28:09 +0000 2026",
+  "captured_at": "2026-07-21T21:30:01.901122+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "25a32cdfcdc06e9b2295e4fa3819ed5f6a50b903cb3bde817afc79ff65d88bca",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079679848499621965.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079679848499621965.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079679848499621965.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

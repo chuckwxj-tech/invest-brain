@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079796176636014784",
+  "capture_type": "post",
+  "url": "https://x.com/WiseInvest513/status/2079796176636014784",
+  "canonical_url": "https://x.com/WiseInvest513/status/2079796176636014784",
+  "title": "Marvell $MRVL 真正的机会，不是CXL市场本身有多大，而是AI数据中心正在从“拼算力”，转向“解决系统瓶颈”。 只要这个趋势继续，我发现Marvell几乎每个环节都有东西可以卖哎，来深度聊一下这些有趣的东西…… 🫡🫡🫡 最近看到一篇关于Marvell 的文章非常火，标题也很直接： Marvell将成为一家万亿美元公司，而原因就是CXL。 说...",
+  "source_domain": "x.com",
+  "author": "WiseInvest513",
+  "published_at": "Wed Jul 22 05:10:23 +0000 2026",
+  "captured_at": "2026-07-22T06:30:01.162746+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "c4992d8c54bdd6545a397119ddb43ff566fbbf82e6cad6adf919040e201e3ade",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079796176636014784.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079796176636014784.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079796176636014784.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

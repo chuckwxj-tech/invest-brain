@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079718022479298600",
+  "capture_type": "post",
+  "url": "https://x.com/BitsWattsDesk/status/2079718022479298600",
+  "canonical_url": "https://x.com/BitsWattsDesk/status/2079718022479298600",
+  "title": "ADEKA(4401.T). 첨단 DRAM용 High-k ALD 소재 세계 점유율 1위~ 즉, 삼성전자·SK하이닉스·Micron($MU)의 메모리를 물리적으로 가능케 하는 \"숨은 소재층\"입니다. 그런데 시장은 이 회사를 아직 <식품·플라스틱 회사> 수준 밸류에이션에 거래합니다. 다들 메모리 랠리를 '메이커'로 타는 지...",
+  "source_domain": "x.com",
+  "author": "BitsWattsDesk",
+  "published_at": "Tue Jul 21 23:59:50 +0000 2026",
+  "captured_at": "2026-07-22T01:00:02.014101+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "6f97837c4b1823b7039d98f0f1ee5d3f8f856aee1b08521b90078bc72fe3627b",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079718022479298600.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079718022479298600.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079718022479298600.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

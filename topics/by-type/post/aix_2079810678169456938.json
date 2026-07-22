@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079810678169456938",
+  "capture_type": "post",
+  "url": "https://x.com/Mark85119395/status/2079810678169456938",
+  "canonical_url": "https://x.com/Mark85119395/status/2079810678169456938",
+  "title": "MRVL 最危險的，不是 AI 變慢，而是市場把還沒發生的未來先買完 MRVL 從高點回落近三成，市場又開始用最熟悉的方法解釋：AI 太熱、NVIDIA 機台延後、CPO 不如預期、整條供應鏈要降溫。 但我重新把證據拆開後，結論反而沒那麼悲觀，也沒那麼簡單。 Vera Rubin NVL72 進度順利，和 Kyber NVL144 可能延後，兩件事完全...",
+  "source_domain": "x.com",
+  "author": "Mark85119395",
+  "published_at": "Wed Jul 22 06:08:01 +0000 2026",
+  "captured_at": "2026-07-22T06:30:01.162746+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "27c43dad22be31ec8a186cb37496145f5950c5406df85eb2d1104667b444f026",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079810678169456938.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079810678169456938.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079810678169456938.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

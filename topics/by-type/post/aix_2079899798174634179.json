@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079899798174634179",
+  "capture_type": "post",
+  "url": "https://x.com/Mark85119395/status/2079899798174634179",
+  "canonical_url": "https://x.com/Mark85119395/status/2079899798174634179",
+  "title": "GLW現在最容易被市場看錯的，不是AI需求，而是把兩條完全不同成熟度的「玻璃路線」一起算進股價。 一條已經走進財報。 另一條，現在還只是選擇權。 Corning第一季Optical Communications營收18.46億美元，年增36%；部門獲利3.87億美元，年增93%。企業端有GenAI，電信端有DCI與FTTH，代表AI資料中心需要更多光纖...",
+  "source_domain": "x.com",
+  "author": "Mark85119395",
+  "published_at": "Wed Jul 22 12:02:09 +0000 2026",
+  "captured_at": "2026-07-22T12:30:01.823097+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "483efa751e906f113421561bdec98e3719cd3292cff4cc4bf442755ff7c73322",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079899798174634179.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079899798174634179.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079899798174634179.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

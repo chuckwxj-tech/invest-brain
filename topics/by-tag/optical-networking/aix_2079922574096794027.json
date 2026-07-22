@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079922574096794027",
+  "capture_type": "post",
+  "url": "https://x.com/thebuildout_co/status/2079922574096794027",
+  "canonical_url": "https://x.com/thebuildout_co/status/2079922574096794027",
+  "title": "What's happening - July 22nd AM Astera Labs expands its Taurus retimer family to 3.2T speeds. $ALAB (Astera Labs) announced the industry's first OCP-standard footprint compatibl...",
+  "source_domain": "x.com",
+  "author": "thebuildout_co",
+  "published_at": "Wed Jul 22 13:32:39 +0000 2026",
+  "captured_at": "2026-07-22T14:30:01.468491+00:00",
+  "storage_date": "2026-07-22",
+  "content_hash": "5c8f565497b1815c98d92e8b991c59bbccd9ee16acea51f4dd55bc69591177b1",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079922574096794027.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079922574096794027.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-22/aix_2079922574096794027.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
