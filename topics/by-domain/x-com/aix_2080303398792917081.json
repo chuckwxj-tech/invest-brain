@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080303398792917081",
+  "capture_type": "post",
+  "url": "https://x.com/rmainvestmentsx/status/2080303398792917081",
+  "canonical_url": "https://x.com/rmainvestmentsx/status/2080303398792917081",
+  "title": "$LPK H1 is ugly. That’s not the story. Revenue -38% to €36.5M. Adj. EBIT -€10.4M. Cash only €4M. Stock -18% today. But 2026 was always the positioning year. • First real ramp-up...",
+  "source_domain": "x.com",
+  "author": "rmainvestmentsx",
+  "published_at": "Thu Jul 23 14:45:55 +0000 2026",
+  "captured_at": "2026-07-23T16:00:01.389363+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "ccf4a89c18dfaa48aedf113f65af3bd41a2c4fe23522b744b61dacca9730a368",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080303398792917081.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080303398792917081.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080303398792917081.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

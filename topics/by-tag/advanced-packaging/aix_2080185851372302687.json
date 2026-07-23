@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080185851372302687",
+  "capture_type": "post",
+  "url": "https://x.com/glocalinvestor/status/2080185851372302687",
+  "canonical_url": "https://x.com/glocalinvestor/status/2080185851372302687",
+  "title": "Everyone's trading hybrid bonding. Not many can explain it. In the ever-evolving world of semi conductors, hybrid bonding is the \"new\" thing this year. What is the fuss about? I...",
+  "source_domain": "x.com",
+  "author": "glocalinvestor",
+  "published_at": "Thu Jul 23 06:58:49 +0000 2026",
+  "captured_at": "2026-07-23T07:00:01.647337+00:00",
+  "storage_date": "2026-07-23",
+  "content_hash": "9e33628e0d7fc12cdd42ea9ef18190c3e8786c108c8bf513a6e20c7c84356705",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080185851372302687.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080185851372302687.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080185851372302687.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

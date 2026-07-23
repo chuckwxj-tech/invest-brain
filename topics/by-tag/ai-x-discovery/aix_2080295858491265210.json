@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080295858491265210",
+  "capture_type": "post",
+  "url": "https://x.com/smoeka/status/2080295858491265210",
+  "canonical_url": "https://x.com/smoeka/status/2080295858491265210",
+  "title": ".... aaaand we already have an addendum which itself has been revised and adds critical nuance: Addendum (Revised): The Roadmap Disanalogy — Sequential Demand Regimes and the Re...",
+  "source_domain": "x.com",
+  "author": "smoeka",
+  "published_at": "Thu Jul 23 14:15:57 +0000 2026",
+  "captured_at": "2026-07-23T15:00:01.875199+00:00",
+  "storage_date": "2026-07-23",
+  "content_hash": "4061392fd479e148872a090e3a07731b9ed51912cfbd2463e76383ef6a60dd21",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080295858491265210.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080295858491265210.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080295858491265210.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

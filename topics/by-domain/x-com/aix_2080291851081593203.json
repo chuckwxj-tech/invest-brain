@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080291851081593203",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2080291851081593203",
+  "canonical_url": "https://x.com/pequityresearch/status/2080291851081593203",
+  "title": "Former Strategic Sales & Business Development Manager at Intel: \"Google TPUs are trying to beat that performance per token with 30-40% less power requirement compared to Nvidia,...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Thu Jul 23 14:00:01 +0000 2026",
+  "captured_at": "2026-07-23T14:30:02.063090+00:00",
+  "storage_date": "2026-07-23",
+  "content_hash": "837926a9950313005a61dcea16c5fc78c88789dc2e8b5af46c52b64ec1732a5e",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080291851081593203.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080291851081593203.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080291851081593203.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

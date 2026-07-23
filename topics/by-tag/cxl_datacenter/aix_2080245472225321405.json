@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080245472225321405",
+  "capture_type": "post",
+  "url": "https://x.com/angrybear168/status/2080245472225321405",
+  "canonical_url": "https://x.com/angrybear168/status/2080245472225321405",
+  "title": "$GOOGL raised capex again, impact on AI infrastructure/semi names: Higher hyperscaler CapEx = more GPU/accelerator, networking, custom silicon, and power/cooling demand. Cloud a...",
+  "source_domain": "x.com",
+  "author": "angrybear168",
+  "published_at": "Thu Jul 23 10:55:44 +0000 2026",
+  "captured_at": "2026-07-23T11:00:01.689948+00:00",
+  "storage_date": "2026-07-23",
+  "content_hash": "535f3eb8d24c97b131357064d96a858c87373cca500414132bfb31a339e1534e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080245472225321405.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080245472225321405.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080245472225321405.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

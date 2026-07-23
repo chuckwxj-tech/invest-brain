@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080329406375952636",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2080329406375952636",
+  "canonical_url": "https://x.com/pequityresearch/status/2080329406375952636",
+  "title": "Executive at Global Electronics Distributor on Marvell Technology $MRVL: \"Marvell is rapidly growing in their custom AI scale and accelerator scale, and it's going to be one of ...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Thu Jul 23 16:29:15 +0000 2026",
+  "captured_at": "2026-07-23T17:00:01.298534+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "24fd303ce65d089c52da696872641d082d34832c5adba6780b5cfefc24e85608",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080329406375952636.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080329406375952636.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080329406375952636.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

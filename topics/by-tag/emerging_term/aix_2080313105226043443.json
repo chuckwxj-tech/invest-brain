@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080313105226043443",
+  "capture_type": "post",
+  "url": "https://x.com/imnotharsh/status/2080313105226043443",
+  "canonical_url": "https://x.com/imnotharsh/status/2080313105226043443",
+  "title": "Reminder for $INTC earnings from an excerpt of my preview below: What matters most for a positive reaction: 1. Beat and a sequential growth with improving supply. - CPU demand r...",
+  "source_domain": "x.com",
+  "author": "imnotharsh",
+  "published_at": "Thu Jul 23 15:24:29 +0000 2026",
+  "captured_at": "2026-07-23T16:00:01.389363+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "4dd846ced98dbeaf3a51c35e9ab2a7e4e9948a16491de11039f715dca8333522",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080313105226043443.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080313105226043443.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080313105226043443.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

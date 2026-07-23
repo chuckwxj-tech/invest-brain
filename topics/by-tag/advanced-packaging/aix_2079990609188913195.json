@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2079990609188913195",
+  "capture_type": "post",
+  "url": "https://x.com/holden_commodor/status/2079990609188913195",
+  "canonical_url": "https://x.com/holden_commodor/status/2079990609188913195",
+  "title": "HOYA (7741.T) is also expanding capacity, investing approximately JPY 50 billion to build a new HDD glass substrate plant in Vietnam, scheduled to begin operations in 2028. The ...",
+  "source_domain": "x.com",
+  "author": "holden_commodor",
+  "published_at": "Wed Jul 22 18:03:00 +0000 2026",
+  "captured_at": "2026-07-22T18:30:01.543422+00:00",
+  "storage_date": "2026-07-23",
+  "content_hash": "6df8c69022216df315faf00a2b7a0e1166b16aaaa5583b49c6ffff15dc9c234f",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2079990609188913195.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2079990609188913195.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2079990609188913195.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

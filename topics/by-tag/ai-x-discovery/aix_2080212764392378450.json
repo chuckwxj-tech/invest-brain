@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080212764392378450",
+  "capture_type": "post",
+  "url": "https://x.com/FinnStockinger/status/2080212764392378450",
+  "canonical_url": "https://x.com/FinnStockinger/status/2080212764392378450",
+  "title": "I’ve been taking a close look at $LPK.DE LPKF’s latest H1 2026 report. It confirms a lot of what I was feeling when I decided to exit my position. Don't get me wrong: as a long-...",
+  "source_domain": "x.com",
+  "author": "FinnStockinger",
+  "published_at": "Thu Jul 23 08:45:46 +0000 2026",
+  "captured_at": "2026-07-23T09:00:01.967796+00:00",
+  "storage_date": "2026-07-23",
+  "content_hash": "e8f5e65679c157d2d5111dc3be87c8df2720706c6b437ace4443d4b6130d7f1b",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080212764392378450.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080212764392378450.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-23/aix_2080212764392378450.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
