@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080659270228647960",
+  "capture_type": "post",
+  "url": "https://x.com/KyleReidhead/status/2080659270228647960",
+  "canonical_url": "https://x.com/KyleReidhead/status/2080659270228647960",
+  "title": "This is the most important chart in memory right now (Save this) Servers and graphics were 30% of SK hynix's DRAM revenue a decade ago Today it's 69% Memory is so scarce this in...",
+  "source_domain": "x.com",
+  "author": "KyleReidhead",
+  "published_at": "Fri Jul 24 14:20:01 +0000 2026",
+  "captured_at": "2026-07-24T15:00:01.851271+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "2aa0f1bfdb3b079d2212e36e9a8eab413efa6039174b713204b6d3b083cbff9a",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080659270228647960.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080659270228647960.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080659270228647960.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080419022957613096",
+  "capture_type": "post",
+  "url": "https://x.com/vincentinvests/status/2080419022957613096",
+  "canonical_url": "https://x.com/vincentinvests/status/2080419022957613096",
+  "title": "AI isn't bottlenecked by silicon anymore. It's bottlenecked by GLASS. For 20 years we built AI packages on organic plastic [ABF]. At >1000W per accelerator, it warps. The micro-...",
+  "source_domain": "x.com",
+  "author": "vincentinvests",
+  "published_at": "Thu Jul 23 22:25:22 +0000 2026",
+  "captured_at": "2026-07-23T23:30:01.383636+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "e40745b0d14d8d32efc69a7836ce8b5698f1d74106083105634b53930a714253",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080419022957613096.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080419022957613096.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080419022957613096.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

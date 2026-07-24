@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080606902640140714",
+  "capture_type": "post",
+  "url": "https://x.com/l_m_s15/status/2080606902640140714",
+  "canonical_url": "https://x.com/l_m_s15/status/2080606902640140714",
+  "title": "SKC Reportedly Pushes Glass Substrate Mass Production to 2027, Targets Final Validation by Year-end ↪️ While SKC and its U.S. subsidiary Absolics remain among the frontrunners i...",
+  "source_domain": "x.com",
+  "author": "l_m_s15",
+  "published_at": "Fri Jul 24 10:51:56 +0000 2026",
+  "captured_at": "2026-07-24T11:30:01.614111+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "25cc2c4931319edc33c99e508c8a6af5e45c8abf251a617de97c4d205f38e783",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080606902640140714.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080606902640140714.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080606902640140714.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

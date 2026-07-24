@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080685533316149291",
+  "capture_type": "post",
+  "url": "https://x.com/imnotharsh/status/2080685533316149291",
+  "canonical_url": "https://x.com/imnotharsh/status/2080685533316149291",
+  "title": "Lens Technology Announces MoU with $INTC Intel to jointly explore R&D and commercialization in Through Glass Via (TGV) Advanced Packaging. The primary collaboration area centers...",
+  "source_domain": "x.com",
+  "author": "imnotharsh",
+  "published_at": "Fri Jul 24 16:04:23 +0000 2026",
+  "captured_at": "2026-07-24T16:30:01.834101+00:00",
+  "storage_date": "2026-07-25",
+  "content_hash": "39192278633884158a96fe9204e951fe6944b7c1161797a8d2f8a1167ce11b93",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080685533316149291.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080685533316149291.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080685533316149291.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

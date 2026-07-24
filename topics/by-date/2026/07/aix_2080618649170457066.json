@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080618649170457066",
+  "capture_type": "post",
+  "url": "https://x.com/OptionKing666/status/2080618649170457066",
+  "canonical_url": "https://x.com/OptionKing666/status/2080618649170457066",
+  "title": "AI capex implies more GPUs. The constraint is memory: Llama 3 70B needs ~140GiB for weights, but 320GiB of KV cache at 128K context. CXL adds capacity and latency; offload effic...",
+  "source_domain": "x.com",
+  "author": "OptionKing666",
+  "published_at": "Fri Jul 24 11:38:36 +0000 2026",
+  "captured_at": "2026-07-24T12:30:01.465585+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "b85ffe467b025c590e6ee67a2b6cc7910b985fa12b15b64052d09b0e501cabaa",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080618649170457066.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080618649170457066.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080618649170457066.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

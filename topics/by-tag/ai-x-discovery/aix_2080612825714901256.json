@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080612825714901256",
+  "capture_type": "post",
+  "url": "https://x.com/FABYMETAL4/status/2080612825714901256",
+  "canonical_url": "https://x.com/FABYMETAL4/status/2080612825714901256",
+  "title": "⚙️AMD's Helios entered full production | the MI455X clears two advanced-packaging steps, and only one has a visible supply-demand picture $AMD $TSM Seventy-two Instinct MI455X G...",
+  "source_domain": "x.com",
+  "author": "FABYMETAL4",
+  "published_at": "Fri Jul 24 11:15:28 +0000 2026",
+  "captured_at": "2026-07-24T11:30:01.614111+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "cee509f5a2ff083d7624fbf8218978f9587dc63d37a9d04e1adddd1aaedc74a4",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080612825714901256.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080612825714901256.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080612825714901256.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

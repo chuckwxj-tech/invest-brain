@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080530634444022094",
+  "capture_type": "post",
+  "url": "https://x.com/TAMPICTG87/status/2080530634444022094",
+  "canonical_url": "https://x.com/TAMPICTG87/status/2080530634444022094",
+  "title": "『モルガン・スタンレーがハイパースケールAI資本支出予測を上方修正：ネットワーク接続層の再評価機会と銘柄選択ロジックの較正』 モルガン・スタンレーは2026年7月14日付の最新調査レポートで、Meta、Amazon、Alphabet、Microsoft、SpaceXという5大ハイパースケールプラットフォームの2027年資本支出予測を9％引き上げ、約1....",
+  "source_domain": "x.com",
+  "author": "TAMPICTG87",
+  "published_at": "Fri Jul 24 05:48:52 +0000 2026",
+  "captured_at": "2026-07-24T06:30:01.615802+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "de18b22a9c19620ef1037f408b9ccdb1172f9018f93ca0b3c2ea029852eaad16",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530634444022094.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530634444022094.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530634444022094.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080530593352396849",
+  "capture_type": "post",
+  "url": "https://x.com/TAMPICTG87/status/2080530593352396849",
+  "canonical_url": "https://x.com/TAMPICTG87/status/2080530593352396849",
+  "title": "**Morgan Stanley Raises Hyperscaler AI Capex Forecast: Repricing Opportunities in the Networking Layer and Calibration of Stock-Picking Logic** On July 14, 2026, Morgan Stanley ...",
+  "source_domain": "x.com",
+  "author": "TAMPICTG87",
+  "published_at": "Fri Jul 24 05:48:42 +0000 2026",
+  "captured_at": "2026-07-24T06:00:01.217434+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "c9be784b700c8c4a443719285f4ba40acc790a52a7eaad45f4cb013552e2154b",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530593352396849.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530593352396849.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530593352396849.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

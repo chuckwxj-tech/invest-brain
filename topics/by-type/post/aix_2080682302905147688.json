@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080682302905147688",
+  "capture_type": "post",
+  "url": "https://x.com/TradexWhisperer/status/2080682302905147688",
+  "canonical_url": "https://x.com/TradexWhisperer/status/2080682302905147688",
+  "title": "If $AMD wins, $TSM Advanced Foundry Process and Advanced Packaging win. Also a win for $DRAM as it packs 50% more memory than competitors. “AMD unveils its sixth-generation EPYC...",
+  "source_domain": "x.com",
+  "author": "TradexWhisperer",
+  "published_at": "Fri Jul 24 15:51:32 +0000 2026",
+  "captured_at": "2026-07-24T16:30:01.834101+00:00",
+  "storage_date": "2026-07-25",
+  "content_hash": "6c5bfe5973fff54ffd2c4bae80247521c294084cde9ba09e5c6c19f527e83011",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080682302905147688.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080682302905147688.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080682302905147688.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

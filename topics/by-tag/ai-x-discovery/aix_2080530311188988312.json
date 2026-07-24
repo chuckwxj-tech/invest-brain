@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080530311188988312",
+  "capture_type": "post",
+  "url": "https://x.com/TAMPICTG87/status/2080530311188988312",
+  "canonical_url": "https://x.com/TAMPICTG87/status/2080530311188988312",
+  "title": "《摩根士丹利上调超大规模AI资本支出预测：网络连接层的重定价机会与选股逻辑校准》 摩根士丹利于2026年7月14日发布的最新研报将Meta、亚马逊、Alphabet、Microsoft、SpaceX五大超大规模平台的2027年资本开支预测上调9%至约1.2万亿美元，2028年进一步上调10%至约1.4万亿美元；更早的2026年中期展望中，该行预计美国大...",
+  "source_domain": "x.com",
+  "author": "TAMPICTG87",
+  "published_at": "Fri Jul 24 05:47:35 +0000 2026",
+  "captured_at": "2026-07-24T06:00:01.217434+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "9e5736595f395d60928d4de055b8db3728593482b6fa4accf9c3dbc6ca9f3beb",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530311188988312.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530311188988312.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080530311188988312.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

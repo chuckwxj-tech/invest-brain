@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080457798144741775",
+  "capture_type": "post",
+  "url": "https://x.com/dnystedt/status/2080457798144741775",
+  "canonical_url": "https://x.com/dnystedt/status/2080457798144741775",
+  "title": "AMD’s new Venice processor and Instinct MI455X GPU are both in production at TSMC on 2nm, media report, adding AMD plans to have TSMC Arizona produce Venice as well (when fab re...",
+  "source_domain": "x.com",
+  "author": "dnystedt",
+  "published_at": "Fri Jul 24 00:59:26 +0000 2026",
+  "captured_at": "2026-07-24T01:30:01.566306+00:00",
+  "storage_date": "2026-07-24",
+  "content_hash": "826a0d8a6c2a34ba3142350a76af7b62745b80c49c719e2bac37cec411d3c66c",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080457798144741775.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080457798144741775.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-24/aix_2080457798144741775.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
