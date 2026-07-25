@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080918866872439190",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2080918866872439190",
+  "canonical_url": "https://x.com/TheValueist/status/2080918866872439190",
+  "title": "DATA-CENTER STORAGE AND INFRASTRUCTURE OFFLOAD AI STORAGE ACCELERATION IS EMERGING AS A SECONDARY BOTTLENECK AFTER COMPUTE AND NETWORKING (READ-THROUGH 8) Affected companies: Ma...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Sat Jul 25 07:31:34 +0000 2026",
+  "captured_at": "2026-07-25T09:30:01.963382+00:00",
+  "storage_date": "2026-07-25",
+  "content_hash": "6a9b50637f2120599277f12eb8c4a1cd04ffd80b0eb11832151fbf5d8d2e0ab3",
+  "tags": [
+    "ai-x-discovery",
+    "new_bottleneck_terms",
+    "new_asset",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080918866872439190.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080918866872439190.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080918866872439190.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "new_bottleneck_terms",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

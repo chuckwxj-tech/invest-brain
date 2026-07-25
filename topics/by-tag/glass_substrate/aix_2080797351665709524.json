@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2080797351665709524",
+  "capture_type": "post",
+  "url": "https://x.com/zsdcxa13/status/2080797351665709524",
+  "canonical_url": "https://x.com/zsdcxa13/status/2080797351665709524",
+  "title": "인텔이 중국 렌즈테크놀로지(Lens Technology)랑 손잡고 차세대 반도체 패키징 기술을 공동 개발한다는 소식이 나왔습니다. 듣기엔 조금 생소할 수 있는데, 반도체나 AI 하드웨어 흐름을 따라가고 계신 분들이라면 \"결국 터질 게 터졌구나\" 싶으실 겁니다. 핵심은 바로 '유리 기판(Glass Substrate)'...",
+  "source_domain": "x.com",
+  "author": "zsdcxa13",
+  "published_at": "Fri Jul 24 23:28:42 +0000 2026",
+  "captured_at": "2026-07-25T00:00:01.871094+00:00",
+  "storage_date": "2026-07-25",
+  "content_hash": "698b514694df5fe6f09c7d906bf8ad490ce586baf89f264fecf02a71d9f70006",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080797351665709524.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080797351665709524.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-25/aix_2080797351665709524.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
