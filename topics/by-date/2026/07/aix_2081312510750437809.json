@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081312510750437809",
+  "capture_type": "post",
+  "url": "https://x.com/alem43366384/status/2081312510750437809",
+  "canonical_url": "https://x.com/alem43366384/status/2081312510750437809",
+  "title": "$MRVL 迈威尔科技 —— AI基础设施赛道下一个万亿市值的有力竞争者 当下AI半导体的目光几乎全被 NVDA和AVGO 吸走。但有一条\"暗线\"正在默默铺设每一座AI集群的血管与神经：Marvell（$MRVL，迈威尔科技）。 今天聊聊为什么 MRVL 走通一条通往万亿美元市值的可信路径——以及为什么华尔街正在悄悄重估它。 📊 当前位置（2026年7...",
+  "source_domain": "x.com",
+  "author": "alem43366384",
+  "published_at": "Sun Jul 26 09:35:46 +0000 2026",
+  "captured_at": "2026-07-26T11:00:02.057509+00:00",
+  "storage_date": "2026-07-26",
+  "content_hash": "2f2d1b7852dab0e0c2a9ba6a50b3737ce17e0664bf5d8cf803e3b510cef6f3b1",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081312510750437809.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081312510750437809.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081312510750437809.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

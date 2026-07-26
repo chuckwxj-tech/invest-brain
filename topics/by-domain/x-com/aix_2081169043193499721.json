@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081169043193499721",
+  "capture_type": "post",
+  "url": "https://x.com/tphuang/status/2081169043193499721",
+  "canonical_url": "https://x.com/tphuang/status/2081169043193499721",
+  "title": "The other important part for advanced AI systems is advanced packaging supply chain, which China is really building up for glass substrate to ABF, CMP materials, to chemicals &a...",
+  "source_domain": "x.com",
+  "author": "tphuang",
+  "published_at": "Sun Jul 26 00:05:40 +0000 2026",
+  "captured_at": "2026-07-26T01:30:02.095939+00:00",
+  "storage_date": "2026-07-26",
+  "content_hash": "2243fa360eedfb1058e8f605ac493542e677959ec4bed30eef73076e5036f08d",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081169043193499721.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081169043193499721.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081169043193499721.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

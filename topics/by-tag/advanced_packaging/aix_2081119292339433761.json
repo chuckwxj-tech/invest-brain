@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081119292339433761",
+  "capture_type": "post",
+  "url": "https://x.com/NihalThesis/status/2081119292339433761",
+  "canonical_url": "https://x.com/NihalThesis/status/2081119292339433761",
+  "title": "$TSM is not merely a bet on AI. It is a bet that the world will never be finished demanding more computing power. That is the real reason I own it. AI may be the largest demand ...",
+  "source_domain": "x.com",
+  "author": "NihalThesis",
+  "published_at": "Sat Jul 25 20:47:59 +0000 2026",
+  "captured_at": "2026-07-25T21:00:01.604675+00:00",
+  "storage_date": "2026-07-26",
+  "content_hash": "d7a6f84f22335189e0fcad7f0b221e6d76de15f83b6cf57951026b0ca2d9cc05",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081119292339433761.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081119292339433761.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081119292339433761.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081315595136716915",
+  "capture_type": "post",
+  "url": "https://x.com/TAMPICTG87/status/2081315595136716915",
+  "canonical_url": "https://x.com/TAMPICTG87/status/2081315595136716915",
+  "title": "《存储：AI推理带来需求爆发、驱动范式升级，周期能见度大幅拉长》 本报告由中泰电子分析师王芳、杨旭、康丽侠于2026年5月16日发布，核心命题为：存储器产业正由传统消费电子驱动的周期性振荡，演变为由AI推理算力负荷激增主导的结构性成长周期，存储从\"单一层级\"向\"高带宽+大容量+分级管理\"协同架构演进，原厂与北美CSP长协时间拉长至3—5年、锁定高底价，...",
+  "source_domain": "x.com",
+  "author": "TAMPICTG87",
+  "published_at": "Sun Jul 26 09:48:01 +0000 2026",
+  "captured_at": "2026-07-26T10:00:01.825577+00:00",
+  "storage_date": "2026-07-26",
+  "content_hash": "f71829a8a15c759c042482e16291ed2a9214155c470949ebc49f514b74e1eec5",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081315595136716915.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081315595136716915.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/aix_2081315595136716915.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
