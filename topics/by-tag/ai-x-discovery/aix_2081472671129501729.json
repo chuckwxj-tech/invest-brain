@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081472671129501729",
+  "capture_type": "post",
+  "url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+  "canonical_url": "https://x.com/aleabitoreddit/status/2081472671129501729",
+  "title": "Just some TLDR news: - $CXMT IPO tomorrow if you like Chinese memory. - Samsung Electronics reportedly struggling to secure large FC-BGA substrates. Ibiden (4062) reportedly req...",
+  "source_domain": "x.com",
+  "author": "aleabitoreddit",
+  "published_at": "Sun Jul 26 20:12:11 +0000 2026",
+  "captured_at": "2026-07-26T20:30:01.179724+00:00",
+  "storage_date": "2026-07-27",
+  "content_hash": "3f78e39a4e5ce4f64723d9f62160adb40f6352860a10c620b41a97086e291803",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081472671129501729.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081472671129501729.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081472671129501729.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

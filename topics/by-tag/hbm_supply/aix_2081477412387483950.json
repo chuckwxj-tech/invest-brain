@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081477412387483950",
+  "capture_type": "post",
+  "url": "https://x.com/naklongpoong/status/2081477412387483950",
+  "canonical_url": "https://x.com/naklongpoong/status/2081477412387483950",
+  "title": "สรุปข่าวสำคัญจาก Supply Chain + AI Infrastructure ล่าสุด 1. CXMT เตรียม IPO ในวันพรุ่งนี้ 2. Samsung Electronics เจอปัญหาจัดหา FC-BGA Substrate มีรายงานว่า Samsung Electronics ก...",
+  "source_domain": "x.com",
+  "author": "naklongpoong",
+  "published_at": "Sun Jul 26 20:31:01 +0000 2026",
+  "captured_at": "2026-07-26T21:00:01.940391+00:00",
+  "storage_date": "2026-07-27",
+  "content_hash": "7c7accea49ce9a3d44e4f5112132c18c2592077efc8c9f83a16c2173b77fed4d",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081477412387483950.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081477412387483950.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081477412387483950.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

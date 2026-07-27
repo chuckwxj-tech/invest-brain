@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081548432209215684",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2081548432209215684",
+  "canonical_url": "https://x.com/algotradingdesk/status/2081548432209215684",
+  "title": "27 July 2026 🇺🇸 🦆 Quack Box solana:cskxd6aqyqJMYgLZmFYfYecWkjasRJDEtm1QVxsondo (Astera Labs, Inc.) | Closing Price: $291.58 (24 Jul 2026, NASDAQ) Astera Labs is one of the faste...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Mon Jul 27 01:13:14 +0000 2026",
+  "captured_at": "2026-07-27T01:30:01.459667+00:00",
+  "storage_date": "2026-07-27",
+  "content_hash": "403345f183fd8bdb4077af377ad8a2064734f3dbb63737e3411c9bd30ef3bb4d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081548432209215684.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081548432209215684.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081548432209215684.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

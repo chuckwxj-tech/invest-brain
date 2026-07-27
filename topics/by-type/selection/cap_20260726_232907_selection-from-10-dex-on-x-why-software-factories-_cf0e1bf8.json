@@ -1,0 +1,26 @@
+{
+  "id": "cf0e1bf8-1697-428f-a40e-3769e4cf3bcc",
+  "capture_type": "selection",
+  "url": "https://x.com/dexhorthy/status/2081058573556306030",
+  "canonical_url": null,
+  "title": "Selection from: (10) dex on X: \"Why Software Factories Fail: Turning the lights back on\" / X",
+  "source_domain": "x.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-07-26T23:29:07.557763+00:00",
+  "storage_date": "2026-07-26",
+  "content_hash": "f816bf15bc08e8e8e89da753d1471fc45d3abfafebe86d0cfcdaaff4a3aa4780",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_232907_selection-from-10-dex-on-x-why-software-factories-_cf0e1bf8.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_232907_selection-from-10-dex-on-x-why-software-factories-_cf0e1bf8.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_232907_selection-from-10-dex-on-x-why-software-factories-_cf0e1bf8.analysis_prompt.md"
+  }
+}

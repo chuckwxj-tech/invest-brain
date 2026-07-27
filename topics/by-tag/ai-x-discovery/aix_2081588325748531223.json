@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081588325748531223",
+  "capture_type": "post",
+  "url": "https://x.com/paurooteri/status/2081588325748531223",
+  "canonical_url": "https://x.com/paurooteri/status/2081588325748531223",
+  "title": "そう、米国のTSMCにはCoWoSが足りない 米国のAIチップ国内サプライチェーンに欠けているのは、CoWoSというたった一つの要素だけだ。TSMCは、海外展開をさらに拡大する台湾メーカー9社を率いている。 CoWoSの現地化は「メイド・イン・アメリカ」パズルの最後のピースとなり、台湾のメーカーはTSMCに続いて海外展開を拡大していくと予想される。 「...",
+  "source_domain": "x.com",
+  "author": "paurooteri",
+  "published_at": "Mon Jul 27 03:51:45 +0000 2026",
+  "captured_at": "2026-07-27T04:00:01.961444+00:00",
+  "storage_date": "2026-07-27",
+  "content_hash": "577b37bcf70ad47fb5bdc6d8a6b5af75701ba6329b6df417c5ac97ffb8af51fb",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081588325748531223.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081588325748531223.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081588325748531223.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081759522780258746",
+  "capture_type": "post",
+  "url": "https://x.com/chuge857/status/2081759522780258746",
+  "canonical_url": "https://x.com/chuge857/status/2081759522780258746",
+  "title": "别管指数怎么跌，这 4 个底层信号告诉你：AI 算力的超级周期才刚刚开始 今天 Serenity发了一篇极长的新闻汇总（TLDR）。如果你只把它当成普通的科技资讯滑过去，那就太可惜了。 在这十几条看似零散的新闻里，其实隐藏着一条极度清晰的主线：AI 算力产业链正在从“PPT 规划期”全面进入“产能兑现与上游挤压期”。 我挑了其中最核心的 4 个点，给大...",
+  "source_domain": "x.com",
+  "author": "chuge857",
+  "published_at": "Mon Jul 27 15:12:02 +0000 2026",
+  "captured_at": "2026-07-27T15:30:01.625445+00:00",
+  "storage_date": "2026-07-27",
+  "content_hash": "baefeebe96e169895aec538d0cddd14210552941a77e36dd8797af299d1a46ae",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081759522780258746.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081759522780258746.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-27/aix_2081759522780258746.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

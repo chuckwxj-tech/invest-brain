@@ -1,0 +1,26 @@
+{
+  "id": "efe6f077-9799-4a77-bf37-984922f4f6fd",
+  "capture_type": "page",
+  "url": "https://semiconductor.samsung.com/news-events/tech-blog/breaking-ai-memory-limits-with-cxl-memory-pooling/",
+  "canonical_url": "https://semiconductor.samsung.com/news-events/tech-blog/breaking-ai-memory-limits-with-cxl-memory-pooling/",
+  "title": "Breaking AI Memory Limits with CXL Memory Pooling",
+  "source_domain": "semiconductor.samsung.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-07-26T23:38:59.962336+00:00",
+  "storage_date": "2026-07-26",
+  "content_hash": "cafc6aa6be827fbceb3d6fa2b889ae88384b4d85ac29627ac935a72ff9eb89e9",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "fuzzy_warn",
+  "duplicate_of": "61d35216-117e-4ff3-a570-61b49f45c2b0",
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_233859_breaking-ai-memory-limits-with-cxl-memory-pooling_efe6f077.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_233859_breaking-ai-memory-limits-with-cxl-memory-pooling_efe6f077.json",
+    "raw_html": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_233859_breaking-ai-memory-limits-with-cxl-memory-pooling_efe6f077.raw.html",
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-26/cap_20260726_233859_breaking-ai-memory-limits-with-cxl-memory-pooling_efe6f077.analysis_prompt.md"
+  }
+}
