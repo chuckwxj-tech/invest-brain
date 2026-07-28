@@ -1,0 +1,46 @@
+{
+  "id": "ai-x:2081875472548311044",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2081875472548311044",
+  "canonical_url": "https://x.com/TheValueist/status/2081875472548311044",
+  "title": "CUSTOM AI SILICON, HBM AND ACCELERATOR COMPETITION DIRECT HYPERSCALER ARCHITECTURE CONTROL IS A STRUCTURAL TAILWIND FOR CUSTOM ASIC ENABLERS AND A RELATIVE SHARE RISK FOR NVIDIA...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Mon Jul 27 22:52:46 +0000 2026",
+  "captured_at": "2026-07-27T23:00:01.598948+00:00",
+  "storage_date": "2026-07-28",
+  "content_hash": "b27a8333bba78ef87dc2c10c7852f52f3061ff3eb54baa8e915f19d85d99f5a3",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "new_asset",
+    "Memory",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081875472548311044.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081875472548311044.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081875472548311044.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory",
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

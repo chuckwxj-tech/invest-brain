@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081875465619542164",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2081875465619542164",
+  "canonical_url": "https://x.com/TheValueist/status/2081875465619542164",
+  "title": "$RMBS KEY READ-THROUGHS FROM RAMBUS Q2 2026 EARNINGS CALL OVERVIEW Rambus’s Q2 2026 earnings call provides several high-conviction cross-market signals for the data center compu...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Mon Jul 27 22:52:45 +0000 2026",
+  "captured_at": "2026-07-27T23:00:01.598948+00:00",
+  "storage_date": "2026-07-28",
+  "content_hash": "60326745010ecb388d5d136a75713c49376a2a6dc30b2435763eaa1e30ce0cbc",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081875465619542164.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081875465619542164.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081875465619542164.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

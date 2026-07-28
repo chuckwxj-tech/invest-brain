@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082025950213206277",
+  "capture_type": "post",
+  "url": "https://x.com/antfeedapp/status/2082025950213206277",
+  "canonical_url": "https://x.com/antfeedapp/status/2082025950213206277",
+  "title": "CHINA CLOSES THE GLASS SUBSTRATE GAP: HUAWEI TARGETS COMMERCIALIZATION NEXT YEAR TLDR: Huawei is pushing to commercialize semiconductor glass substrates next year, and industry ...",
+  "source_domain": "x.com",
+  "author": "antfeedapp",
+  "published_at": "Tue Jul 28 08:50:43 +0000 2026",
+  "captured_at": "2026-07-28T09:00:01.439044+00:00",
+  "storage_date": "2026-07-28",
+  "content_hash": "2253f0f04b8ecc2c7ddfec330aceb3ab3fe5fdcab770599d6af5af1804b710eb",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2082025950213206277.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2082025950213206277.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2082025950213206277.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

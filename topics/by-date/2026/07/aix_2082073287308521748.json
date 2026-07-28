@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082073287308521748",
+  "capture_type": "post",
+  "url": "https://x.com/QQ_Timmy/status/2082073287308521748",
+  "canonical_url": "https://x.com/QQ_Timmy/status/2082073287308521748",
+  "title": "台灣2027年半導體展望 1. 先進封裝、CoWoS預測調整 維持2027年底台積電CoWoS總產能18萬片／月預測，上修日月光FoCoS至5萬片／月以支援CPU與網通需求。2028年台積電產能預期22萬片／月，因優先擴大CoWoS而放緩SoIC，具上修空間；第四季擴產下修至7萬片。輝達仍佔逾50%最大客戶，2027年分配估達1.03億片；博通次之，聯...",
+  "source_domain": "x.com",
+  "author": "QQ_Timmy",
+  "published_at": "Tue Jul 28 11:58:49 +0000 2026",
+  "captured_at": "2026-07-28T12:00:01.846452+00:00",
+  "storage_date": "2026-07-28",
+  "content_hash": "ad9eaee58a2cf791e83f0ecaf21802cf042b1f0329747add170bb7deb37c0519",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2082073287308521748.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2082073287308521748.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2082073287308521748.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

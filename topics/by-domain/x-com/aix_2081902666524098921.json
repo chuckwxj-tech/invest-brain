@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2081902666524098921",
+  "capture_type": "post",
+  "url": "https://x.com/russell_vaughn1/status/2081902666524098921",
+  "canonical_url": "https://x.com/russell_vaughn1/status/2081902666524098921",
+  "title": "【7月28日早间新闻精选】📊 1、近日，美国一些高级官员公开表示将针对中国人工智能企业所谓“蒸馏”美前沿模型开展调查，并可能以“窃取美国知识产权”等为由制裁中国企业。对此，商务部新闻发言人回应表示，中方敦促美方倾听中美两国业界客观、理性声音，纠正霸权思维，停止对中国企业的抹黑和制裁威胁。 2、据报道，部分券商收到交易所通知并公告，券商将配合实施交易行情...",
+  "source_domain": "x.com",
+  "author": "russell_vaughn1",
+  "published_at": "Tue Jul 28 00:40:50 +0000 2026",
+  "captured_at": "2026-07-28T01:00:01.204741+00:00",
+  "storage_date": "2026-07-28",
+  "content_hash": "1b387686aa3f7ad578d63b6fa2d4d388de58e59ee489b631bd15e6c9cd1c4b82",
+  "tags": [
+    "ai-x-discovery",
+    "cn_hardware_signal",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081902666524098921.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081902666524098921.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-28/aix_2081902666524098921.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cn_hardware_signal",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
