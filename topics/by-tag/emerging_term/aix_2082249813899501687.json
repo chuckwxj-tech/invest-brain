@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082249813899501687",
+  "capture_type": "post",
+  "url": "https://x.com/z35001116/status/2082249813899501687",
+  "canonical_url": "https://x.com/z35001116/status/2082249813899501687",
+  "title": "🗞️ ASMPT posts H1 2026 net profit of HK$589M, up 174.1% YoY (Jul 28 7:07pm ET) 📈 Bullish 🔗 ASMPT, a leading advanced-packaging equipment maker (TCB/hybrid bonders for HBM stacki...",
+  "source_domain": "x.com",
+  "author": "z35001116",
+  "published_at": "Tue Jul 28 23:40:16 +0000 2026",
+  "captured_at": "2026-07-29T00:30:01.382674+00:00",
+  "storage_date": "2026-07-29",
+  "content_hash": "bc930c35e32ddd0478e1e0564680b25b38b207ae0530ff59cb1f99854da98233",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082249813899501687.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082249813899501687.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082249813899501687.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

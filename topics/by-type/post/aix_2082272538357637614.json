@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082272538357637614",
+  "capture_type": "post",
+  "url": "https://x.com/z35001116/status/2082272538357637614",
+  "canonical_url": "https://x.com/z35001116/status/2082272538357637614",
+  "title": "🗞️ ASMPT guides Q3 revenue up 46.3% YoY, above market expectations (Jul 28 8:47pm ET) 📈 Bullish 🔗 ASMPT guides Q3 revenue +46.3% YoY, above expectations - a real tell that advan...",
+  "source_domain": "x.com",
+  "author": "z35001116",
+  "published_at": "Wed Jul 29 01:10:34 +0000 2026",
+  "captured_at": "2026-07-29T01:30:01.861836+00:00",
+  "storage_date": "2026-07-29",
+  "content_hash": "b479813a6a47cc60e267f0ec41c4dda5d9f9648b349b2c7848d363271d3060db",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082272538357637614.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082272538357637614.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082272538357637614.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

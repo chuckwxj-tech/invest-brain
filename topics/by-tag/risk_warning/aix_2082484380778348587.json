@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082484380778348587",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2082484380778348587",
+  "canonical_url": "https://x.com/TheValueist/status/2082484380778348587",
+  "title": "$TER KEY READ-THROUGHS FROM TERADYNE Q2 2026 EARNINGS CALL Teradyne’s Q2 2026 call provides unusually strong evidence that the AI infrastructure investment cycle is broadening b...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Wed Jul 29 15:12:21 +0000 2026",
+  "captured_at": "2026-07-29T15:30:01.277611+00:00",
+  "storage_date": "2026-07-29",
+  "content_hash": "3712756ec25425e45ce78a334a228a5e5417eadb7b05aba07d1c7025c6ff7a63",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082484380778348587.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082484380778348587.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082484380778348587.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

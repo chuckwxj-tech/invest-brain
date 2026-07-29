@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082307780938183048",
+  "capture_type": "post",
+  "url": "https://x.com/naklongpoong/status/2082307780938183048",
+  "canonical_url": "https://x.com/naklongpoong/status/2082307780938183048",
+  "title": "อัปเดต CoWoS และ Advanced Packaging: ใครกำลังเพิ่มกำลังผลิต และใครจะได้ Capacity เพิ่ม? มีการอัปเดตประมาณการกำลังการผลิตของผู้ผลิตชิปและผู้ให้บริการแพ็กเกจชิปรายใหญ่ ซึ่งสะท้อนว...",
+  "source_domain": "x.com",
+  "author": "naklongpoong",
+  "published_at": "Wed Jul 29 03:30:37 +0000 2026",
+  "captured_at": "2026-07-29T04:30:01.702234+00:00",
+  "storage_date": "2026-07-29",
+  "content_hash": "422bcc192a1c495e310f0c807a86fd06930da5cd6c9e66d70daffe2eab6dd455",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082307780938183048.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082307780938183048.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082307780938183048.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

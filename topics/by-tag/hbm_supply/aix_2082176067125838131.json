@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082176067125838131",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2082176067125838131",
+  "canonical_url": "https://x.com/pequityresearch/status/2082176067125838131",
+  "title": "Fubon Research: Sector Snapshot Advanced Packaging & CoWoS Forecast > TSMC Capacity: Forecasted to reach 180 kwpm by the end of 2027, and 220 kwpm by the end of 2028, with poten...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Tue Jul 28 18:47:14 +0000 2026",
+  "captured_at": "2026-07-28T19:00:01.261782+00:00",
+  "storage_date": "2026-07-29",
+  "content_hash": "8cd38ebe871157fcbd4c1aa085c2585aee4b20c08e4d8eaf6fd5b74ec9d54869",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082176067125838131.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082176067125838131.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082176067125838131.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

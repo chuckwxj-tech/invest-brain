@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082269231857729841",
+  "capture_type": "post",
+  "url": "https://x.com/antfeedapp/status/2082269231857729841",
+  "canonical_url": "https://x.com/antfeedapp/status/2082269231857729841",
+  "title": "CHINA PUSHES GLASS SUBSTRATES: TAIWAN RACES TO BUILD THE SUPPLY CHAIN TLDR: China’s Lens Technology is exploring glass-core substrate development with Intel, while BOE is target...",
+  "source_domain": "x.com",
+  "author": "antfeedapp",
+  "published_at": "Wed Jul 29 00:57:26 +0000 2026",
+  "captured_at": "2026-07-29T01:30:01.861836+00:00",
+  "storage_date": "2026-07-29",
+  "content_hash": "cb551380cad010f5f7b35bba51464bd0d362c4db5323263030d6052d5673ef3d",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082269231857729841.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082269231857729841.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-29/aix_2082269231857729841.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
