@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082709354323628349",
+  "capture_type": "post",
+  "url": "https://x.com/jukan05/status/2082709354323628349",
+  "canonical_url": "https://x.com/jukan05/status/2082709354323628349",
+  "title": "[Four Key Questions from Samsung Electro-Mechanics’ Conference Call] Q1) (Company-wide) What is the outlook for Q3 earnings? A1) In Q2, the company delivered year-on-year and qu...",
+  "source_domain": "x.com",
+  "author": "jukan05",
+  "published_at": "Thu Jul 30 06:06:19 +0000 2026",
+  "captured_at": "2026-07-30T07:00:01.392448+00:00",
+  "storage_date": "2026-07-30",
+  "content_hash": "4c86c06868fcec1473bb4f9234703d6e5e75f9833f1897e6139569a16da7763d",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082709354323628349.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082709354323628349.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082709354323628349.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

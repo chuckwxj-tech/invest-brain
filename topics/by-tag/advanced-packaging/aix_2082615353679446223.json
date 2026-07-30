@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082615353679446223",
+  "capture_type": "post",
+  "url": "https://x.com/stockedgeN/status/2082615353679446223",
+  "canonical_url": "https://x.com/stockedgeN/status/2082615353679446223",
+  "title": "$CAMT will 2x at 10x 2027 sales Here’s another positive read through from $KLAC Advanced packaging is inflecting hard, and accelerating. KLA raised its adv-packaging revenue gro...",
+  "source_domain": "x.com",
+  "author": "stockedgeN",
+  "published_at": "Wed Jul 29 23:52:48 +0000 2026",
+  "captured_at": "2026-07-30T00:00:01.186920+00:00",
+  "storage_date": "2026-07-30",
+  "content_hash": "1c1e48446f7a5ecfb37b3aa28105ec403b0fd41582c11af93ec79d3d347f1f47",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082615353679446223.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082615353679446223.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082615353679446223.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

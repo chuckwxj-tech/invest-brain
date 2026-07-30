@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082578818397848040",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2082578818397848040",
+  "canonical_url": "https://x.com/TheValueist/status/2082578818397848040",
+  "title": "$APH KEY READ-THROUGHS FROM AMPHENOL Q2 2026 EARNINGS CALL Amphenol’s Q2 2026 call provides a materially positive cross-check on global AI infrastructure investment, data-center...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Wed Jul 29 21:27:37 +0000 2026",
+  "captured_at": "2026-07-29T21:30:01.509760+00:00",
+  "storage_date": "2026-07-30",
+  "content_hash": "c635c77226d0dd1e611cc1e7935a5c67c7ebdd04f437235f8659646b23553b51",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082578818397848040.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082578818397848040.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-30/aix_2082578818397848040.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
