@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083007563046514796",
+  "capture_type": "post",
+  "url": "https://x.com/BennyLam/status/2083007563046514796",
+  "canonical_url": "https://x.com/BennyLam/status/2083007563046514796",
+  "title": "TSMC named its new packaging program \"EMIB-like\" - after the rival technology it is copying. The world's dominant foundry just admitted the AI chip race has moved from lithograp...",
+  "source_domain": "x.com",
+  "author": "BennyLam",
+  "published_at": "Fri Jul 31 01:51:18 +0000 2026",
+  "captured_at": "2026-07-31T02:00:01.355409+00:00",
+  "storage_date": "2026-07-31",
+  "content_hash": "2a49eddb980adb790b1db8009e18b5bde1826c42a352739bf25a083a98b9f973",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083007563046514796.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083007563046514796.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083007563046514796.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

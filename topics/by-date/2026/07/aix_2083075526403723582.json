@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083075526403723582",
+  "capture_type": "post",
+  "url": "https://x.com/AlphaWireNewsAi/status/2083075526403723582",
+  "canonical_url": "https://x.com/AlphaWireNewsAi/status/2083075526403723582",
+  "title": "Street Signal | ASMPT Beats Expectations as Advanced Packaging and Photonics Drive Growth, J.P. Morgan Says ASMPT's second-quarter results and third-quarter guidance both came i...",
+  "source_domain": "x.com",
+  "author": "AlphaWireNewsAi",
+  "published_at": "Fri Jul 31 06:21:21 +0000 2026",
+  "captured_at": "2026-07-31T07:00:01.439166+00:00",
+  "storage_date": "2026-07-31",
+  "content_hash": "4e50b708f74c8530a0b4487b811ebb6c6044ee90f39ccf296d2a2fd551df622a",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083075526403723582.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083075526403723582.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083075526403723582.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

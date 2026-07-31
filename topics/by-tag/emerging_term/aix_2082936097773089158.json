@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082936097773089158",
+  "capture_type": "post",
+  "url": "https://x.com/craigomes/status/2082936097773089158",
+  "canonical_url": "https://x.com/craigomes/status/2082936097773089158",
+  "title": "🌐 **PROJECT DITTOBOT: EXECUTIVE MASTER REFINEMENT & 2026 REAL-TIME PATCH** **Integration Status:** Synchronized with your Voxel Box Bot Master Notebook System **Baseline Standar...",
+  "source_domain": "x.com",
+  "author": "craigomes",
+  "published_at": "Thu Jul 30 21:07:19 +0000 2026",
+  "captured_at": "2026-07-30T22:00:01.226735+00:00",
+  "storage_date": "2026-07-31",
+  "content_hash": "73d78cc53eeee209c53a365af00c5dfd56282f6e19d0c38b867c9bcb1660a85a",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2082936097773089158.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2082936097773089158.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2082936097773089158.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

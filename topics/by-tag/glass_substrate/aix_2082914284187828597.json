@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2082914284187828597",
+  "capture_type": "post",
+  "url": "https://x.com/MojoTricks/status/2082914284187828597",
+  "canonical_url": "https://x.com/MojoTricks/status/2082914284187828597",
+  "title": "Samsung Electro-Mechanics is doubling down on AI data centers and automotive. On its Q2 conference call the company said it will concentrate resources on these two high-growth m...",
+  "source_domain": "x.com",
+  "author": "MojoTricks",
+  "published_at": "Thu Jul 30 19:40:38 +0000 2026",
+  "captured_at": "2026-07-30T20:00:01.377799+00:00",
+  "storage_date": "2026-07-31",
+  "content_hash": "8a3e3dd943beb22d811179f8e84a1f4faff71a4865cdadbea23d3c738f4f875d",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "new_asset",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2082914284187828597.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2082914284187828597.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2082914284187828597.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

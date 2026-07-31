@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083081566671311222",
+  "capture_type": "post",
+  "url": "https://x.com/ilpyung98/status/2083081566671311222",
+  "canonical_url": "https://x.com/ilpyung98/status/2083081566671311222",
+  "title": "일평 한국증시 신고가 및 상한가 종목 분석 (2026년 7월 31일) ■ 한눈에 보기 2026년 7월 31일 코스피·코스닥에서 26개 종목이 무더기 상한가를 기록한 가장 큰 원인은 개별 호재가 아니라, 간밤 미국 마이크로소프트(MS)의 어닝 서프라이즈로 촉발된 'AI 투자 지속성' 우려 해소와 이에 따른 필라델피아 ...",
+  "source_domain": "x.com",
+  "author": "ilpyung98",
+  "published_at": "Fri Jul 31 06:45:21 +0000 2026",
+  "captured_at": "2026-07-31T07:00:01.439166+00:00",
+  "storage_date": "2026-07-31",
+  "content_hash": "5f16a123702aace460775e7f13f23126cb441cfd0f8f2be8b9f0cba108eb2ae9",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083081566671311222.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083081566671311222.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083081566671311222.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

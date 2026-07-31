@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083029162915434616",
+  "capture_type": "post",
+  "url": "https://x.com/katzspx/status/2083029162915434616",
+  "canonical_url": "https://x.com/katzspx/status/2083029162915434616",
+  "title": "AI Data Centers Are Eating Into $AAPL ’s Supply Chain This is the most profound signal hidden in Apple’s latest earnings report. Combined capital expenditure of $MSFT, $META , $...",
+  "source_domain": "x.com",
+  "author": "katzspx",
+  "published_at": "Fri Jul 31 03:17:07 +0000 2026",
+  "captured_at": "2026-07-31T04:00:01.944313+00:00",
+  "storage_date": "2026-07-31",
+  "content_hash": "15dc860e32499aaa24ef5e9d56636df57de388f2f211288239e95848f2d0cc93",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083029162915434616.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083029162915434616.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-07-31/aix_2083029162915434616.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
