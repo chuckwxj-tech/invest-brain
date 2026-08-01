@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083389759536415004",
+  "capture_type": "post",
+  "url": "https://x.com/AlphaWireNewsAi/status/2083389759536415004",
+  "canonical_url": "https://x.com/AlphaWireNewsAi/status/2083389759536415004",
+  "title": "Just in: TSMC Develops EMIB-Like Packaging Technology as Advanced Packaging Becomes Key Battleground. TSMC is developing an advanced packaging technology similar to Intel’s Embe...",
+  "source_domain": "x.com",
+  "author": "AlphaWireNewsAi",
+  "published_at": "Sat Aug 01 03:10:00 +0000 2026",
+  "captured_at": "2026-08-01T03:30:01.699444+00:00",
+  "storage_date": "2026-08-01",
+  "content_hash": "a2c4419e2111bf4b5d57bab2409ec991c00273dabb28e83da4d281c6338f92c2",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083389759536415004.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083389759536415004.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083389759536415004.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

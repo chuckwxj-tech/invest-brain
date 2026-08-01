@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083302128102318442",
+  "capture_type": "post",
+  "url": "https://x.com/Carp213Nico/status/2083302128102318442",
+  "canonical_url": "https://x.com/Carp213Nico/status/2083302128102318442",
+  "title": "As a earnings recap: $AMZN , $META , $GOOGL , and $MSFT guided a 2026 combined capex forecast to ~$720-$745 Billion. Up from $695-$725B Billion previously. Amazon: $220B Google:...",
+  "source_domain": "x.com",
+  "author": "Carp213Nico",
+  "published_at": "Fri Jul 31 21:21:47 +0000 2026",
+  "captured_at": "2026-07-31T22:30:01.718803+00:00",
+  "storage_date": "2026-08-01",
+  "content_hash": "cca471d2b11cce1183e25e4e419d10d4c734d38dbb69689ddd2fc9b2b70633b8",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083302128102318442.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083302128102318442.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083302128102318442.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

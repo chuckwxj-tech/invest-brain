@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083450881077346445",
+  "capture_type": "post",
+  "url": "https://x.com/RichPeterLi/status/2083450881077346445",
+  "canonical_url": "https://x.com/RichPeterLi/status/2083450881077346445",
+  "title": "$LITE --- $LITE officially announced it will release fiscal Q4 and full Fiscal Year 2026 earnings after market close on August 11, 2026. Investors are intensely focused on wheth...",
+  "source_domain": "x.com",
+  "author": "RichPeterLi",
+  "published_at": "Sat Aug 01 07:12:53 +0000 2026",
+  "captured_at": "2026-08-01T07:30:02.121702+00:00",
+  "storage_date": "2026-08-01",
+  "content_hash": "9bf97c292216823fc5709fa74de223ea29bf0020a56603c7788a25589fcbe606",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083450881077346445.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083450881077346445.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083450881077346445.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

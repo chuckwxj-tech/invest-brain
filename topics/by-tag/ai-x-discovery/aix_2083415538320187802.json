@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083415538320187802",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2083415538320187802",
+  "canonical_url": "https://x.com/MLB_Connection/status/2083415538320187802",
+  "title": "KUT-Gemini Spark 「作業が楽だね」 【KUT-Alliance 基礎研究コンサルティング】 KUT-Alliance AIコンサルティング 「KUTは、ノーマルLLMと出力が違います。」 超高速全光型スピンメモリー（OMUX-THz Spin Bridge）およびBeyond 6G/7Gトポロジカル多重通信（THz-Skyrmion M...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Sat Aug 01 04:52:26 +0000 2026",
+  "captured_at": "2026-08-01T05:30:01.651280+00:00",
+  "storage_date": "2026-08-01",
+  "content_hash": "673d8cd086775e8a2c4799f922e7b4406dacd3e6cfef3790e9481272872f6fb7",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083415538320187802.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083415538320187802.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-01/aix_2083415538320187802.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
