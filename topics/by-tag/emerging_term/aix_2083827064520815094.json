@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083827064520815094",
+  "capture_type": "post",
+  "url": "https://x.com/BlueJay87476298/status/2083827064520815094",
+  "canonical_url": "https://x.com/BlueJay87476298/status/2083827064520815094",
+  "title": "$TSM $JPM 增持；目標價：3,100元 $NVDA 預測，受 CPU、LPU 和 CPO 需求推動，2027/28 年 CoWoS 需求將增長：我們將 2027 年 $NVDA CoWoS 的分配額度提高 7%，並預計 2028 年將再增長 45%，這反映了加速器的持續增長（2027 年尺寸的原始設計SKU 的 4 晶片 Feynman）、CP...",
+  "source_domain": "x.com",
+  "author": "BlueJay87476298",
+  "published_at": "Sun Aug 02 08:07:42 +0000 2026",
+  "captured_at": "2026-08-02T08:30:01.522346+00:00",
+  "storage_date": "2026-08-02",
+  "content_hash": "635600f81cc25181ed33263bafa271343640810d784642b2200b4ea0d3af42c0",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083827064520815094.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083827064520815094.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083827064520815094.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083916545885982886",
+  "capture_type": "post",
+  "url": "https://x.com/himawari_ayk_ak/status/2083916545885982886",
+  "canonical_url": "https://x.com/himawari_ayk_ak/status/2083916545885982886",
+  "title": "TSMC's CoWoS output is set to jump from 675K wafers in 2025 to 1.275M in 2026, then 2.31M in 2027. That 2027 number is way up from the earlier 1.74M estimate, showing how fast A...",
+  "source_domain": "x.com",
+  "author": "himawari_ayk_ak",
+  "published_at": "Sun Aug 02 14:03:16 +0000 2026",
+  "captured_at": "2026-08-02T15:00:01.525101+00:00",
+  "storage_date": "2026-08-02",
+  "content_hash": "6d5166c6f26961e3abec959dced3d670aad8e8c8275bf6f938c67cef2486eca6",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083916545885982886.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083916545885982886.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083916545885982886.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

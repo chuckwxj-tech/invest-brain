@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2083834856556114301",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2083834856556114301",
+  "canonical_url": "https://x.com/algotradingdesk/status/2083834856556114301",
+  "title": "📅 02 Aug 2026 🇯🇵 🚨 Stock to Watch: Socionext (6526.T) Socionext is one of Japan’s more differentiated custom SoC / ASIC semiconductor plays, designing advanced chips for AI data...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Sun Aug 02 08:38:40 +0000 2026",
+  "captured_at": "2026-08-02T09:30:01.212803+00:00",
+  "storage_date": "2026-08-02",
+  "content_hash": "ad6286e2371073e7682e3d4ab23fbed2a0b7bfd9915ad6355924b738b32622be",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "new_asset",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083834856556114301.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083834856556114301.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-02/aix_2083834856556114301.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
