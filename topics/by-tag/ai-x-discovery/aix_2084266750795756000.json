@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084266750795756000",
+  "capture_type": "post",
+  "url": "https://x.com/FairywangHk/status/2084266750795756000",
+  "canonical_url": "https://x.com/FairywangHk/status/2084266750795756000",
+  "title": "The rumor is that Rubin Ultra has been downgraded from 384GB of 12-Hi HBM4E to 192GB of 8-Hi HBM4, with GPU power falling from 2,300W to 1,800W. My view: the cost-down direction...",
+  "source_domain": "x.com",
+  "author": "FairywangHk",
+  "published_at": "Mon Aug 03 13:14:51 +0000 2026",
+  "captured_at": "2026-08-03T14:00:02.006069+00:00",
+  "storage_date": "2026-08-03",
+  "content_hash": "6d48b056ae581d55db815aea43653c10c3617c89b2932cd25bb34d9642173edb",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084266750795756000.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084266750795756000.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084266750795756000.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

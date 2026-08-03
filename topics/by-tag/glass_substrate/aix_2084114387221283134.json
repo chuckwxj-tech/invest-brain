@@ -1,0 +1,46 @@
+{
+  "id": "ai-x:2084114387221283134",
+  "capture_type": "post",
+  "url": "https://x.com/JoedithD/status/2084114387221283134",
+  "canonical_url": "https://x.com/JoedithD/status/2084114387221283134",
+  "title": "英伟达 Vera Rubin 千兆 AI 工厂全面落地｜光互连产业革命 + 8 家核心光模块企业最新深度全梳理 一、本轮行情顶层催化：AI 算力竞争彻底进入光互连系统架构比拼时代 （一）事件完整背景与技术颠覆性 7 月英伟达正式官宣两大重磅产品，直接改写下一代 AI 数据中心硬件架构： 目前该机架方案已在 CoreWeave、谷歌云 Google Cl...",
+  "source_domain": "x.com",
+  "author": "JoedithD",
+  "published_at": "Mon Aug 03 03:09:25 +0000 2026",
+  "captured_at": "2026-08-03T03:30:01.825928+00:00",
+  "storage_date": "2026-08-03",
+  "content_hash": "1510746bbccdc40a8097696c458dcfe728ca1256d1cf6898375f22bec3e7def1",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084114387221283134.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084114387221283134.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084114387221283134.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging",
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

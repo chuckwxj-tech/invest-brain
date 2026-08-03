@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084037702425735633",
+  "capture_type": "post",
+  "url": "https://x.com/degenrsc/status/2084037702425735633",
+  "canonical_url": "https://x.com/degenrsc/status/2084037702425735633",
+  "title": "The AI chip everyone's buying can't ship without the one thing nobody is paying attention to: advanced packaging. Here's the whole board, and who actually captures the dollars. ...",
+  "source_domain": "x.com",
+  "author": "degenrsc",
+  "published_at": "Sun Aug 02 22:04:42 +0000 2026",
+  "captured_at": "2026-08-02T23:00:01.568552+00:00",
+  "storage_date": "2026-08-03",
+  "content_hash": "9541696e0ab2833bbd605a0c6a1de6168f1abf1b2a8e22a85aaba27037e0adcf",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084037702425735633.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084037702425735633.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084037702425735633.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

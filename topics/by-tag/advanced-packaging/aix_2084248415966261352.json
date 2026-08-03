@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084248415966261352",
+  "capture_type": "post",
+  "url": "https://x.com/Vaelis_X/status/2084248415966261352",
+  "canonical_url": "https://x.com/Vaelis_X/status/2084248415966261352",
+  "title": "I missed this last week, but glass substrates look a lot less “2028 story” than I thought. SKC 011790.KS says Absolics has already produced qualified samples in Georgia and sent...",
+  "source_domain": "x.com",
+  "author": "Vaelis_X",
+  "published_at": "Mon Aug 03 12:02:00 +0000 2026",
+  "captured_at": "2026-08-03T13:00:02.126744+00:00",
+  "storage_date": "2026-08-03",
+  "content_hash": "b4b990f79a84e64bdfdf9775c095238bc558fb75ce18d6eda7f17d6b57022971",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084248415966261352.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084248415966261352.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084248415966261352.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

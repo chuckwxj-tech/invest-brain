@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084242192386912724",
+  "capture_type": "post",
+  "url": "https://x.com/truetrue2355/status/2084242192386912724",
+  "canonical_url": "https://x.com/truetrue2355/status/2084242192386912724",
+  "title": "@wallstengine 1.2T in data center buildouts, 8-GPU servers up 48% in 2026, and Google TPU shipments surging 90%. This is why TSMC advanced wafers, HBM, and E-Glass substrates ar...",
+  "source_domain": "x.com",
+  "author": "truetrue2355",
+  "published_at": "Mon Aug 03 11:37:16 +0000 2026",
+  "captured_at": "2026-08-03T13:00:02.126744+00:00",
+  "storage_date": "2026-08-03",
+  "content_hash": "cb1148afd0317639d2a5e5a493021d7606413f9e63e32c230579a84e30fe416a",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084242192386912724.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084242192386912724.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-03/aix_2084242192386912724.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
