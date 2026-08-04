@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084638376691425726",
+  "capture_type": "post",
+  "url": "https://x.com/Ironwood_BR/status/2084638376691425726",
+  "canonical_url": "https://x.com/Ironwood_BR/status/2084638376691425726",
+  "title": "Marvell $MRVL Advances AI Memory Infrastructure Portfolio to Accelerate Agentic AI Inference Industry’s broadest portfolio: New Marvell® Bravera® and Photonic Fabric™ innovation...",
+  "source_domain": "x.com",
+  "author": "Ironwood_BR",
+  "published_at": "Tue Aug 04 13:51:34 +0000 2026",
+  "captured_at": "2026-08-04T15:00:02.023620+00:00",
+  "storage_date": "2026-08-04",
+  "content_hash": "67faa2f639dc0ce90fddf259f8be19d65eb14c6711186028182712791b1d8a44",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084638376691425726.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084638376691425726.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084638376691425726.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

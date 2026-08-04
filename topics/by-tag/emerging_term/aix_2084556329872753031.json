@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084556329872753031",
+  "capture_type": "post",
+  "url": "https://x.com/HyperTechInvest/status/2084556329872753031",
+  "canonical_url": "https://x.com/HyperTechInvest/status/2084556329872753031",
+  "title": "CoPoS Moves Toward Commercialization, Taiwanese Suppliers Seize the Opportunity $TSM and Intel are advancing glass-substrate packaging plans, with validation expected in 2026 an...",
+  "source_domain": "x.com",
+  "author": "HyperTechInvest",
+  "published_at": "Tue Aug 04 08:25:32 +0000 2026",
+  "captured_at": "2026-08-04T09:00:01.372056+00:00",
+  "storage_date": "2026-08-04",
+  "content_hash": "f48a0781a8ec8420d49f878958e12f5683c446467d4417399bc27f984ebfb55d",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084556329872753031.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084556329872753031.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084556329872753031.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

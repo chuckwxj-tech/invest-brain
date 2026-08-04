@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084631690279022791",
+  "capture_type": "post",
+  "url": "https://x.com/mrcooler6868/status/2084631690279022791",
+  "canonical_url": "https://x.com/mrcooler6868/status/2084631690279022791",
+  "title": "The market is treating AI inference as a GPU problem. GPUs sit idle when memory and storage cannot feed them. $MRVL is showing the rest at FMS: SSD control, CXL memory pooling, ...",
+  "source_domain": "x.com",
+  "author": "mrcooler6868",
+  "published_at": "Tue Aug 04 13:25:00 +0000 2026",
+  "captured_at": "2026-08-04T13:30:02.016672+00:00",
+  "storage_date": "2026-08-04",
+  "content_hash": "c0d2f692adcb759b0e15f7b79dca7345bf0da3f8062acb55b065fd9e433b6962",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084631690279022791.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084631690279022791.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084631690279022791.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

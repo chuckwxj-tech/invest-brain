@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084483786805477796",
+  "capture_type": "post",
+  "url": "https://x.com/paurooteri/status/2084483786805477796",
+  "canonical_url": "https://x.com/paurooteri/status/2084483786805477796",
+  "title": "CoPoSはやはりファインマンからかな Intelと真っ向勝負！TSMCの子会社で、現在は機関投資家でもあるCoPoSは、洪蘇（Hung-So）のような機器メーカーがTGV関連のビジネスチャンスから恩恵を受けると楽観視している。 TSMCとインテルはガラス基板の開発を進めており、2026年の検証と2028年の量産を目指している。これにより、洪秀、万潤、...",
+  "source_domain": "x.com",
+  "author": "paurooteri",
+  "published_at": "Tue Aug 04 03:37:17 +0000 2026",
+  "captured_at": "2026-08-04T04:00:01.291035+00:00",
+  "storage_date": "2026-08-04",
+  "content_hash": "2a4f9e800bc0a00fd1ea0d6c5f79ce354d804202a836ac81f64ba995e816d761",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084483786805477796.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084483786805477796.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-04/aix_2084483786805477796.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
