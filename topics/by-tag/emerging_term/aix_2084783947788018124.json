@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084783947788018124",
+  "capture_type": "post",
+  "url": "https://x.com/ministerinvest/status/2084783947788018124",
+  "canonical_url": "https://x.com/ministerinvest/status/2084783947788018124",
+  "title": "Did Marvell Technology open the door for some more technological madness to release some tension regarding memory in datacenters? A good read got released today: The AI Core Pro...",
+  "source_domain": "x.com",
+  "author": "ministerinvest",
+  "published_at": "Tue Aug 04 23:30:01 +0000 2026",
+  "captured_at": "2026-08-05T00:00:01.325391+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "6cf4b0ea4b74af5d23e21885b6cdd3c9d91d28181ecb957b64787dcc5643adbe",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084783947788018124.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084783947788018124.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084783947788018124.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

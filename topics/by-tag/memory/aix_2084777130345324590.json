@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084777130345324590",
+  "capture_type": "post",
+  "url": "https://x.com/QOECapital/status/2084777130345324590",
+  "canonical_url": "https://x.com/QOECapital/status/2084777130345324590",
+  "title": "@BenBajarin Did u see $ALAB earnings call? They have 1 hyperscale customer ramping cxls next qtr and expect to be shipping to 2 in volume in cy27",
+  "source_domain": "x.com",
+  "author": "QOECapital",
+  "published_at": "Tue Aug 04 23:02:55 +0000 2026",
+  "captured_at": "2026-08-05T00:00:01.325391+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "0b3e352978f4df24c8125d12effc020dfb67da57f43c16b6055d299638be0ce6",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084777130345324590.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084777130345324590.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084777130345324590.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

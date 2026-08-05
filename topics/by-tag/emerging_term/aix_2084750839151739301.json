@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084750839151739301",
+  "capture_type": "post",
+  "url": "https://x.com/Redknight8811/status/2084750839151739301",
+  "canonical_url": "https://x.com/Redknight8811/status/2084750839151739301",
+  "title": "🇺🇸Top 15 U.S. Stocks Set to Skyrocket on the Proposed Chinese Optical Transceiver Ban U.S. optical component stocks are experiencing an explosive rally as a landmark geopolitica...",
+  "source_domain": "x.com",
+  "author": "Redknight8811",
+  "published_at": "Tue Aug 04 21:18:27 +0000 2026",
+  "captured_at": "2026-08-04T22:00:01.791636+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "b6487e2aee763e8a55ac2ff35f30641e392a007f70df1207fbf05bd7b08e776c",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084750839151739301.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084750839151739301.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084750839151739301.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

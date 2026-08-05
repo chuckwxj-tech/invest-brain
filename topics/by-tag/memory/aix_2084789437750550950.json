@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084789437750550950",
+  "capture_type": "post",
+  "url": "https://x.com/LeeHyun81528/status/2084789437750550950",
+  "canonical_url": "https://x.com/LeeHyun81528/status/2084789437750550950",
+  "title": "📌 $AMD 급락의 본질과 CapEx 집행처 : 진짜 “수혜주”는 누구인가?? 실적 발표 후 주가가 10% 이상 급락함. 우리가 해야할껀 대규모 자본지출이 향하는 핵심 수혜 기업을 빠르게 분석해서 찾는것이다. [ AMD CapEx 를 뜯어봄 ] 1/ 연결기술 AMD는 엔비디아의 폐쇄적 초고속 연결 기술인 NVLink...",
+  "source_domain": "x.com",
+  "author": "LeeHyun81528",
+  "published_at": "Tue Aug 04 23:51:50 +0000 2026",
+  "captured_at": "2026-08-05T00:00:01.325391+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "c4e9236b93be85b7005f9ba7359af46a7ced564b7041b9646f4a3e034b530cbb",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084789437750550950.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084789437750550950.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084789437750550950.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

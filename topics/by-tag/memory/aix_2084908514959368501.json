@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084908514959368501",
+  "capture_type": "post",
+  "url": "https://x.com/PepInvestStocks/status/2084908514959368501",
+  "canonical_url": "https://x.com/PepInvestStocks/status/2084908514959368501",
+  "title": "$CAMT $MRAM $MRVL @elonmusk recently highlighted that the primary bottleneck in artificial intelligence infrastructure has shifted from processing power to memory capacity and b...",
+  "source_domain": "x.com",
+  "author": "PepInvestStocks",
+  "published_at": "Wed Aug 05 07:45:00 +0000 2026",
+  "captured_at": "2026-08-05T08:00:01.779343+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "72f204d6ddaad6172a17130d6e08fc3c0594424263f6546915f5bd91d3f07e2b",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084908514959368501.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084908514959368501.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084908514959368501.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

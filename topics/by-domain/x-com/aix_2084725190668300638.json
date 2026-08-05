@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084725190668300638",
+  "capture_type": "post",
+  "url": "https://x.com/techinsightsinc/status/2084725190668300638",
+  "canonical_url": "https://x.com/techinsightsinc/status/2084725190668300638",
+  "title": "💡High Performance Computing Memory Floorplan Analysis of the Micron 9B5A HBM3E controller die, found inside the NVIDIA GB110-887T-A1 AI Accelerator package. ➡️Micro Pillar Grid ...",
+  "source_domain": "x.com",
+  "author": "techinsightsinc",
+  "published_at": "Tue Aug 04 19:36:32 +0000 2026",
+  "captured_at": "2026-08-04T20:00:01.268948+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "21f48ff6f40280106b1333cb6c9589818751daed0d3a84f9e4d202651a971d16",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084725190668300638.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084725190668300638.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084725190668300638.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

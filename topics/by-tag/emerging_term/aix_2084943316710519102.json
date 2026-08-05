@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084943316710519102",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2084943316710519102",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2084943316710519102",
+  "title": "What is happening in semiconductors world 👇 Samsung and SK Hynix are pushing beyond HBM into the next layer of memory innovation. At FMS 2026, Samsung unveiled its LPDDR5X-PIM, ...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Wed Aug 05 10:03:17 +0000 2026",
+  "captured_at": "2026-08-05T11:00:02.022224+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "6cea05ba103a0de95b16ecf1e7a4118cc6ae981765f1e83bba3db61572ca29e0",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084943316710519102.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084943316710519102.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084943316710519102.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

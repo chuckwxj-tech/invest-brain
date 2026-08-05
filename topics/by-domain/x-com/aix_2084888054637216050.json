@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084888054637216050",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2084888054637216050",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2084888054637216050",
+  "title": "Memory took center stage at FMS 2026. Five months after GTC focused attention on GPUs, the Future of Memory and Storage conference in Santa Clara shifted the spotlight to bandwi...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Wed Aug 05 06:23:42 +0000 2026",
+  "captured_at": "2026-08-05T07:00:01.694574+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "42e389c0ad5a1b2b7a2cb455f48b586adef4f5b4bb69c5215e221b4ade023c98",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084888054637216050.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084888054637216050.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084888054637216050.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

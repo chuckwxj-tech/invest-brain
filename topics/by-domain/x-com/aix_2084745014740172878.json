@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084745014740172878",
+  "capture_type": "post",
+  "url": "https://x.com/LifeMakersCom/status/2084745014740172878",
+  "canonical_url": "https://x.com/LifeMakersCom/status/2084745014740172878",
+  "title": "📋 Daily Intel 8/5｜軌道にGPUを積む会社が、はじめて決算書を開いた 🎯 今日の主役 同じ日に、SpaceX から二つの発表が並んだ。ひとつは上場後はじめての四半期決算。第 2 四半期の売上は 78 億ドルで、前年同期の 41 億ドルから 92% 増えた。市場予想の 69.3 億ドルを 9 億ドル近く上回っている。もうひとつは NVID...",
+  "source_domain": "x.com",
+  "author": "LifeMakersCom",
+  "published_at": "Tue Aug 04 20:55:18 +0000 2026",
+  "captured_at": "2026-08-04T22:00:01.791636+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "bdacadcbf863ce2d770e164be563128fdc0f59040d58a17b6db0433d49c9c3d3",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084745014740172878.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084745014740172878.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084745014740172878.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

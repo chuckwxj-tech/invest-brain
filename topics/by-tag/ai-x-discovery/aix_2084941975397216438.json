@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084941975397216438",
+  "capture_type": "post",
+  "url": "https://x.com/antfeedapp/status/2084941975397216438",
+  "canonical_url": "https://x.com/antfeedapp/status/2084941975397216438",
+  "title": "HBF COULD OPEN A SECOND GROWTH MARKET FOR TC BONDERS: HIGH-BANDWIDTH FLASH MOVES CLOSER TO AI #한미반도체 #HanmiSemiconductor TIL: *HBF stacks NAND flash to deliver much more capacit...",
+  "source_domain": "x.com",
+  "author": "antfeedapp",
+  "published_at": "Wed Aug 05 09:57:57 +0000 2026",
+  "captured_at": "2026-08-05T10:00:01.701200+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "7e84a0dda01a4946762825e2fcb142753debc1a0fa979ffd7972fd1939734719",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084941975397216438.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084941975397216438.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084941975397216438.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

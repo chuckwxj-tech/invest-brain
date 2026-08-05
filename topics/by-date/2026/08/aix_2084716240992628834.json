@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084716240992628834",
+  "capture_type": "post",
+  "url": "https://x.com/thebuildout_co/status/2084716240992628834",
+  "canonical_url": "https://x.com/thebuildout_co/status/2084716240992628834",
+  "title": "The sub $5bn picks and shovels companies reporting tonight Aug 4th AMC TONIGHT — AMC Aug 4 $MEC ($0.54B, Coil 9) Mayville Engineering is North America's largest metal fabricator...",
+  "source_domain": "x.com",
+  "author": "thebuildout_co",
+  "published_at": "Tue Aug 04 19:00:58 +0000 2026",
+  "captured_at": "2026-08-04T20:00:01.268948+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "da4e00b946928756cc04c2e338b17c69bf4a96235ee845b77975bcceff1c67d9",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084716240992628834.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084716240992628834.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084716240992628834.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2084987722733621358",
+  "capture_type": "post",
+  "url": "https://x.com/glocalinvestor/status/2084987722733621358",
+  "canonical_url": "https://x.com/glocalinvestor/status/2084987722733621358",
+  "title": "Because trading memory equities is not the same as trading the underlying commodity: - Multiple Compression at Peak Margin: Memory stocks historically top out 6 to 12 months bef...",
+  "source_domain": "x.com",
+  "author": "glocalinvestor",
+  "published_at": "Wed Aug 05 12:59:44 +0000 2026",
+  "captured_at": "2026-08-05T14:00:01.691466+00:00",
+  "storage_date": "2026-08-05",
+  "content_hash": "109c3b7114e165df0d1342579353facfe86e3188116756f0c7287dcf820cae6b",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084987722733621358.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084987722733621358.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-05/aix_2084987722733621358.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
