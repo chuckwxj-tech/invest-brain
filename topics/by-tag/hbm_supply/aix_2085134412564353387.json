@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085134412564353387",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2085134412564353387",
+  "canonical_url": "https://x.com/TheValueist/status/2085134412564353387",
+  "title": "$KLIC KEY READ-THROUGHS FROM KULICKE & SOFFA Q2 2026 EARNINGS CALL Kulicke & Soffa’s Q2 2026 call provides a strongly positive signal for the global semiconductor back-end equip...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Wed Aug 05 22:42:38 +0000 2026",
+  "captured_at": "2026-08-05T23:00:01.978620+00:00",
+  "storage_date": "2026-08-06",
+  "content_hash": "c0c51fe66c318243266b80f299021c2d91d9e41fd0f37a0f268849dc87733fe2",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085134412564353387.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085134412564353387.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085134412564353387.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

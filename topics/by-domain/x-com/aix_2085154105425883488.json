@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085154105425883488",
+  "capture_type": "post",
+  "url": "https://x.com/viktorobert/status/2085154105425883488",
+  "canonical_url": "https://x.com/viktorobert/status/2085154105425883488",
+  "title": "@not_ellington No and he definitely does not have any idea what CXL, HBF, zHBM, SubQ, WASTE, CIM, or CPO even are. And he completely missed the big one: Dissaggregation of logic...",
+  "source_domain": "x.com",
+  "author": "viktorobert",
+  "published_at": "Thu Aug 06 00:00:53 +0000 2026",
+  "captured_at": "2026-08-06T00:30:01.526706+00:00",
+  "storage_date": "2026-08-06",
+  "content_hash": "051cdd2e30475fff99954fd42e443cf825c08a62636650588c9158e87eb5a494",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085154105425883488.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085154105425883488.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085154105425883488.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

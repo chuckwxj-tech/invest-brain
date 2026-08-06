@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085345313414643994",
+  "capture_type": "post",
+  "url": "https://x.com/ItsPawan_Kumar/status/2085345313414643994",
+  "canonical_url": "https://x.com/ItsPawan_Kumar/status/2085345313414643994",
+  "title": "Glass substrates 🚨 the next Moore's Law unlock hiding in chip packaging 🎯 The problem: AI chips (Nvidia H100/H200/B200, Apple M-Ultra) rely on organic ABF substrates to package ...",
+  "source_domain": "x.com",
+  "author": "ItsPawan_Kumar",
+  "published_at": "Thu Aug 06 12:40:41 +0000 2026",
+  "captured_at": "2026-08-06T13:00:01.925800+00:00",
+  "storage_date": "2026-08-06",
+  "content_hash": "ed9b2d7fb89928eacb44f799d4363981d689b6d8900e03a79c96ed72e36a637d",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085345313414643994.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085345313414643994.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085345313414643994.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

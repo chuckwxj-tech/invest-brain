@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085098516272341238",
+  "capture_type": "post",
+  "url": "https://x.com/FABYMETAL4/status/2085098516272341238",
+  "canonical_url": "https://x.com/FABYMETAL4/status/2085098516272341238",
+  "title": "💡 Kulicke and Soffa Industries, Inc. $KLIC Q3 2026 Earnings 2026-08-05 💰 Current Quarter Performance - 🟢 EPS: $1.20 (Est. $1.06) - 🟢 Revenue: $330.41M (Est. $308.5M) 📊 Key Indic...",
+  "source_domain": "x.com",
+  "author": "FABYMETAL4",
+  "published_at": "Wed Aug 05 20:20:00 +0000 2026",
+  "captured_at": "2026-08-05T20:30:01.548899+00:00",
+  "storage_date": "2026-08-06",
+  "content_hash": "2c56ce6b742cc62404254ca09a04943bd1b2736af65e6eab8ded3795cf54e7ed",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085098516272341238.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085098516272341238.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085098516272341238.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

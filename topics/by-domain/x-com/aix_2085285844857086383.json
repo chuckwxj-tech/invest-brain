@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085285844857086383",
+  "capture_type": "post",
+  "url": "https://x.com/JUSTTHETRUTHTV/status/2085285844857086383",
+  "canonical_url": "https://x.com/JUSTTHETRUTHTV/status/2085285844857086383",
+  "title": "Updated comparison with NVIDIA H100 and AMD MI300X performance metrics Here is the refined packaging and performance comparison, now including key peak theoretical metrics for t...",
+  "source_domain": "x.com",
+  "author": "JUSTTHETRUTHTV",
+  "published_at": "Thu Aug 06 08:44:22 +0000 2026",
+  "captured_at": "2026-08-06T09:00:01.142725+00:00",
+  "storage_date": "2026-08-06",
+  "content_hash": "b5e2e8d50e508bf814e598b2d5c4b3622d71cca22236fccdae3393a4ba906a4d",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085285844857086383.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085285844857086383.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085285844857086383.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

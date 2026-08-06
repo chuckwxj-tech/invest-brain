@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085410450909389256",
+  "capture_type": "post",
+  "url": "https://x.com/cherryPayment/status/2085410450909389256",
+  "canonical_url": "https://x.com/cherryPayment/status/2085410450909389256",
+  "title": "一份写给大家的 “投研版图”总览： 我都写过哪些文章 从 6 月 10 日开号到现在，我写了 61 篇付费深度文章，覆盖 40 家公司个股（45 篇，部分一家写过多篇）+ 16 篇主题/组合/宏观稿。这一篇不是新研究，而是一张地图：把我覆盖过的每一家公司、每一个主题,按板块理清楚,一句话告诉你\"它是谁、我那篇讲了什么\"。方便你按图索骥,也让你看清我在下...",
+  "source_domain": "x.com",
+  "author": "cherryPayment",
+  "published_at": "Thu Aug 06 16:59:31 +0000 2026",
+  "captured_at": "2026-08-06T17:30:01.677516+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "ce18439c1db05f7aa82577601b8f809aeafbcb936b824123f7390fcb51dd0119",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085410450909389256.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085410450909389256.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085410450909389256.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

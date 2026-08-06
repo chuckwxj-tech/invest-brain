@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085196675526856835",
+  "capture_type": "post",
+  "url": "https://x.com/ikomal0303/status/2085196675526856835",
+  "canonical_url": "https://x.com/ikomal0303/status/2085196675526856835",
+  "title": "If you want a ₹40LPA Full-Stack Engineering job, build these 15 projects. Most developers build CRUD apps. Top engineers build systems. 🧵👇 1.) Production SaaS Platform Build: Mu...",
+  "source_domain": "x.com",
+  "author": "ikomal0303",
+  "published_at": "Thu Aug 06 02:50:03 +0000 2026",
+  "captured_at": "2026-08-06T04:00:01.554721+00:00",
+  "storage_date": "2026-08-06",
+  "content_hash": "da4579ce73b9959b3336574d495e466daa6e7d83274ba0c27c5c25de0a0f9c61",
+  "tags": [
+    "ai-x-discovery",
+    "bigtech_ai",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085196675526856835.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085196675526856835.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-06/aix_2085196675526856835.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "bigtech_ai",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
