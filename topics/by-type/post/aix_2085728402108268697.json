@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085728402108268697",
+  "capture_type": "post",
+  "url": "https://x.com/ynishi2015/status/2085728402108268697",
+  "canonical_url": "https://x.com/ynishi2015/status/2085728402108268697",
+  "title": "HBMだけが、AI推論の鍵ではなくなってきた。 AI推論のボトルネックが、演算性能だけでなく「メモリ容量・帯域・コスト」に移る中、各社がまったく違う解を出し始めている。 その象徴の一つが、SanDiskとSK hynixが標準化を進めるHBF（High Bandwidth Flash）。 HBFは、DRAMではなくNANDをHBMのように積層するという...",
+  "source_domain": "x.com",
+  "author": "ynishi2015",
+  "published_at": "Fri Aug 07 14:02:56 +0000 2026",
+  "captured_at": "2026-08-07T14:30:01.182195+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "561ed8b5bd2ea8e10eb282ebd44b96ba03fcd0fd99491464e47ef00b60c35b4e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085728402108268697.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085728402108268697.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085728402108268697.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085491535706009611",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2085491535706009611",
+  "canonical_url": "https://x.com/TheValueist/status/2085491535706009611",
+  "title": "COMPOUND SEMICONDUCTORS AND OPTICAL MANUFACTURING EQUIPMENT THE INDIUM PHOSPHIDE CAPACITY CYCLE IS BROADENING FROM TRANSCEIVERS INTO CPO AND SHOULD DRIVE MULTIYEAR UPSTREAM INVE...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Thu Aug 06 22:21:43 +0000 2026",
+  "captured_at": "2026-08-06T22:30:01.189747+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "d0b275cebef7988977601328654e869f2831210d180c03d828e4c085aad1f3cb",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085491535706009611.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085491535706009611.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085491535706009611.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

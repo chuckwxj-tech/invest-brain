@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085579771627590007",
+  "capture_type": "post",
+  "url": "https://x.com/Khakire2x/status/2085579771627590007",
+  "canonical_url": "https://x.com/Khakire2x/status/2085579771627590007",
+  "title": "减存只能是小众版本，光互连不靠它增长 关于Rubin Ultra减配HBM的讨论，真正需要回答的不是英伟达会不会推出低容量版本，而是这种版本能否成为主流。 结论很明确：低容量版本可以存在，但长期占比不应很高。它适合少量容量不敏感、计算受限的负载，也可以在HBM供给紧张时帮助英伟达多交付一些GPU；但如果把它变成主力产品，客户就会为了弥补本地内存不足购买...",
+  "source_domain": "x.com",
+  "author": "Khakire2x",
+  "published_at": "Fri Aug 07 04:12:20 +0000 2026",
+  "captured_at": "2026-08-07T05:00:01.400095+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "12c3345690f5cfc6925fc0025c5b654b1c28fd8ec06eb20310b4362f62e02ca9",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085579771627590007.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085579771627590007.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085579771627590007.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

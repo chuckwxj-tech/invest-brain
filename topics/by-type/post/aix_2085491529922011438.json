@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085491529922011438",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2085491529922011438",
+  "canonical_url": "https://x.com/TheValueist/status/2085491529922011438",
+  "title": "$AAOI KEY READ-THROUGHS FROM APPLIED OPTOELECTRONICS Q2 2026 EARNINGS CALL Applied Optoelectronics’ Q2 2026 call provides strong evidence that AI data-center optical demand has ...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Thu Aug 06 22:21:41 +0000 2026",
+  "captured_at": "2026-08-06T22:30:01.189747+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "40ab32336a5059c3c44c6e50c9e1f809b93c1b32f449471ea8ca58d882cfa605",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "new_asset",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085491529922011438.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085491529922011438.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085491529922011438.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

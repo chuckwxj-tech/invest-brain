@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085641299567526084",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2085641299567526084",
+  "canonical_url": "https://x.com/algotradingdesk/status/2085641299567526084",
+  "title": "07 August 2026 🇺🇸 STOCK DEEP DIVE | ASTERA LABS ($ALAB) Astera Labs is one of the fastest-growing AI infrastructure companies, benefiting from: 🔥 AI SERVERS + GPU CLUSTERS + HIG...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Fri Aug 07 08:16:49 +0000 2026",
+  "captured_at": "2026-08-07T08:30:01.625976+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "d0252ce8e048a1983b5830f9e88fa7f2cc9fca651d8da2fedb6c2211cc8a4d02",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085641299567526084.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085641299567526084.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085641299567526084.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2085710097716564474",
+  "capture_type": "post",
+  "url": "https://x.com/gbstocks/status/2085710097716564474",
+  "canonical_url": "https://x.com/gbstocks/status/2085710097716564474",
+  "title": "8/7 Morning Watchlist News: - President Trump says, \"data centers could be bigger than oil\" $NBIS $CRWV $CLSK $WULF $SHAZ etc. - $NVDA weighs cutting Rubin Ultra GPU memory amid...",
+  "source_domain": "x.com",
+  "author": "gbstocks",
+  "published_at": "Fri Aug 07 12:50:12 +0000 2026",
+  "captured_at": "2026-08-07T13:00:01.421850+00:00",
+  "storage_date": "2026-08-07",
+  "content_hash": "b2fee1be18439a847ac7c396bb55dbbecd19d25262384d73a82cfad10a7eb6a9",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085710097716564474.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085710097716564474.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-07/aix_2085710097716564474.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
