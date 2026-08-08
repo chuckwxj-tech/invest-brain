@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086034429835936223",
+  "capture_type": "post",
+  "url": "https://x.com/waichan_invest/status/2086034429835936223",
+  "canonical_url": "https://x.com/waichan_invest/status/2086034429835936223",
+  "title": "AIデータセンターの進化で、GPU/HBMと並んで重要度が急上昇しているのが「光通信」。 今回は、その中核プレイヤーであるLITE（Lumentum）とCOHR（Coherent）を比較。 AIクラスターではGPU/ASICの数が増えるほど、GPU同士でやり取りするデータ量も急増します。従来の電気配線では「消費電力・発熱・伝送距離」がボトルネックになる...",
+  "source_domain": "x.com",
+  "author": "waichan_invest",
+  "published_at": "Sat Aug 08 10:18:59 +0000 2026",
+  "captured_at": "2026-08-08T11:00:01.552866+00:00",
+  "storage_date": "2026-08-08",
+  "content_hash": "5201980efc3dcc56329ed360d7873d4cc2cdf5f0406866b0519e10f0c53618ee",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-08/aix_2086034429835936223.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-08/aix_2086034429835936223.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-08/aix_2086034429835936223.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
