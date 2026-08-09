@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086334853885387102",
+  "capture_type": "post",
+  "url": "https://x.com/Serenity_qf/status/2086334853885387102",
+  "canonical_url": "https://x.com/Serenity_qf/status/2086334853885387102",
+  "title": "Marvell's AI memory unveil connects to the photonics chokepoint thesis. $MRVL's portfolio spans CXL pooling, optical shared memory (Photonic Fabric — 32 TB KV-cache offload at 2...",
+  "source_domain": "x.com",
+  "author": "Serenity_qf",
+  "published_at": "Sun Aug 09 06:12:46 +0000 2026",
+  "captured_at": "2026-08-09T07:00:01.187122+00:00",
+  "storage_date": "2026-08-09",
+  "content_hash": "71851623ac80a889885fdff1ee8357f3485ef0e34baa477f9ae1c957e8f2f6f8",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086334853885387102.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086334853885387102.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086334853885387102.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,46 @@
+{
+  "id": "ai-x:2086292283515920592",
+  "capture_type": "post",
+  "url": "https://x.com/ilpyung98/status/2086292283515920592",
+  "canonical_url": "https://x.com/ilpyung98/status/2086292283515920592",
+  "title": "실리콘 포토닉스 및 CPO 분석. 무엇이 진짜인가? 한눈에 보기 CPO(공동패키징광학)는 2025~2026년 AI 데이터센터의 전력·대역폭 병목을 해결할 핵심 기술로 재부각됐으나, 실제 실적으로 증명된 '진짜'는 광부품·레이저·파운드리 업체(Coherent, Lumentum, Fabrinet, TSMC, Tower ...",
+  "source_domain": "x.com",
+  "author": "ilpyung98",
+  "published_at": "Sun Aug 09 03:23:36 +0000 2026",
+  "captured_at": "2026-08-09T04:30:01.399551+00:00",
+  "storage_date": "2026-08-09",
+  "content_hash": "98001f4a69d9e05d566825be9d4ef64f1c4f6817eac74c7bd8cb373c2cb2cc45",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Advanced Packaging",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086292283515920592.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086292283515920592.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086292283515920592.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging",
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

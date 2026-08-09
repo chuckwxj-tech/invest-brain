@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086275331472707858",
+  "capture_type": "post",
+  "url": "https://x.com/kparrish51/status/2086275331472707858",
+  "canonical_url": "https://x.com/kparrish51/status/2086275331472707858",
+  "title": "Measure whether fragmentation actually causes a performance problem. U USENIX New 2026 hardware candidates This is where the project becomes particularly interesting. Best overa...",
+  "source_domain": "x.com",
+  "author": "kparrish51",
+  "published_at": "Sun Aug 09 02:16:14 +0000 2026",
+  "captured_at": "2026-08-09T03:00:02.001925+00:00",
+  "storage_date": "2026-08-09",
+  "content_hash": "84d52427bdab0ddb0c272d0b3cf7108ea01eb3416b82defb964a7c62b81cb495",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086275331472707858.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086275331472707858.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-09/aix_2086275331472707858.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
