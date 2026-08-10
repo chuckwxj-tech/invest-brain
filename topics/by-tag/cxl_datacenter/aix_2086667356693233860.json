@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086667356693233860",
+  "capture_type": "post",
+  "url": "https://x.com/kristal_ai/status/2086667356693233860",
+  "canonical_url": "https://x.com/kristal_ai/status/2086667356693233860",
+  "title": "What the sharpest #chip voices actually posted last week: → @IanCutress: AMD is buying #AI-hardware startup Taalas, the pitch is ~17,000 tokens/sec per user. → @dnystedt: Taiwan...",
+  "source_domain": "x.com",
+  "author": "kristal_ai",
+  "published_at": "Mon Aug 10 04:14:00 +0000 2026",
+  "captured_at": "2026-08-10T04:30:01.937559+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "9f761de85de50cce8503e13413d07427cb3c5a911503b93b52b055c19d3a1944",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086667356693233860.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086667356693233860.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086667356693233860.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086658754242879547",
+  "capture_type": "post",
+  "url": "https://x.com/compoundingaiin/status/2086658754242879547",
+  "canonical_url": "https://x.com/compoundingaiin/status/2086658754242879547",
+  "title": "Speaker: Ishmohit Arora / SOIC [@ishmohit1 / @soicfinance ] Idea: Quality Power Price: ₹1,124.10 | PE: 65.3x | PB: 16.1x Thesis: Niche manufacturer of specialized high-voltage e...",
+  "source_domain": "x.com",
+  "author": "compoundingaiin",
+  "published_at": "Mon Aug 10 03:39:49 +0000 2026",
+  "captured_at": "2026-08-10T04:30:01.937559+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "655af30f6dc7bdd0f979cc3372c0bd0d49a85eb42da84d7d20aa57411af948e4",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086658754242879547.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086658754242879547.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086658754242879547.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

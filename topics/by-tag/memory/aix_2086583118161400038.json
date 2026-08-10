@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086583118161400038",
+  "capture_type": "post",
+  "url": "https://x.com/EdgeStrategy67/status/2086583118161400038",
+  "canonical_url": "https://x.com/EdgeStrategy67/status/2086583118161400038",
+  "title": "Analytical Index — Week 33 position rationale. 37 positions. Here's why each one is in the index 🧵 ───────────────────────── BLOCK 1 — AI COMPUTE & DESIGN ──────────────────────...",
+  "source_domain": "x.com",
+  "author": "EdgeStrategy67",
+  "published_at": "Sun Aug 09 22:39:16 +0000 2026",
+  "captured_at": "2026-08-09T23:00:01.414631+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "594ff8995340bbb32f783a4f5fb202f363f1d23379e21251ceb66666cca57c4e",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086583118161400038.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086583118161400038.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086583118161400038.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086613597279650093",
+  "capture_type": "post",
+  "url": "https://x.com/PhotonCap/status/2086613597279650093",
+  "canonical_url": "https://x.com/PhotonCap/status/2086613597279650093",
+  "title": "This is one I’m especially excited about. I first started paying close attention to $ALAB in October 2025, when Astera Labs announced the acquisition of aiXscale Photonics. My p...",
+  "source_domain": "x.com",
+  "author": "PhotonCap",
+  "published_at": "Mon Aug 10 00:40:23 +0000 2026",
+  "captured_at": "2026-08-10T01:30:01.857627+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "5eae1caa15edfcc590b56a6259727490a06a49355e25183abf18f7bdbf230993",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086613597279650093.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086613597279650093.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086613597279650093.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

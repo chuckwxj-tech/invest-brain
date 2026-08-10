@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086825919222526363",
+  "capture_type": "post",
+  "url": "https://x.com/WilliamGKubik/status/2086825919222526363",
+  "canonical_url": "https://x.com/WilliamGKubik/status/2086825919222526363",
+  "title": "Těším se na všechny tyto technologie/procesy/produkty a budu je sledovat z blízka. Některé jsou již v prvotních fázích, některé běží a některé jsou ještě před námi. Glass Substr...",
+  "source_domain": "x.com",
+  "author": "WilliamGKubik",
+  "published_at": "Mon Aug 10 14:44:05 +0000 2026",
+  "captured_at": "2026-08-10T15:00:01.488276+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "ffa933f735276d5432e16cfbd04a87eac2d27e1e75eb2931984c0113168f0c4e",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086825919222526363.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086825919222526363.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086825919222526363.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

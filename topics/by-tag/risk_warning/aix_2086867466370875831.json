@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086867466370875831",
+  "capture_type": "post",
+  "url": "https://x.com/Ajkxtm/status/2086867466370875831",
+  "canonical_url": "https://x.com/Ajkxtm/status/2086867466370875831",
+  "title": "$MRVL New AI memory infrastructure products from Marvell target bandwidth and capacity bottlenecks in hyperscale AI inference and agentic AI workloads. Shares of MRVL spiked rou...",
+  "source_domain": "x.com",
+  "author": "Ajkxtm",
+  "published_at": "Mon Aug 10 17:29:10 +0000 2026",
+  "captured_at": "2026-08-10T18:00:01.579818+00:00",
+  "storage_date": "2026-08-11",
+  "content_hash": "f949315bb0c5a7b911dfaf23ae217b489ee014858231113ec2005109de7fdad2",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086867466370875831.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086867466370875831.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086867466370875831.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

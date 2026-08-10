@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086565971880452555",
+  "capture_type": "post",
+  "url": "https://x.com/paurooteri/status/2086565971880452555",
+  "canonical_url": "https://x.com/paurooteri/status/2086565971880452555",
+  "title": "値上げだ シリコンウェハー、特殊ガス、包装材料は戦略的資源となり、半導体材料の価格が全体的に高騰する原因となっている。 高度な製造プロセスと包装に対する需要は高まり続けている一方、中東紛争はエネルギーと原材料価格の高騰を招いている。中国による戦略鉱物輸出管理の強化は高純度材料の供給に影響を与え、結果としてシリコンウェハー、六フッ化タングステン、スパッタ...",
+  "source_domain": "x.com",
+  "author": "paurooteri",
+  "published_at": "Sun Aug 09 21:31:08 +0000 2026",
+  "captured_at": "2026-08-09T22:30:01.348974+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "f100fc3880223b1cd9abad8a46241601410c140c2195fe674cd616d08328fcf5",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086565971880452555.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086565971880452555.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086565971880452555.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

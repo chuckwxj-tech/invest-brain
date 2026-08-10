@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086564880841338906",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2086564880841338906",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2086564880841338906",
+  "title": "TSMC is reportedly in talks to acquire two AUO factories in the Central Taiwan Science Park for advanced packaging expansion. Market sources say the company is evaluating AUO’s ...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Sun Aug 09 21:26:48 +0000 2026",
+  "captured_at": "2026-08-09T21:30:01.816848+00:00",
+  "storage_date": "2026-08-10",
+  "content_hash": "b3cd69a3885f89998a4e96b6f685e6e8c7e95271dd8c5fe97a493843b6f644f3",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086564880841338906.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086564880841338906.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-10/aix_2086564880841338906.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
