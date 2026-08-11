@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087125005658407295",
+  "capture_type": "post",
+  "url": "https://x.com/dnystedt/status/2087125005658407295",
+  "canonical_url": "https://x.com/dnystedt/status/2087125005658407295",
+  "title": "TSMC VP Jun He, ‘The CoWoS guy’ head of advanced packaging technology, media report: -“very close” to meeting CoWoS demand, but not yet -10 advanced packaging plants now -CoWoS ...",
+  "source_domain": "x.com",
+  "author": "dnystedt",
+  "published_at": "Tue Aug 11 10:32:32 +0000 2026",
+  "captured_at": "2026-08-11T11:30:01.913108+00:00",
+  "storage_date": "2026-08-11",
+  "content_hash": "e478be125db78f713c76b3f678bbae962e41e7460170915259521ec69a07b010",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087125005658407295.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087125005658407295.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087125005658407295.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

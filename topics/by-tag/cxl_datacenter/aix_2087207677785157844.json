@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087207677785157844",
+  "capture_type": "post",
+  "url": "https://x.com/MarvellTech/status/2087207677785157844",
+  "canonical_url": "https://x.com/MarvellTech/status/2087207677785157844",
+  "title": "Traditional server architectures fix memory capacity at deployment time. As AI models grow larger and workloads become more memory-intensive, that rigidity creates stranded reso...",
+  "source_domain": "x.com",
+  "author": "MarvellTech",
+  "published_at": "Tue Aug 11 16:01:03 +0000 2026",
+  "captured_at": "2026-08-11T17:30:01.982340+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "334b039da9151c18af364ee5b330900ef6a642a5afbb4c503f6de74823af59b8",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087207677785157844.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087207677785157844.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087207677785157844.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

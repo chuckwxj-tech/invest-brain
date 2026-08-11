@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087038065575653434",
+  "capture_type": "post",
+  "url": "https://x.com/nishankt/status/2087038065575653434",
+  "canonical_url": "https://x.com/nishankt/status/2087038065575653434",
+  "title": "https://t.co/aXKa54CXli Jensen Huang posted this today, which is essentially NVIDIA trying to transform compute from depreciating equipment to reusable infra with residual value...",
+  "source_domain": "x.com",
+  "author": "nishankt",
+  "published_at": "Tue Aug 11 04:47:04 +0000 2026",
+  "captured_at": "2026-08-11T05:00:01.675196+00:00",
+  "storage_date": "2026-08-11",
+  "content_hash": "38c6fdbac5bd8cd8f07fc61b67b858bacff2b01c1778bfce302c60048953d727",
+  "tags": [
+    "ai-x-discovery",
+    "ai_supply_chain",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087038065575653434.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087038065575653434.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087038065575653434.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "ai_supply_chain",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

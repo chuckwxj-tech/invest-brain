@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086881325131485190",
+  "capture_type": "post",
+  "url": "https://x.com/antfeedapp/status/2086881325131485190",
+  "canonical_url": "https://x.com/antfeedapp/status/2086881325131485190",
+  "title": "ICYMI: HANMI SEMICONDUCTOR SETS UP U.S. SUBSIDIARY — TARGETING HBM AND AI PACKAGING EQUIPMENT DEMAND *Hanmi is the world’s leading supplier of HBM TC bonders. TIL: Hanmi Semicon...",
+  "source_domain": "x.com",
+  "author": "antfeedapp",
+  "published_at": "Mon Aug 10 18:24:14 +0000 2026",
+  "captured_at": "2026-08-10T19:00:01.775938+00:00",
+  "storage_date": "2026-08-11",
+  "content_hash": "ec22c2fa383e99a9ee97c54a3839aadcc8067c53f8712da050340a401e9372f2",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086881325131485190.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086881325131485190.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086881325131485190.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087046811840340342",
+  "capture_type": "post",
+  "url": "https://x.com/semordnilap0704/status/2087046811840340342",
+  "canonical_url": "https://x.com/semordnilap0704/status/2087046811840340342",
+  "title": "【DCの光と銅】CPO・NPO・OCSを整理する 🔵 参考にした解説図は「本命はScale-upの光化」と言い切っていた。着眼は鋭い。GPU同士をつなぐ配線が光になれば、レーザーの需要は桁で増える。ただ調べると、そのScale-upがまだ光になっていない。 🟡 理由が重要で、「技術がない」ではなく「銅のほうが省エネだから」。GB200/GB300 NV...",
+  "source_domain": "x.com",
+  "author": "semordnilap0704",
+  "published_at": "Tue Aug 11 05:21:50 +0000 2026",
+  "captured_at": "2026-08-11T05:30:01.734285+00:00",
+  "storage_date": "2026-08-11",
+  "content_hash": "43b3f9058e91085b62e8d361994d29a72d69ebe8c284612285cd15ecb173f1f6",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087046811840340342.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087046811840340342.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2087046811840340342.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

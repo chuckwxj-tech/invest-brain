@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2086973900056080453",
+  "capture_type": "post",
+  "url": "https://x.com/crux_capital_/status/2086973900056080453",
+  "canonical_url": "https://x.com/crux_capital_/status/2086973900056080453",
+  "title": "$LITE pre-earnings TLDR: > Want revenue above psychological $1B. They guided $960M-$1.01B. > Need continued acceleration in the guide as new products come into play. > EML suppl...",
+  "source_domain": "x.com",
+  "author": "crux_capital_",
+  "published_at": "Tue Aug 11 00:32:06 +0000 2026",
+  "captured_at": "2026-08-11T01:30:01.549722+00:00",
+  "storage_date": "2026-08-11",
+  "content_hash": "66766e6672d8212afcb6cbfda26ee24a8160a663936018a3994d7118e63b4022",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086973900056080453.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086973900056080453.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-11/aix_2086973900056080453.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

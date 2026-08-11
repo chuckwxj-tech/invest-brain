@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087224221693039090",
+  "capture_type": "post",
+  "url": "https://x.com/Darth_Goldsmith/status/2087224221693039090",
+  "canonical_url": "https://x.com/Darth_Goldsmith/status/2087224221693039090",
+  "title": "@lithos_graphein Benefit to TSMC is moving the WoW out of their own AP locations to increase SoIC / CoWoS capacity within TW? Or use their WoW for other customer needs (OV or ot...",
+  "source_domain": "x.com",
+  "author": "Darth_Goldsmith",
+  "published_at": "Tue Aug 11 17:06:47 +0000 2026",
+  "captured_at": "2026-08-11T17:30:01.982340+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "0461fb2e46542f4092fe0200921db4c0a94cde0286dd3676f686eca4ac8c7f88",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087224221693039090.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087224221693039090.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087224221693039090.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

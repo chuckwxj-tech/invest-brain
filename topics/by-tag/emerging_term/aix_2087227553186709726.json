@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087227553186709726",
+  "capture_type": "post",
+  "url": "https://x.com/Kay2289123/status/2087227553186709726",
+  "canonical_url": "https://x.com/Kay2289123/status/2087227553186709726",
+  "title": "$MRVL CXL芯片系统开始商业化，但仍处在从验证走向批量部署的早期阶段，这是我最喜欢的阶段 但看到好消息就往里冲，有时候会被埋得很惨。 这篇文章我聊一下 1. 如何把好消息翻译成股价提振？2. 我在等什么样的好消息？3. 关键时间窗口 1/ 如何通过一个新的产品，判断它对公司价值和股票价值的贡献？提前做出预判，挖出真正有股价帮助价值的的好消息 Ma...",
+  "source_domain": "x.com",
+  "author": "Kay2289123",
+  "published_at": "Tue Aug 11 17:20:02 +0000 2026",
+  "captured_at": "2026-08-11T17:30:01.982340+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "466efb53ccd504719eb1b68c9eb13928a620abb20390dcfdc4eb707ae6540b67",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087227553186709726.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087227553186709726.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087227553186709726.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
