@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087347120042824167",
+  "capture_type": "post",
+  "url": "https://x.com/siliconcodesign/status/2087347120042824167",
+  "canonical_url": "https://x.com/siliconcodesign/status/2087347120042824167",
+  "title": "CoWoS is taken for granted today, but took 15 years of hard work from packaging engineers to develop with little respect. For much of its early history, it was often referred to...",
+  "source_domain": "x.com",
+  "author": "siliconcodesign",
+  "published_at": "Wed Aug 12 01:15:09 +0000 2026",
+  "captured_at": "2026-08-12T01:30:01.697733+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "89a930acbb25c5fc03b721dc7605cd9bed979cf2f7f5c6f8d9eee3e4b39c9b99",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087347120042824167.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087347120042824167.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087347120042824167.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

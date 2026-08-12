@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087571355550240874",
+  "capture_type": "post",
+  "url": "https://x.com/quantumboomnow/status/2087571355550240874",
+  "canonical_url": "https://x.com/quantumboomnow/status/2087571355550240874",
+  "title": "$TSM is doubling CoWoS and SoIC capacity yearly at 98-99% yield. Every AI accelerator ships through that packaging chokepoint, so the index averages away a toll booth. Samsung's...",
+  "source_domain": "x.com",
+  "author": "quantumboomnow",
+  "published_at": "Wed Aug 12 16:06:11 +0000 2026",
+  "captured_at": "2026-08-12T16:30:01.605385+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "3e8b6cebbea783fbcc84b7642987c3177fc4ef48e557774ff976b01cf715e923",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087571355550240874.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087571355550240874.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087571355550240874.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

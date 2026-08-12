@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087314193376547299",
+  "capture_type": "post",
+  "url": "https://x.com/saso_capital/status/2087314193376547299",
+  "canonical_url": "https://x.com/saso_capital/status/2087314193376547299",
+  "title": "My key takeaways from the $LITE (Lumentum Holdings) Q4 2026 earnings call. 1. The high-power laser shortage got worse this quarter, not better. Citi's Papa Silla asked for an up...",
+  "source_domain": "x.com",
+  "author": "saso_capital",
+  "published_at": "Tue Aug 11 23:04:18 +0000 2026",
+  "captured_at": "2026-08-11T23:30:01.430675+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "52df37658df9ac2338dfd4031646ea0dc92741534dabff82aac830a2be47edff",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087314193376547299.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087314193376547299.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087314193376547299.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

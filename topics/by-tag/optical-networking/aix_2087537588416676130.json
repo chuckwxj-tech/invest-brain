@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087537588416676130",
+  "capture_type": "post",
+  "url": "https://x.com/FinanceMajor_23/status/2087537588416676130",
+  "canonical_url": "https://x.com/FinanceMajor_23/status/2087537588416676130",
+  "title": "$LITE ER effects on $SIVE in the early session today. A bit long winded thoughts on this report but, I had some time so: Revenue: $1.006B vs $987.7M exp, beat by $18.6M, up 109%...",
+  "source_domain": "x.com",
+  "author": "FinanceMajor_23",
+  "published_at": "Wed Aug 12 13:52:00 +0000 2026",
+  "captured_at": "2026-08-12T14:30:01.497351+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "46375a2013291bc1efc94a9f814835450fdce4763bf540d87f8f5823a7cb7cd3",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087537588416676130.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087537588416676130.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087537588416676130.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

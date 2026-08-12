@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087401685568418112",
+  "capture_type": "post",
+  "url": "https://x.com/jimmyhuli/status/2087401685568418112",
+  "canonical_url": "https://x.com/jimmyhuli/status/2087401685568418112",
+  "title": "$LITE 本次财报完美无瑕，除了 headline double beat，+109% YoY 超高速增长，所有指标均 beat 之外， 我重点看的五个收入引擎： - 1.6T：Q4 已开始出货，Q1 起 adoption 进一步加速并延续至 CY 2027 - 200G EML：产能爬坡，已超过 EML Revenue 的 25%。这是 LITE ...",
+  "source_domain": "x.com",
+  "author": "jimmyhuli",
+  "published_at": "Wed Aug 12 04:51:58 +0000 2026",
+  "captured_at": "2026-08-12T05:00:01.571689+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "495e69d6c6baebfd18ed1617bd7ceca95218418b98a085949e4ce7c582963bfd",
+  "tags": [
+    "ai-x-discovery",
+    "cn_hardware_signal",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087401685568418112.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087401685568418112.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087401685568418112.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cn_hardware_signal",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

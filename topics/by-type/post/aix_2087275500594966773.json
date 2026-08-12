@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087275500594966773",
+  "capture_type": "post",
+  "url": "https://x.com/Finsee_main/status/2087275500594966773",
+  "canonical_url": "https://x.com/Finsee_main/status/2087275500594966773",
+  "title": "$LITE Q4 2026 earnings: Explosive AI Growth Eclipsed by a Massive Debt Equitization Charge Lumentum has crossed a historic milestone, delivering over $1 billion in quarterly rev...",
+  "source_domain": "x.com",
+  "author": "Finsee_main",
+  "published_at": "Tue Aug 11 20:30:33 +0000 2026",
+  "captured_at": "2026-08-11T21:30:01.328578+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "d589c80a0752b45e0f3024a55cfd9db95733d139c25f22b4dda67dcfc224a9ad",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087275500594966773.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087275500594966773.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087275500594966773.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

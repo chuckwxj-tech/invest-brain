@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087326251203576236",
+  "capture_type": "post",
+  "url": "https://x.com/athuinvests/status/2087326251203576236",
+  "canonical_url": "https://x.com/athuinvests/status/2087326251203576236",
+  "title": "$LITE Q4’2026 EARNINGS ANALYSIS 1. InP laser demand confirmation Pump lasers up 80% YoY, still sold out, and they expect shipments to 4x over the next few quarters. Narrow-linew...",
+  "source_domain": "x.com",
+  "author": "athuinvests",
+  "published_at": "Tue Aug 11 23:52:13 +0000 2026",
+  "captured_at": "2026-08-12T00:30:01.994511+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "1a98c86557ebd73fc06119c2cdb3f6bbd131490e5fbfe77d7325287c8f95ae9c",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087326251203576236.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087326251203576236.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087326251203576236.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

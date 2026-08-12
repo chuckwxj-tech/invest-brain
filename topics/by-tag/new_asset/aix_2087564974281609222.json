@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087564974281609222",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2087564974281609222",
+  "canonical_url": "https://x.com/algotradingdesk/status/2087564974281609222",
+  "title": "August 12, 2026 🇺🇸 🚨 BRUTAL TRUTH | Astera Labs — ALAB The market just received a very important signal: AI infrastructure is moving from GPUs to the connectivity layer—and Aste...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Wed Aug 12 15:40:49 +0000 2026",
+  "captured_at": "2026-08-12T16:30:01.605385+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "270fffb37cfbad1232faeea70a7faf18735e54b11b820fb6c02150ec4e823d8a",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087564974281609222.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087564974281609222.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087564974281609222.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

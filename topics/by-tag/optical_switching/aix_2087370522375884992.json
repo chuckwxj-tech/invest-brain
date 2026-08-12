@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087370522375884992",
+  "capture_type": "post",
+  "url": "https://x.com/BigbirdflyChan/status/2087370522375884992",
+  "canonical_url": "https://x.com/BigbirdflyChan/status/2087370522375884992",
+  "title": "Lite FY2026 Q4财报：买方预期，几个关键指标明显超预期 8月11日，Lite公布FY2026 Q4财报。值得关注的是FY2027 Q1的指引，以及OCS、CPO/NPO和激光器业务透露出来的信息。 华尔街机构对于财报前瞻中，对Lite的态度其实相对谨慎，这点从财报钱股价下跌可以看出来。公司给出的FYQ1 revenue guidance为1...",
+  "source_domain": "x.com",
+  "author": "BigbirdflyChan",
+  "published_at": "Wed Aug 12 02:48:08 +0000 2026",
+  "captured_at": "2026-08-12T03:30:02.115433+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "3f3c211ce5c75a2fbdef48dcc114946b11ecac46fe342042008852495fe2f0b4",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087370522375884992.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087370522375884992.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087370522375884992.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

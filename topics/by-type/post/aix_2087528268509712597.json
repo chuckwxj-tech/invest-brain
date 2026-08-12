@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087528268509712597",
+  "capture_type": "post",
+  "url": "https://x.com/dcotronejr/status/2087528268509712597",
+  "canonical_url": "https://x.com/dcotronejr/status/2087528268509712597",
+  "title": "Remaining key AI infrastructure earnings this week: $COHR (Coherent) – Wednesday, August 12 after hours (not Thursday; official release after NYSE close + webcast ~4:30 PM ET) Q...",
+  "source_domain": "x.com",
+  "author": "dcotronejr",
+  "published_at": "Wed Aug 12 13:14:58 +0000 2026",
+  "captured_at": "2026-08-12T14:30:01.497351+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "6bd58a8442a2f54a9be96e6f20052823da455a77cf90b549784456cbae8fc625",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087528268509712597.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087528268509712597.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087528268509712597.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

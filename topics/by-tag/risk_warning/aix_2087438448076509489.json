@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087438448076509489",
+  "capture_type": "post",
+  "url": "https://x.com/aadilbassa_/status/2087438448076509489",
+  "canonical_url": "https://x.com/aadilbassa_/status/2087438448076509489",
+  "title": "$LITE just reported Heres the scorecard vs the 5 points I mentioned yesterday Laser shortage is still acute. EML still ~30% short High power lasers: demand accelerated and they ...",
+  "source_domain": "x.com",
+  "author": "aadilbassa_",
+  "published_at": "Wed Aug 12 07:18:03 +0000 2026",
+  "captured_at": "2026-08-12T08:00:01.699316+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "0d46d16040bd583ef7f7ca7800454a52bd121b6b4913459818e24a5caa163196",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087438448076509489.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087438448076509489.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087438448076509489.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

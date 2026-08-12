@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087391379676975573",
+  "capture_type": "post",
+  "url": "https://x.com/BlueJay87476298/status/2087391379676975573",
+  "canonical_url": "https://x.com/BlueJay87476298/status/2087391379676975573",
+  "title": "辛耘 2026/06/09 初次報告 - 辛耘 先進封裝趨勢下之主要受惠廠商 1. 結論建議： ● 辛耘憑藉其在晶圓代工廠之先進封裝濕製程經驗，預期未來發展新型先進封裝技術SoIC與CoPoS，仍將為主要受惠廠商。 ● 預估2026年辛耘營收將年增11%至127億元，EPS 年增57%至22元，主因CoWoS & SoIC設備帶動自製設備業務年增39%...",
+  "source_domain": "x.com",
+  "author": "BlueJay87476298",
+  "published_at": "Wed Aug 12 04:11:01 +0000 2026",
+  "captured_at": "2026-08-12T04:30:02.005794+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "77a25323ac2a870e7bd829c3bd80f3a1c6b9a2d168de9d8c48613dbe666800eb",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087391379676975573.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087391379676975573.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087391379676975573.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

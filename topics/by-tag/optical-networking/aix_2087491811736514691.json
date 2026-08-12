@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087491811736514691",
+  "capture_type": "post",
+  "url": "https://x.com/EmmaStockNotes/status/2087491811736514691",
+  "canonical_url": "https://x.com/EmmaStockNotes/status/2087491811736514691",
+  "title": "$COHR Earnings (Today, after close) Major AI optics company that has seen a sharp improvement in underlying business quality. Coherent’s Top Percentile Business Excellence ranki...",
+  "source_domain": "x.com",
+  "author": "EmmaStockNotes",
+  "published_at": "Wed Aug 12 10:50:06 +0000 2026",
+  "captured_at": "2026-08-12T11:00:01.701194+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "7be67b62045d788e5bf0c80e9c1ccce7142660d2d1ae22719b3ea6c378c3f0cb",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087491811736514691.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087491811736514691.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087491811736514691.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

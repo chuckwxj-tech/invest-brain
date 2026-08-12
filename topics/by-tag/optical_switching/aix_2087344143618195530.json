@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087344143618195530",
+  "capture_type": "post",
+  "url": "https://x.com/PhotonCap/status/2087344143618195530",
+  "canonical_url": "https://x.com/PhotonCap/status/2087344143618195530",
+  "title": "$LITE's first $1B quarter. The lines from the call that stuck with me: Fun detail: the call was hosted by Kathy Ta, Lumentum's VP of Investor Relations. Same person whose answer...",
+  "source_domain": "x.com",
+  "author": "PhotonCap",
+  "published_at": "Wed Aug 12 01:03:19 +0000 2026",
+  "captured_at": "2026-08-12T01:30:01.697733+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "c138df87cb95fc3a348770d19f411f40cebe95573968f05f51a374d6c15472c0",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087344143618195530.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087344143618195530.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087344143618195530.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

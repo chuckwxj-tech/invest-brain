@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087387700970258450",
+  "capture_type": "post",
+  "url": "https://x.com/phithetasigma/status/2087387700970258450",
+  "canonical_url": "https://x.com/phithetasigma/status/2087387700970258450",
+  "title": "Quite surprised by how $4971.T MEC got limit-down this morning, even though they revised up their consolidated earnings forecast for FY26 due to strong demand for advanced semic...",
+  "source_domain": "x.com",
+  "author": "phithetasigma",
+  "published_at": "Wed Aug 12 03:56:24 +0000 2026",
+  "captured_at": "2026-08-12T04:30:02.005794+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "6f5e4adca91b9c6cdcb97e5c57ec1a2146fe68cb59e76453e27631cc724305a2",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087387700970258450.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087387700970258450.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087387700970258450.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

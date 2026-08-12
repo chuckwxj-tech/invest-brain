@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087429799480631540",
+  "capture_type": "post",
+  "url": "https://x.com/Yinfucarrio6/status/2087429799480631540",
+  "canonical_url": "https://x.com/Yinfucarrio6/status/2087429799480631540",
+  "title": "Big win for $AXTI holders today — and it came out of someone else's earnings call. $LITE dropped a monster quarter last night. Revenue +109% YoY to $1.01B. Guide implies +130%. ...",
+  "source_domain": "x.com",
+  "author": "Yinfucarrio6",
+  "published_at": "Wed Aug 12 06:43:41 +0000 2026",
+  "captured_at": "2026-08-12T07:00:01.893493+00:00",
+  "storage_date": "2026-08-12",
+  "content_hash": "4a9360575ee8c7abca7e11c2e5291842e1822854e41b9a9412109719ed6a7f9c",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087429799480631540.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087429799480631540.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-12/aix_2087429799480631540.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
