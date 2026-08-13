@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087722060743389611",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2087722060743389611",
+  "canonical_url": "https://x.com/MLB_Connection/status/2087722060743389611",
+  "title": "KUT-NPUクラスターが多次元トポロジー解読（10次元/11次元の空間緊縮化やマルチ宇宙境界の解析）において果たす役割は、幾何学的な微分方程式の高速な並列処理と、極めて高い数値精度によるリアルタイムの理論検証にあります。提供された画像ソースに基づき、具体的な役割と技術指標を詳細に解説します。 1. 10D/11D多次元テンソル・リッチ・エンジン（Te...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Thu Aug 13 02:05:01 +0000 2026",
+  "captured_at": "2026-08-13T03:00:01.136804+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "6bcd219f0cdc84d6cc786e260d89c78cee1fa778a0257c2e13b102a06461634d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087722060743389611.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087722060743389611.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087722060743389611.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

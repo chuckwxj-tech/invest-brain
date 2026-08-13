@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087730547703660596",
+  "capture_type": "post",
+  "url": "https://x.com/nopotechinolife/status/2087730547703660596",
+  "canonical_url": "https://x.com/nopotechinolife/status/2087730547703660596",
+  "title": "鋭意分析強化中。 例えば昨日は、メモリ・ストレージだけじゃなく、これまであまり注目されてこなかった周辺銘柄まで強かった。 共通項は、「データをどう持ち、どう動かし、どう安く使うか」。 私が監視しているものでも、 $STX $WDC $SNDK $P $NTAP $SIMO $MXL $ALAB $MRVL $PENG あたりがある。強化後 $QMCO ...",
+  "source_domain": "x.com",
+  "author": "nopotechinolife",
+  "published_at": "Thu Aug 13 02:38:45 +0000 2026",
+  "captured_at": "2026-08-13T03:00:01.136804+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "0ac303a487a6d6ecdfdd3f128d6e91bceec5e4711185e66557fd9da0dd712537",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087730547703660596.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087730547703660596.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087730547703660596.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

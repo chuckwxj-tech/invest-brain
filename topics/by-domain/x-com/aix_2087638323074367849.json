@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087638323074367849",
+  "capture_type": "post",
+  "url": "https://x.com/EmmaStockNotes/status/2087638323074367849",
+  "canonical_url": "https://x.com/EmmaStockNotes/status/2087638323074367849",
+  "title": "$COHR beat Q4 earnings and shares are down about 4% after hours. Revenue: $2.05B vs ~$1.99B exp (beat) Adj. EPS: $1.74 vs ~$1.61 exp (beat) Q1 revenue guide: $2.2–2.4B vs ~$2.14...",
+  "source_domain": "x.com",
+  "author": "EmmaStockNotes",
+  "published_at": "Wed Aug 12 20:32:17 +0000 2026",
+  "captured_at": "2026-08-12T22:00:01.541126+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "fbbb6f1d49eb91cf20092c6576f080fa4a4b2026c47ddda058bb8ae01279164a",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087638323074367849.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087638323074367849.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087638323074367849.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

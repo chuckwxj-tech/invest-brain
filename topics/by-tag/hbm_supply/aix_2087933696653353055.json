@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087933696653353055",
+  "capture_type": "post",
+  "url": "https://x.com/KreizJordy/status/2087933696653353055",
+  "canonical_url": "https://x.com/KreizJordy/status/2087933696653353055",
+  "title": "May be wrong, but I don’t foresee HBF lowering HBM share of capex or architecture. The only thing hindering HBM share is production capacity limits. HBF replaces standard NAND m...",
+  "source_domain": "x.com",
+  "author": "KreizJordy",
+  "published_at": "Thu Aug 13 16:05:59 +0000 2026",
+  "captured_at": "2026-08-13T17:00:01.727243+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "00e526b04999942cd7d21f845a1c0c6274b759a75b796402852f72c5214312c1",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2087933696653353055.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2087933696653353055.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2087933696653353055.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087602397829095619",
+  "capture_type": "post",
+  "url": "https://x.com/gulVasikova/status/2087602397829095619",
+  "canonical_url": "https://x.com/gulVasikova/status/2087602397829095619",
+  "title": "Lumentum $LITE — Q4 was a major beat and the AI optical story is getting stronger. Lumentum reported $1.006B revenue, up 109% YoY and 24.5% QoQ, showing that AI-driven optical d...",
+  "source_domain": "x.com",
+  "author": "gulVasikova",
+  "published_at": "Wed Aug 12 18:09:32 +0000 2026",
+  "captured_at": "2026-08-12T18:30:01.595680+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "8892f3cb8c6e8cb2c77b84550baa506886844ef8fd8f4a49dcabce243f478084",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087602397829095619.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087602397829095619.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087602397829095619.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

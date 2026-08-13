@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087600090370490821",
+  "capture_type": "post",
+  "url": "https://x.com/Ja_SON_Life/status/2087600090370490821",
+  "canonical_url": "https://x.com/Ja_SON_Life/status/2087600090370490821",
+  "title": "[반도체 전쟁] 2편 - 명확해진 \"엔비디아\"의 성장한계과 \"반(反)\"엔비디아의 성장. 1. 엔비디아의 90% 독점 체제는 해소되기 어려운 3대 구조적 한계에 부딪힘. 첫째, 데이터센터의 전력 수급(Power Grid) 과 발열을 감당할 액체 냉각 인프라가 칩 공급 속도를 따라가지 못하는 물리적 병목이 발생함. 둘째...",
+  "source_domain": "x.com",
+  "author": "Ja_SON_Life",
+  "published_at": "Wed Aug 12 18:00:21 +0000 2026",
+  "captured_at": "2026-08-12T18:30:01.595680+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "33e5d9fbd48c36e4238d05702c24d7db32fdf7675c8fb0b23404c9f7ab29a702",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087600090370490821.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087600090370490821.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087600090370490821.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

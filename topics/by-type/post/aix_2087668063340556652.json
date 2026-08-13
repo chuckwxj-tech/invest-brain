@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087668063340556652",
+  "capture_type": "post",
+  "url": "https://x.com/demian_ai/status/2087668063340556652",
+  "canonical_url": "https://x.com/demian_ai/status/2087668063340556652",
+  "title": "I’ve been at @nebiusai for two years. Today feels like one of those days we’ll look back on. When people look at AI infrastructure, they often reduce the story to one thing: GPU...",
+  "source_domain": "x.com",
+  "author": "demian_ai",
+  "published_at": "Wed Aug 12 22:30:27 +0000 2026",
+  "captured_at": "2026-08-13T00:00:01.837743+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "8cb4a6c46ecff70c92d59e67e177041988c4036bbdc6bb1276b1b07a67b9ab88",
+  "tags": [
+    "ai-x-discovery",
+    "nvidia_platform_constraint",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087668063340556652.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087668063340556652.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087668063340556652.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "nvidia_platform_constraint",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

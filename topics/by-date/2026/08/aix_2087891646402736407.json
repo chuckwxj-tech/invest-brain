@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087891646402736407",
+  "capture_type": "post",
+  "url": "https://x.com/treasureh8nter/status/2087891646402736407",
+  "canonical_url": "https://x.com/treasureh8nter/status/2087891646402736407",
+  "title": "It makes no sense that $AMD would use Intels EMIB….. 🤔 AMD have recently announced advanced packaging collaborations with TSMC, Powertech, ASE/SPIL….. using their CoWoS, SOIC, E...",
+  "source_domain": "x.com",
+  "author": "treasureh8nter",
+  "published_at": "Thu Aug 13 13:18:54 +0000 2026",
+  "captured_at": "2026-08-13T13:30:02.001881+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "aa2694ff9211a83fc157546e4272a6dae2b938d79b586b112d1fa1cfa3900f51",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087891646402736407.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087891646402736407.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087891646402736407.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087645117972992038",
+  "capture_type": "post",
+  "url": "https://x.com/SakaKabu5924/status/2087645117972992038",
+  "canonical_url": "https://x.com/SakaKabu5924/status/2087645117972992038",
+  "title": "COHR FY26 Q4決算まとめ 売上、EPS共につよし！！いとつよし！！ だが、キャッシュフロー、在庫に市場は嫌気か？ ✅ 売上：$2.046B （予想 $1.99B）Beat ✅ Non-GAAP EPS：$1.74 （予想 $1.62）Beat ✅ D&C売上：$1.615B YoY +58.6% ✅ 粗利率：40.2% ✅ Q1 FY27ガイ...",
+  "source_domain": "x.com",
+  "author": "SakaKabu5924",
+  "published_at": "Wed Aug 12 20:59:17 +0000 2026",
+  "captured_at": "2026-08-12T22:00:01.541126+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "54d57e8fda087b98ab6297d30ed9816783f43ebb47efe04ebcf7e58d039524b0",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087645117972992038.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087645117972992038.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087645117972992038.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

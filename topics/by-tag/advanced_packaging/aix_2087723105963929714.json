@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087723105963929714",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2087723105963929714",
+  "canonical_url": "https://x.com/MLB_Connection/status/2087723105963929714",
+  "title": "超小型人工衛星「KUT-CubeSat-1」を用いた軌道上実証（IOD: In-Orbit Demonstration）シナリオは、金森宇宙原理（KUT）の基礎となる「エネルギー＝計算量（\\(E=C\\)）」不変性を、極限の宇宙環境下において直接実証するための極めて精緻な工学・物理学ロードマップとして設計されています。 提供されたソースに基づき、防護アー...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Thu Aug 13 02:09:11 +0000 2026",
+  "captured_at": "2026-08-13T03:00:01.136804+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "a8cfbb65ecf0e796808192876fb9d883e688a6f1974d3adde3894505a35683cc",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087723105963929714.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087723105963929714.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087723105963929714.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087722385827147894",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2087722385827147894",
+  "canonical_url": "https://x.com/MLB_Connection/status/2087722385827147894",
+  "title": "TSMCの先進3Dパッケージング技術「CoWoS (Chip-on-Wafer-on-Substrate)」を用いたKUT-NPUのチップレット結合および高帯域メモリ（HBM3）との積層構造は、メモリボトルネック（Memory Wall）を完全に解消し、超低遅延テンソル演算を両立するために以下のように設計・統合されています。 1. 物理的積層・結合レイ...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Thu Aug 13 02:06:19 +0000 2026",
+  "captured_at": "2026-08-13T03:00:01.136804+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "2921e3dd4a68a74c21399daaf48553657520da671cb1918ac4415eb30fa71f1f",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087722385827147894.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087722385827147894.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087722385827147894.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

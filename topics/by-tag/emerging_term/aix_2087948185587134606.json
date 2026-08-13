@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087948185587134606",
+  "capture_type": "post",
+  "url": "https://x.com/doktorstefek/status/2087948185587134606",
+  "canonical_url": "https://x.com/doktorstefek/status/2087948185587134606",
+  "title": "BofA Securities - US Semiconductors. Rise of the agents: raising CPU TAM (again) to $ 210bn - 12.08.2026 Raport podnosi prognozę TAM serwerowych CPU do ponad 210 mld USD w CY30,...",
+  "source_domain": "x.com",
+  "author": "doktorstefek",
+  "published_at": "Thu Aug 13 17:03:34 +0000 2026",
+  "captured_at": "2026-08-13T18:00:01.575465+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "fadb174262b4145c760a21c1a86e54ad928ef3d7a33da449b57630b6d256f641",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2087948185587134606.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2087948185587134606.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2087948185587134606.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

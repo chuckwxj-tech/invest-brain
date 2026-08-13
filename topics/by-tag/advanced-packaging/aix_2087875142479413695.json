@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087875142479413695",
+  "capture_type": "post",
+  "url": "https://x.com/Schulz_Research/status/2087875142479413695",
+  "canonical_url": "https://x.com/Schulz_Research/status/2087875142479413695",
+  "title": "Last night $CBRS told you exactly what Applied Materials sells. It did it by listing the three things it refuses to buy. $AMAT reports after the close tonight. From Cerebras's Q...",
+  "source_domain": "x.com",
+  "author": "Schulz_Research",
+  "published_at": "Thu Aug 13 12:13:19 +0000 2026",
+  "captured_at": "2026-08-13T12:30:01.921430+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "16f433cd934f5d6ce582950f575acc36e40430ac8f576563bdf4b182e4ce4166",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087875142479413695.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087875142479413695.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087875142479413695.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087602907017531784",
+  "capture_type": "post",
+  "url": "https://x.com/Ja_SON_Life/status/2087602907017531784",
+  "canonical_url": "https://x.com/Ja_SON_Life/status/2087602907017531784",
+  "title": "[반도체 전쟁]4편 - 연합군들의 세분화적인 성장. 1. 구글(TPU), 아마존(Trainium/Inferentia), 메타(MTIA), 마이크로소프트(Maia) 등 빅테크 거인들이 엔비디아에 바치던 70~80%의 독점 마진을 더 이상 허용하지 않기로 결단함. 서비스 운영 단계인 '추론(Inference)' 영역을 ...",
+  "source_domain": "x.com",
+  "author": "Ja_SON_Life",
+  "published_at": "Wed Aug 12 18:11:33 +0000 2026",
+  "captured_at": "2026-08-12T18:30:01.595680+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "8145f26ff8e9f9d9b022be9911ad5682edc3368df3f4c56f970ba3e1f6c07a4a",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087602907017531784.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087602907017531784.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087602907017531784.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

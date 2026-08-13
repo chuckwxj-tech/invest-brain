@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087707928187056253",
+  "capture_type": "post",
+  "url": "https://x.com/dagoonglove/status/2087707928187056253",
+  "canonical_url": "https://x.com/dagoonglove/status/2087707928187056253",
+  "title": "LITE, COHR 실적에서 확인되는 AI 광통신 수요 이번 실적에서 가장 중요한 건 단순히 “AI 광통신 수요가 좋다”는 게 아니다. 수요 증가 속도가 공급 증가 속도를 계속 앞서고 있다. 특히 강한 구간은 InP Laser → 800G/1.6T → DCI/Scale-across → OCS → CPO/NPO Sca...",
+  "source_domain": "x.com",
+  "author": "dagoonglove",
+  "published_at": "Thu Aug 13 01:08:52 +0000 2026",
+  "captured_at": "2026-08-13T02:00:01.532975+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "8f721ec4d37401648ba162e8735a3d3f05abbc56139b719e146eda5356b3398c",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087707928187056253.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087707928187056253.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087707928187056253.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

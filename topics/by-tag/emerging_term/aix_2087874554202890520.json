@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2087874554202890520",
+  "capture_type": "post",
+  "url": "https://x.com/OwennnHuang/status/2087874554202890520",
+  "canonical_url": "https://x.com/OwennnHuang/status/2087874554202890520",
+  "title": "6/10 Product and capacity indicators 800G revenue continues to grow Y/Y. The 1.6T transceiver ramp is progressing faster than management expected three months ago. OCS revenue i...",
+  "source_domain": "x.com",
+  "author": "OwennnHuang",
+  "published_at": "Thu Aug 13 12:10:59 +0000 2026",
+  "captured_at": "2026-08-13T12:30:01.921430+00:00",
+  "storage_date": "2026-08-13",
+  "content_hash": "0f7ec8f5b759f60b00ff9b582cdd30739f142406f3596f29d96c11b0f7992008",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087874554202890520.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087874554202890520.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-13/aix_2087874554202890520.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
