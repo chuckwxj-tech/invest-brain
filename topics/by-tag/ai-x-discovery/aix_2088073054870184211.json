@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088073054870184211",
+  "capture_type": "post",
+  "url": "https://x.com/seaify1/status/2088073054870184211",
+  "canonical_url": "https://x.com/seaify1/status/2088073054870184211",
+  "title": "📊 加密市场情报 · 2026-08-14 📈 当日整体情绪：看涨 美股标普500创历史新高7800点，CPI/PPI双双温和压低加息预期，存储/AI算力板块财报强劲，但BTC连跌地缘升温需防尾部风险。 🎯 叙事 / 主题聚合 1. 闪迪投资者日——存储超级周期重估+100%现金回报承诺 📈看涨 SNDK单日涨超17%，管理层给出FY2028-2030...",
+  "source_domain": "x.com",
+  "author": "seaify1",
+  "published_at": "Fri Aug 14 01:19:45 +0000 2026",
+  "captured_at": "2026-08-14T02:30:01.278868+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "5f6caa50974bcadb3bdac2ef65ab592f08cae81117333317953bcbeccae867d8",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088073054870184211.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088073054870184211.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088073054870184211.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

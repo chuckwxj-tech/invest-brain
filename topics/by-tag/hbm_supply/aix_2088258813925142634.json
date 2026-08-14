@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088258813925142634",
+  "capture_type": "post",
+  "url": "https://x.com/MikaelXeeland/status/2088258813925142634",
+  "canonical_url": "https://x.com/MikaelXeeland/status/2088258813925142634",
+  "title": "INVESTMENT IDEAS – SEE TICKERS BELOW Memory is the real AI bottleneck. Agentic workloads make HBM the scarce resource - not GPUs. The divergence most miss is that agentic worklo...",
+  "source_domain": "x.com",
+  "author": "MikaelXeeland",
+  "published_at": "Fri Aug 14 13:37:53 +0000 2026",
+  "captured_at": "2026-08-14T14:00:02.116735+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "2d309d251f3184a661fffd13169db2d31060ab88d02da96dfc2c1edf8720c05e",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088258813925142634.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088258813925142634.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088258813925142634.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

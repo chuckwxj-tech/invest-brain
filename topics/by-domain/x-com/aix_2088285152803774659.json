@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088285152803774659",
+  "capture_type": "post",
+  "url": "https://x.com/Afigy1/status/2088285152803774659",
+  "canonical_url": "https://x.com/Afigy1/status/2088285152803774659",
+  "title": "The reason I first started following $NBIS was the shortage of AI compute capacity. As GPUs and Neoclouds continue to validate demand through orders and earnings, the next bottl...",
+  "source_domain": "x.com",
+  "author": "Afigy1",
+  "published_at": "Fri Aug 14 15:22:33 +0000 2026",
+  "captured_at": "2026-08-14T15:30:01.384587+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "80cdb930a8bac4f5d0e1d0a62237c4fb8018298e3d6ceb36a4a756506e295138",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088285152803774659.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088285152803774659.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088285152803774659.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

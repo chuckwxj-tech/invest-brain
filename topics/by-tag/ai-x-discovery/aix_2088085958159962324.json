@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088085958159962324",
+  "capture_type": "post",
+  "url": "https://x.com/scalar_field_/status/2088085958159962324",
+  "canonical_url": "https://x.com/scalar_field_/status/2088085958159962324",
+  "title": "@zephyr_z9 Custom HBM and CPO both leaning into SoIC is exactly what $BESI bulls want. More bonding content in every advanced package.",
+  "source_domain": "x.com",
+  "author": "scalar_field_",
+  "published_at": "Fri Aug 14 02:11:01 +0000 2026",
+  "captured_at": "2026-08-14T02:30:01.278868+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "a3902afe9c64554febf3128078b311f57d56dace5a6b511569dc832921687963",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088085958159962324.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088085958159962324.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088085958159962324.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

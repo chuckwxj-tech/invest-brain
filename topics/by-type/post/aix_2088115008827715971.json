@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088115008827715971",
+  "capture_type": "post",
+  "url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+  "canonical_url": "https://x.com/aleabitoreddit/status/2088115008827715971",
+  "title": "Feels like glass substrate timelines got pushed back at least another quarter. - \"Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottleneck ...",
+  "source_domain": "x.com",
+  "author": "aleabitoreddit",
+  "published_at": "Fri Aug 14 04:06:28 +0000 2026",
+  "captured_at": "2026-08-14T04:30:02.056106+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "46a3bb5301c49a484ff2b22681e18928a9d96acb554ec38d34eb65e8f0b2230d",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088115008827715971.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088115008827715971.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088115008827715971.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

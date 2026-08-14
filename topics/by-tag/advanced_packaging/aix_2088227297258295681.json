@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088227297258295681",
+  "capture_type": "post",
+  "url": "https://x.com/moneyqubit/status/2088227297258295681",
+  "canonical_url": "https://x.com/moneyqubit/status/2088227297258295681",
+  "title": "Nvidia is reportedly pushing its Feynman platform harder while Vera Rubin is still ramping into mass production. Reports on Thursday describe resources shifting toward the gener...",
+  "source_domain": "x.com",
+  "author": "moneyqubit",
+  "published_at": "Fri Aug 14 11:32:39 +0000 2026",
+  "captured_at": "2026-08-14T12:00:01.198147+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "c3eb63a034f68db9731c0eceeb838ea930958f72ce0abc7bbf6d4709720cdcc8",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088227297258295681.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088227297258295681.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088227297258295681.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

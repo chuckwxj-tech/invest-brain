@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088073969899553109",
+  "capture_type": "post",
+  "url": "https://x.com/zephyr_z9/status/2088073969899553109",
+  "canonical_url": "https://x.com/zephyr_z9/status/2088073969899553109",
+  "title": "\"straight to A16, TSMC's upgraded version of its 2nm process, and will also raise the share of SoIC 3D stacking, with custom HBM and CPO expected to be combined on top of that.\"...",
+  "source_domain": "x.com",
+  "author": "zephyr_z9",
+  "published_at": "Fri Aug 14 01:23:23 +0000 2026",
+  "captured_at": "2026-08-14T02:30:01.278868+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "6f7fa16afdb774c5b30220b6e34d92d02cda2eb7a44afffbd8833af0bca939cd",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088073969899553109.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088073969899553109.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088073969899553109.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

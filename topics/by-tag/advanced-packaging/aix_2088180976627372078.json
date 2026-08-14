@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088180976627372078",
+  "capture_type": "post",
+  "url": "https://x.com/CNisGOD/status/2088180976627372078",
+  "canonical_url": "https://x.com/CNisGOD/status/2088180976627372078",
+  "title": "paired with custom HBM (High Bandwidth Memory) and CPO (Co-Packaged Optics). -Massive Capacity Targets: TSMC aims to scale its monthly SoIC production capacity to 50,000 wafers ...",
+  "source_domain": "x.com",
+  "author": "CNisGOD",
+  "published_at": "Fri Aug 14 08:28:36 +0000 2026",
+  "captured_at": "2026-08-14T09:00:01.828794+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "711a730eb88b8d49d66e40949a78757c2468ac8417ac67ac6511fee4b148588f",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088180976627372078.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088180976627372078.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088180976627372078.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

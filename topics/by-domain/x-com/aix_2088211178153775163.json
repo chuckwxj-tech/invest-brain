@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088211178153775163",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2088211178153775163",
+  "canonical_url": "https://x.com/high_tech_stock/status/2088211178153775163",
+  "title": "【$INTC、メモリ事業に復帰？これ結構デカいニュースでは👀】 Intel CEOのLip-Bu Tanが、 「メモリはCommodityからStrategicへ変わった」 として、CPUとMemoryを積層するような新アーキテクチャを示唆。 これ、単にIntelがDRAMをまた作るという話ではなさそう。 2026年のIntel周辺では、 ・SoftB...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Fri Aug 14 10:28:36 +0000 2026",
+  "captured_at": "2026-08-14T11:00:01.431561+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "8906c0f0a528b64af05e363e4a0a3639b6dfa5a842a9104ee3d3c27ffe97338c",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088211178153775163.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088211178153775163.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088211178153775163.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088147211250979204",
+  "capture_type": "post",
+  "url": "https://x.com/DavidKWilliams/status/2088147211250979204",
+  "canonical_url": "https://x.com/DavidKWilliams/status/2088147211250979204",
+  "title": "📉 Glass substrate timelines appear to have slipped again — but the commercialization path is getting clearer. The latest updates suggest both major Korean players have pushed ou...",
+  "source_domain": "x.com",
+  "author": "DavidKWilliams",
+  "published_at": "Fri Aug 14 06:14:25 +0000 2026",
+  "captured_at": "2026-08-14T07:00:01.501895+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "d8ca8edd98b132898aa144f20810b80f004fd666d47271ee7ae40f5a1c9b0aa8",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088147211250979204.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088147211250979204.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088147211250979204.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

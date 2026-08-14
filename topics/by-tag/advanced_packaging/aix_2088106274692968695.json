@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088106274692968695",
+  "capture_type": "post",
+  "url": "https://x.com/zhaoge168168/status/2088106274692968695",
+  "canonical_url": "https://x.com/zhaoge168168/status/2088106274692968695",
+  "title": "ABF载板核心梳理 ABF载板概念核心梳理 核心观点 ABF载板（FC-BGA封装基板）是高端AI算力芯片（CPU、GPU、NPU）封装不可或缺的核心载体，目前被日本味之素（Ajinomoto）垄断ABF膜，被日系、中国台湾厂商垄断载板制造，是半导体产业链中\"卡脖子\"最严重的环节之一。2026年ABF载板进入新一轮景气上行周期，供需缺口持续扩大——欣兴...",
+  "source_domain": "x.com",
+  "author": "zhaoge168168",
+  "published_at": "Fri Aug 14 03:31:45 +0000 2026",
+  "captured_at": "2026-08-14T04:30:02.056106+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "c40b9e28720bd285e8416af3051b6f2d58bfdeeb80d4cd1b93df221ed1c835e8",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088106274692968695.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088106274692968695.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088106274692968695.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

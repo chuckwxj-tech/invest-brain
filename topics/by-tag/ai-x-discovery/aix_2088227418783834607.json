@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088227418783834607",
+  "capture_type": "post",
+  "url": "https://x.com/CHItrader/status/2088227418783834607",
+  "canonical_url": "https://x.com/CHItrader/status/2088227418783834607",
+  "title": "NVIDIA ALREADY EYEING THE NEXT BIG LEAP $NVDA is accelerating its Feynman AI platform for 2028 even as Vera Rubin ramps, forcing $TSM to race on advanced packaging. 🔹 Feynman ta...",
+  "source_domain": "x.com",
+  "author": "CHItrader",
+  "published_at": "Fri Aug 14 11:33:08 +0000 2026",
+  "captured_at": "2026-08-14T12:00:01.198147+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "94a63a41e5a83c1a26c4e66aca1925aa8d1a22ce52dd25b63ca141001a374dbe",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088227418783834607.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088227418783834607.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088227418783834607.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

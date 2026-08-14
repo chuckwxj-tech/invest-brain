@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088061698473410965",
+  "capture_type": "post",
+  "url": "https://x.com/jukan05/status/2088061698473410965",
+  "canonical_url": "https://x.com/jukan05/status/2088061698473410965",
+  "title": "Taiwan's DigiTimes reports that Nvidia's Feynman platform, the generation after next, will move straight to A16, TSMC's upgraded version of its 2nm process, and will also raise ...",
+  "source_domain": "x.com",
+  "author": "jukan05",
+  "published_at": "Fri Aug 14 00:34:37 +0000 2026",
+  "captured_at": "2026-08-14T01:00:02.086751+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "f490ee81e6611940556eec1dbf56b0385194945bcc7fc2026fce19b3e0e2899a",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088061698473410965.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088061698473410965.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088061698473410965.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

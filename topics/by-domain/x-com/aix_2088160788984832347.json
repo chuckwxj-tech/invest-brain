@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088160788984832347",
+  "capture_type": "post",
+  "url": "https://x.com/artazc44161/status/2088160788984832347",
+  "canonical_url": "https://x.com/artazc44161/status/2088160788984832347",
+  "title": "Sold all $LPK , glass substrate timelines got pushed back at least another quarter. - Samsung Electro-Mechanics Delays Semiconductor Glass Substrate Investment\" due to a bottlen...",
+  "source_domain": "x.com",
+  "author": "artazc44161",
+  "published_at": "Fri Aug 14 07:08:22 +0000 2026",
+  "captured_at": "2026-08-14T08:00:01.513986+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "973181abf8fa46b0b8b7d2212fc2a02c0df9d8fcc87404511dd4c8f3c99419ea",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088160788984832347.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088160788984832347.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088160788984832347.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

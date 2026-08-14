@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088179759180329197",
+  "capture_type": "post",
+  "url": "https://x.com/GrowthTree_Log/status/2088179759180329197",
+  "canonical_url": "https://x.com/GrowthTree_Log/status/2088179759180329197",
+  "title": "🧠 AI 바이오의 숨은 인프라 🧠 바이오 AI가 커지면 GPU만 필요한 게 아니다 유전체 단백질 화합물 의료영상 환자기록 임상데이터 ↓ 대규모 저장 ↓ Memory / Storage ↓ AI Compute 🇰🇷 SK하이닉스 (000660) 2026년 NVIDIA와 다년간 기술협력 발표. SK하이닉스 ↔ NVIDIA ...",
+  "source_domain": "x.com",
+  "author": "GrowthTree_Log",
+  "published_at": "Fri Aug 14 08:23:45 +0000 2026",
+  "captured_at": "2026-08-14T09:00:01.828794+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "620408ea4a913d47b39a612b88cc1983f08bad8eaf80a82c738e764241cca71a",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088179759180329197.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088179759180329197.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088179759180329197.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

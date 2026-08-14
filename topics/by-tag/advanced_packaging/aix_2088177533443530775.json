@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088177533443530775",
+  "capture_type": "post",
+  "url": "https://x.com/XAUUSD_GoldEA/status/2088177533443530775",
+  "canonical_url": "https://x.com/XAUUSD_GoldEA/status/2088177533443530775",
+  "title": "대만 디지털 타임즈에 따르면, 엔비디아의 페이만 플랫폼(차세대 이후 플랫폼)은 TSMC의 2나노 공정 업그레이드 버전인 A16을 직접 채택할 예정이며, SoIC 3D 적층 비율을 높이고, 여기에 맞춤형 HBM 및 CPO를 결합할 것으로 전망됩니다. 이에 따라 TSMC의 월간 SoIC 생산 능력은 2027년 말까지 월...",
+  "source_domain": "x.com",
+  "author": "XAUUSD_GoldEA",
+  "published_at": "Fri Aug 14 08:14:55 +0000 2026",
+  "captured_at": "2026-08-14T09:00:01.828794+00:00",
+  "storage_date": "2026-08-14",
+  "content_hash": "639ed9187250b584b0b5a583f29b425a15489ea0c5e8483e947def8134c9586b",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088177533443530775.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088177533443530775.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-14/aix_2088177533443530775.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

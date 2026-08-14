@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088313909824340294",
+  "capture_type": "post",
+  "url": "https://x.com/pequityresearch/status/2088313909824340294",
+  "canonical_url": "https://x.com/pequityresearch/status/2088313909824340294",
+  "title": "Broadcom is losing market share and Google is working with AMD on a TPU project for the v10 generation, according to SemiAnalysis. AVGO TPU Downward Revision (2026–2027) > 2026 ...",
+  "source_domain": "x.com",
+  "author": "pequityresearch",
+  "published_at": "Fri Aug 14 17:16:49 +0000 2026",
+  "captured_at": "2026-08-14T17:30:01.653895+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "b5c60a8d25da3daab5501b06d190fe9588d9412e8278eb3e2352ea15642d4800",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088313909824340294.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088313909824340294.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088313909824340294.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
