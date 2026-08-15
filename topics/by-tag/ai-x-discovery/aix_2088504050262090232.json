@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088504050262090232",
+  "capture_type": "post",
+  "url": "https://x.com/micknos8/status/2088504050262090232",
+  "canonical_url": "https://x.com/micknos8/status/2088504050262090232",
+  "title": "@PeterDiamandis This dynamic has been widely discussed in 2026, prototyping the external memory control loop on long-horizon agent benchmarks, measure token cost / latency / rel...",
+  "source_domain": "x.com",
+  "author": "micknos8",
+  "published_at": "Sat Aug 15 05:52:22 +0000 2026",
+  "captured_at": "2026-08-15T06:00:02.047047+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "f3bbe84973cc67ee2716c8df3cf2ca5e1d333f27b6970e410c20bac837e52b16",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088504050262090232.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088504050262090232.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088504050262090232.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

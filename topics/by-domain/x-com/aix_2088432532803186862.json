@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088432532803186862",
+  "capture_type": "post",
+  "url": "https://x.com/waichan_invest/status/2088432532803186862",
+  "canonical_url": "https://x.com/waichan_invest/status/2088432532803186862",
+  "title": "Marvell（$MRVL）を整理。 結論、Marvellは「CXLの会社」というより、AIデータセンターに必要な半導体を横断的に押さえる企業として見ると分かりやすい。 Morgan Stanleyは2030年のCXL関連市場予想を大幅に上方修正。 ・CXLメモリコントローラー：9.9億ドル → 21億ドル ・CXLスイッチ：6.64億ドル → 19億...",
+  "source_domain": "x.com",
+  "author": "waichan_invest",
+  "published_at": "Sat Aug 15 01:08:11 +0000 2026",
+  "captured_at": "2026-08-15T01:30:01.729788+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "46daa150565906488eade816a89a6186fd38ddc8f176528fd77e16fde6f7b0f3",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088432532803186862.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088432532803186862.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088432532803186862.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

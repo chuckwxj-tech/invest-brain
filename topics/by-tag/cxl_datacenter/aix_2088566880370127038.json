@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088566880370127038",
+  "capture_type": "post",
+  "url": "https://x.com/yuni203/status/2088566880370127038",
+  "canonical_url": "https://x.com/yuni203/status/2088566880370127038",
+  "title": "【今週のHBM｜競争軸が変わり始めた】 8/9〜15のHBMニュースを追うと、AIメモリ競争が次の段階に入ったように見える。 最大の変化は、「HBMをどれだけ増やすか」から「限られたHBMをどう効率よく使うか」へのシフト。 NVIDIAはHBM供給不足・価格高騰を背景に、次世代Rubin Ultraのメモリ仕様見直しを検討。HBMがGPU性能を支える部...",
+  "source_domain": "x.com",
+  "author": "yuni203",
+  "published_at": "Sat Aug 15 10:02:02 +0000 2026",
+  "captured_at": "2026-08-15T10:30:01.170775+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "94967377a492bf238ee5363ed5f7237ba4b96feb28a9d86414b47a358476a573",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088566880370127038.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088566880370127038.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088566880370127038.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

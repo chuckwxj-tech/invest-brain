@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088413558573072881",
+  "capture_type": "post",
+  "url": "https://x.com/zsdcxa13/status/2088413558573072881",
+  "canonical_url": "https://x.com/zsdcxa13/status/2088413558573072881",
+  "title": "세미애널리시스에서 브로드컴의 2026~2027년 구글 TPU 생산 전망치를 하향 조정했습니다 단순히 숫자가 줄었다는 것보다 그 이면에 있는 공급망과 차세대 기술 트렌드가 훨씬 흥미롭네요. 주요 내용 3가지로 정리해봄 1️⃣ 2026년 TPU 감산: 수요가 아닌 TSMC CoWoS 병목 TSMC의 첨단 패키징(CoWo...",
+  "source_domain": "x.com",
+  "author": "zsdcxa13",
+  "published_at": "Fri Aug 14 23:52:47 +0000 2026",
+  "captured_at": "2026-08-15T00:00:01.856620+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "83ecd97bad9caa2a3f4b1db44ca60f1674c55dc15e4d1bfae4aec458ac8eae69",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088413558573072881.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088413558573072881.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088413558573072881.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

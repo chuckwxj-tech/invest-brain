@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088332144804512094",
+  "capture_type": "post",
+  "url": "https://x.com/katzspx/status/2088332144804512094",
+  "canonical_url": "https://x.com/katzspx/status/2088332144804512094",
+  "title": "@sean_________ The dynamic is really intriguing. $GOOGL is collaborating with $AMD on its next‑gen custom TPU v10 ASIC, tapping AMD’s strengths in advanced packaging, SoIC, and ...",
+  "source_domain": "x.com",
+  "author": "katzspx",
+  "published_at": "Fri Aug 14 18:29:17 +0000 2026",
+  "captured_at": "2026-08-14T19:00:01.520421+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "71c437ac3cc06f67615e48aca4456683619eb0416b1cf305d41a33a040058e08",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088332144804512094.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088332144804512094.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088332144804512094.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

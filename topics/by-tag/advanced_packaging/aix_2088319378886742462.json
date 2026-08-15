@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088319378886742462",
+  "capture_type": "post",
+  "url": "https://x.com/QQ_Timmy/status/2088319378886742462",
+  "canonical_url": "https://x.com/QQ_Timmy/status/2088319378886742462",
+  "title": "Semianalysis：「市場傳言指出，$GOOG（Google）正與 $AMD 合作開發 v10 世代的 TPU 專案。這將是 AMD 首次真正參與客製化 AI ASIC 專案，儘管他們已有客製化晶片團隊。AMD 在先進封裝與 SoIC 方面擁有強大的 IP。此外，CPU IP 也可能成為吸引力，因為 Google 及其客戶正推動將 CPU 核心整...",
+  "source_domain": "x.com",
+  "author": "QQ_Timmy",
+  "published_at": "Fri Aug 14 17:38:33 +0000 2026",
+  "captured_at": "2026-08-14T18:30:02.134628+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "8594d2267dad7e342c4ace13aab99b3252f20ba013e7344f7fd0059aa111acf3",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088319378886742462.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088319378886742462.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088319378886742462.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

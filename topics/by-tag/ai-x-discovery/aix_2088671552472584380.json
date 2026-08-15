@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088671552472584380",
+  "capture_type": "post",
+  "url": "https://x.com/mkampf1/status/2088671552472584380",
+  "canonical_url": "https://x.com/mkampf1/status/2088671552472584380",
+  "title": "@Frontgate you have the WORST CUSTOMER SERVICE and your product in stock projection is the worst I’ve ever seen. WHT resort collection Bath Mat order placed on Mem Day. Delivery...",
+  "source_domain": "x.com",
+  "author": "mkampf1",
+  "published_at": "Sat Aug 15 16:57:58 +0000 2026",
+  "captured_at": "2026-08-15T17:30:01.326411+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "89e974c0e51afb83da1ac3bd27b2396f527109a928054ab95a1f96a270ba0bfd",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088671552472584380.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088671552472584380.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088671552472584380.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

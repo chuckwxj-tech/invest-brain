@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088447051193540946",
+  "capture_type": "post",
+  "url": "https://x.com/hamhaha00/status/2088447051193540946",
+  "canonical_url": "https://x.com/hamhaha00/status/2088447051193540946",
+  "title": "**📉 구글, AMD와 v10 TPU 협력설… 브로드컴 TPU 전망 하향** 세미애널리시스: 브로드컴의 2026~2027년 구글 TPU 생산 전망치 **하향 조정**. - 올해 CoWoS 물량: 25만 장 → **21만 5,000장**으로 축소 (첨단 패키징 증산 차질) - TPU v7x(Ironwood): 320만...",
+  "source_domain": "x.com",
+  "author": "hamhaha00",
+  "published_at": "Sat Aug 15 02:05:53 +0000 2026",
+  "captured_at": "2026-08-15T03:00:01.416267+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "2e3f37e762d944fd45724c1d55e056f43dc38025eb2abef5d2b3f54ad0b5ad6b",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088447051193540946.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088447051193540946.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088447051193540946.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

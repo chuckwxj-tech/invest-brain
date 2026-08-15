@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088459017551229388",
+  "capture_type": "post",
+  "url": "https://x.com/rakhul/status/2088459017551229388",
+  "canonical_url": "https://x.com/rakhul/status/2088459017551229388",
+  "title": "@aleabitoreddit The reliability evaluation bottleneck is the telling detail here. Glass substrate isn't failing on process innovation, it's failing on customer qualification cyc...",
+  "source_domain": "x.com",
+  "author": "rakhul",
+  "published_at": "Sat Aug 15 02:53:26 +0000 2026",
+  "captured_at": "2026-08-15T03:00:01.416267+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "6b5f203f8ed42daf368d04272ff9d8e578e43ecfbcb7b48b11445109b4ab4ad8",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088459017551229388.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088459017551229388.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088459017551229388.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

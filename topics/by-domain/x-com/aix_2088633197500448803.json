@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088633197500448803",
+  "capture_type": "post",
+  "url": "https://x.com/ai_officework/status/2088633197500448803",
+  "canonical_url": "https://x.com/ai_officework/status/2088633197500448803",
+  "title": "Intel memory-architecture notes circulating again: Z-Angle Memory (ZAM) and Cross-Batch Memory (XBM) as studied paths around HBM’s structural and packaging limits. ZAM (with Sof...",
+  "source_domain": "x.com",
+  "author": "ai_officework",
+  "published_at": "Sat Aug 15 14:25:33 +0000 2026",
+  "captured_at": "2026-08-15T15:00:01.840782+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "73ade3c3228756de0eb90c137e2c200f6038f0bf8960e693ede160624717d9b3",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088633197500448803.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088633197500448803.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088633197500448803.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

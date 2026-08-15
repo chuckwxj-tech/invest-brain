@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088634823820575054",
+  "capture_type": "post",
+  "url": "https://x.com/HyperSharkk/status/2088634823820575054",
+  "canonical_url": "https://x.com/HyperSharkk/status/2088634823820575054",
+  "title": "ช่วงนี้ผมเริ่มสนใจ CXL มากขึ้น เพราะมัน Connect กับเรื่อง “Memory Wall” ของ AI Morgan Stanley ประเมินว่าตลาด CXL Memory Expander Controller + CXL Switch จะโตจากแทบไม่มี TAM เลยต...",
+  "source_domain": "x.com",
+  "author": "HyperSharkk",
+  "published_at": "Sat Aug 15 14:32:01 +0000 2026",
+  "captured_at": "2026-08-15T15:30:01.793568+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "0a8bd196cabac385b04aefb4e844fee4dcae255c4cff1e1e816efcf1b2820442",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088634823820575054.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088634823820575054.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088634823820575054.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

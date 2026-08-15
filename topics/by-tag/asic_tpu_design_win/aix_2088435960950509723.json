@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088435960950509723",
+  "capture_type": "post",
+  "url": "https://x.com/waichan_invest/status/2088435960950509723",
+  "canonical_url": "https://x.com/waichan_invest/status/2088435960950509723",
+  "title": "【AVGO TPU減産、TOPPANへの影響を整理】 SemiAnalysisによると、Broadcomの2026年CoWoS投入量は25万枚→21.5万枚へ下方修正。 Google TPU v7x（Ironwood）は 320万個→270万個、約50万個減。 TPU v8i（Sunfish）も約8万個減る見通し。 ただし重要なのは、今回の減産が需要減...",
+  "source_domain": "x.com",
+  "author": "waichan_invest",
+  "published_at": "Sat Aug 15 01:21:49 +0000 2026",
+  "captured_at": "2026-08-15T01:30:01.729788+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "0001814d613700a212f1c76797cc4fea8b23a796291eff976e7feadc305c4ea1",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088435960950509723.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088435960950509723.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088435960950509723.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

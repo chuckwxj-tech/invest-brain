@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088496667284709576",
+  "capture_type": "post",
+  "url": "https://x.com/cherryPayment/status/2088496667284709576",
+  "canonical_url": "https://x.com/cherryPayment/status/2088496667284709576",
+  "title": "这个就很有意思了，表面上是在说”TPU 出货下修”是利空, 但我们能看到博通同时说的是”分配给其他客户更多产能”，即 Google 总需求可能没变,只是订单在 Broadcom 与 MediaTek(TPU 8X/Zebrafish)之间重新分配。 在此之后再想一下”双轨制”也就是8AX 归博通和8X 归联发科，所以这更像是份额稀释而非需求萎缩,对博通...",
+  "source_domain": "x.com",
+  "author": "cherryPayment",
+  "published_at": "Sat Aug 15 05:23:02 +0000 2026",
+  "captured_at": "2026-08-15T06:00:02.047047+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "eacd64a6a786e48077a7267b022a195355944d20c3bf85069468423123b660f7",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088496667284709576.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088496667284709576.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088496667284709576.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

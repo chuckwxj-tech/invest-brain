@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088411866263646473",
+  "capture_type": "post",
+  "url": "https://x.com/Nikola_pn2501/status/2088411866263646473",
+  "canonical_url": "https://x.com/Nikola_pn2501/status/2088411866263646473",
+  "title": "CTEE記事抜粋 記事No: 20 (A) URLリンク: https://t.co/Qjdm0ZIsZ2 (B) 記事タイトル: 材料値上げ相次ぐ、PCB・CCLに注目 (C) 記事概要: 南亜がCCLとPrepregを9月1日から20～25％値上げ。ガラスクロス・銅箔不足とAIサーバー、高速計算向け低損失材料需要が重なり、Elite Materia...",
+  "source_domain": "x.com",
+  "author": "Nikola_pn2501",
+  "published_at": "Fri Aug 14 23:46:04 +0000 2026",
+  "captured_at": "2026-08-15T00:00:01.856620+00:00",
+  "storage_date": "2026-08-15",
+  "content_hash": "f9a08efbf57fa9cfc73530fd04509ee62b771450397100db1fbdc3f60f945bbe",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088411866263646473.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088411866263646473.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-15/aix_2088411866263646473.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
