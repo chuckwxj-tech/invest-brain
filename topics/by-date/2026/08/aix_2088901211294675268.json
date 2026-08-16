@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088901211294675268",
+  "capture_type": "post",
+  "url": "https://x.com/respectZMAGK777/status/2088901211294675268",
+  "canonical_url": "https://x.com/respectZMAGK777/status/2088901211294675268",
+  "title": "link --- P Equity Researchさん 8/14 13:16 ET SemiAnalysisによると、Broadcomは市場シェアを失いつつあり、GoogleはTPUの「v10」世代に向けたプロジェクトでAMDと協力しています。 AVGO製TPUの生産見通し下方修正（2026～2027年） > 2026年の生産削減：CoWoS-Sの供...",
+  "source_domain": "x.com",
+  "author": "respectZMAGK777",
+  "published_at": "Sun Aug 16 08:10:33 +0000 2026",
+  "captured_at": "2026-08-16T08:30:01.456019+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "abe792b145277f92da1767ac3642fed688072bcafe1392f352c791681def7b8c",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088901211294675268.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088901211294675268.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088901211294675268.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

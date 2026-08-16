@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088990565694374342",
+  "capture_type": "post",
+  "url": "https://x.com/Yinfucarrio6/status/2088990565694374342",
+  "canonical_url": "https://x.com/Yinfucarrio6/status/2088990565694374342",
+  "title": "As the standalone module disappears, a multi-billion-dollar supply chain is rewired! $NVDA's Spectrum-X Ethernet Photonics switches are in full mass production — the first 200G/...",
+  "source_domain": "x.com",
+  "author": "Yinfucarrio6",
+  "published_at": "Sun Aug 16 14:05:37 +0000 2026",
+  "captured_at": "2026-08-16T14:30:01.153098+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "c9b74abea3f0e81664796f238421d8759a055661c2e0275cbb2d2c59de8238f0",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088990565694374342.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088990565694374342.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088990565694374342.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088747947257114699",
+  "capture_type": "post",
+  "url": "https://x.com/Omercheema/status/2088747947257114699",
+  "canonical_url": "https://x.com/Omercheema/status/2088747947257114699",
+  "title": "Thoughts on the SemiAnalysis rumor of an AMD-Google TPU partnership: 1/ Broadcom and Google signed a disclosed 5-year cooperation agreement in March 2026 covering four TPU gener...",
+  "source_domain": "x.com",
+  "author": "Omercheema",
+  "published_at": "Sat Aug 15 22:01:32 +0000 2026",
+  "captured_at": "2026-08-15T22:30:01.288909+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "c332a9bf5bc35e543737d69e19be3659173f3190f7aa384eba530c5c9710b840",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088747947257114699.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088747947257114699.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088747947257114699.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

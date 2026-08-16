@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088928893805948966",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2088928893805948966",
+  "canonical_url": "https://x.com/algotradingdesk/status/2088928893805948966",
+  "title": "🇺🇸 Astera Labs Inc. | Q2 FY2026 Earnings Update Date: 16 August 2026 Astera Labs delivered an exceptionally strong Q2 FY2026, with revenue surging 104% YoY to $392.4 million, si...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Sun Aug 16 10:00:33 +0000 2026",
+  "captured_at": "2026-08-16T10:30:01.719272+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "fb9c1268396b5257521212bb354320b169d0de7dd96d1429a2cd0f74be532490",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088928893805948966.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088928893805948966.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088928893805948966.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088781018061038010",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2088781018061038010",
+  "canonical_url": "https://x.com/high_tech_stock/status/2088781018061038010",
+  "title": "【今週のAIインフラ主要ポストまとめ｜8/9〜8/15】 今週の投稿から、後から読み返したいAIインフラ主要ポスト12本をまとめました👀 今週特に見えてきたのは、 ① 高速化・複雑化で、接続に加えて検査・検証が新たなボトルネックへ ② 光・CXL・メモリが、部品単体からラック規模のFabricへ進化 ③ 成長期待だけでなく、契約構造・利益率・仮説崩壊条...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Sun Aug 16 00:12:57 +0000 2026",
+  "captured_at": "2026-08-16T00:30:01.783022+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "34e6b5df7699cec17a6babda31eae10f708f664c5284e414e536268f65f13c6a",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088781018061038010.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088781018061038010.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088781018061038010.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088850910529323315",
+  "capture_type": "post",
+  "url": "https://x.com/aleabitoreddit/status/2088850910529323315",
+  "canonical_url": "https://x.com/aleabitoreddit/status/2088850910529323315",
+  "title": "Just some TLDRs of stuff I found interesting: - $SNDK 80% adjusted gross margins projections through 2030, ~75% operating margins and ~50% adjusted FCF margins from investor day...",
+  "source_domain": "x.com",
+  "author": "aleabitoreddit",
+  "published_at": "Sun Aug 16 04:50:40 +0000 2026",
+  "captured_at": "2026-08-16T05:00:01.797304+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "dfb9e3701648ffddfe05fe66e71848f6e79414c062b4dba41bbbf4e204f49f36",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088850910529323315.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088850910529323315.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088850910529323315.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

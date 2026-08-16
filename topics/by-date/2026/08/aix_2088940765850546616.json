@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088940765850546616",
+  "capture_type": "post",
+  "url": "https://x.com/julissaakins/status/2088940765850546616",
+  "canonical_url": "https://x.com/julissaakins/status/2088940765850546616",
+  "title": "Just some TLDRs of stuff I found interesting this week: - $SNDK projecting 80% adjusted gross margins through 2030, ~75% operating margins and ~50% FCF margins. LTAs already cov...",
+  "source_domain": "x.com",
+  "author": "julissaakins",
+  "published_at": "Sun Aug 16 10:47:43 +0000 2026",
+  "captured_at": "2026-08-16T11:00:02.102384+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "9d0ffac7c72485c80200df204f00d51ed30adbea4717631279717c3322370a69",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088940765850546616.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088940765850546616.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088940765850546616.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088948753340449273",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2088948753340449273",
+  "canonical_url": "https://x.com/high_tech_stock/status/2088948753340449273",
+  "title": "【今週のさんろくさん｜必読ポスト10選｜8/9〜8/15】 さんろくさんの今週の投稿から、 AI半導体・半導体検査・AIインフラを考えるうえで、 後から読み返したい10本をまとめました👀 今週特に印象的だったのは、 ① AI半導体の複雑化で、テスト・検査・Burn-in需要の裾野が拡大 ② AIデータ基盤の物色が、メモリから保存・制御・接続領域へ波及 ...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Sun Aug 16 11:19:28 +0000 2026",
+  "captured_at": "2026-08-16T11:30:01.455150+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "7fe0f2d2d9d4ffd9c7091bcaa980b5f3a1970bc065a144c8aed662b0402ae91a",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088948753340449273.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088948753340449273.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088948753340449273.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

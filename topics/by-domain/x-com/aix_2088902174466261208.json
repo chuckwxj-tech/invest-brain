@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2088902174466261208",
+  "capture_type": "post",
+  "url": "https://x.com/respectZMAGK777/status/2088902174466261208",
+  "canonical_url": "https://x.com/respectZMAGK777/status/2088902174466261208",
+  "title": "Seanさん 8/14 13:06 ET Semianalysis：「市場の観測によれば、GoogleはTPUの『v10』世代プロジェクトにおいてAMDと協業している模様です。AMDは独自のカスタムシリコン部門を擁してはいるものの、カスタムAI ASICプロジェクトに本格的に関与するのは今回が初めてとなります。同社は特に、アドバンスド・パッケージングや...",
+  "source_domain": "x.com",
+  "author": "respectZMAGK777",
+  "published_at": "Sun Aug 16 08:14:22 +0000 2026",
+  "captured_at": "2026-08-16T08:30:01.456019+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "890ed5be20537240a36d6e24cbc2f1388f131edd2b788279ecd81d64ea4bb63f",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088902174466261208.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088902174466261208.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/aix_2088902174466261208.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
