@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089183548221837754",
+  "capture_type": "post",
+  "url": "https://x.com/FomoSoc/status/2089183548221837754",
+  "canonical_url": "https://x.com/FomoSoc/status/2089183548221837754",
+  "title": "AMD 是做 CPU 和 GPU 的，Broadcom 是做 ASIC 的，Google 的 TPU 一直是 Broadcom 設計的。 ​ 但根據SemiAnalysis最新報導，Google 正在與 AMD 洽談，讓 AMD 參與未來 TPU（v10）的設計。 ​ 這聽起來像是找一個廚師來幫忙修水管，但如果你理解 Google 到底在解決什麼問題，...",
+  "source_domain": "x.com",
+  "author": "FomoSoc",
+  "published_at": "Mon Aug 17 02:52:27 +0000 2026",
+  "captured_at": "2026-08-17T03:30:01.983355+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "3b8dd64ebd8a3ce776f6c8a9818cb14065cf376fa664cd0f1bf1144db0fba4cb",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089183548221837754.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089183548221837754.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089183548221837754.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

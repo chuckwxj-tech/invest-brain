@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089356744556191940",
+  "capture_type": "post",
+  "url": "https://x.com/fstaklev/status/2089356744556191940",
+  "canonical_url": "https://x.com/fstaklev/status/2089356744556191940",
+  "title": "Most people still judge AI infrastructure by who sells the GPUs. That’s like judging a data center by the servers and ignoring the wires that connect them. Astera Labs $ALAB is ...",
+  "source_domain": "x.com",
+  "author": "fstaklev",
+  "published_at": "Mon Aug 17 14:20:40 +0000 2026",
+  "captured_at": "2026-08-17T15:00:02.068724+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "619baf8d3d4ae06caaeba11145bbbe8edb147ab56c0724f0a65effcdce69dcbe",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089356744556191940.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089356744556191940.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089356744556191940.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

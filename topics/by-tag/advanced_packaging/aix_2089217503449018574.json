@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089217503449018574",
+  "capture_type": "post",
+  "url": "https://x.com/ChuckBass14291/status/2089217503449018574",
+  "canonical_url": "https://x.com/ChuckBass14291/status/2089217503449018574",
+  "title": "2026/2027 前瞻预判**：英伟达正在买断 CW/EML 产能（通过 LTA 长协）、转向 800V、极度明确 CPO（共封装光学）转向，并将“物理 AI”列为下一主题。市场目前再次唱衰（称 CW 属于美股模因股、CPO 为时尚早、人形机器人不赚钱），但他坚定选择押注黄仁勋/英伟达。 * **重点公司与供应链 TLDR 数据**： * **`$S...",
+  "source_domain": "x.com",
+  "author": "ChuckBass14291",
+  "published_at": "Mon Aug 17 05:07:23 +0000 2026",
+  "captured_at": "2026-08-17T06:00:01.458873+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "420decd6cfa394493593253858657f299b24b3a762384040091425729b0aca93",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089217503449018574.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089217503449018574.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089217503449018574.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

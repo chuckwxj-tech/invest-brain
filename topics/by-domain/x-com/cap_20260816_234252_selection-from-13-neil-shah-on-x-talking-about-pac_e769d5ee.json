@@ -1,0 +1,26 @@
+{
+  "id": "e769d5ee-d96e-4d21-8dc6-83b13a53d128",
+  "capture_type": "selection",
+  "url": "https://x.com/neil_shah/status/2088900026437423356",
+  "canonical_url": null,
+  "title": "Selection from: (13) Neil Shah on X: \"Talking about packaging, have been digging into @intel XBM approach, fascinating me to understand different bottlenecks on how the engineers are trying to solve it. HBM ➡️ XBM Today, HBM relies on an ultra-wide parallel bus (1024–2048 bits), routing thousands of micro-wires https://t.co/S3nixCkXxo\" / X",
+  "source_domain": "x.com",
+  "author": null,
+  "published_at": null,
+  "captured_at": "2026-08-16T23:42:52.183479+00:00",
+  "storage_date": "2026-08-16",
+  "content_hash": "2c91d21f5413d3a11dafc678f004077dfb4ab5e7db5793c28e2710e2565fe934",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/cap_20260816_234252_selection-from-13-neil-shah-on-x-talking-about-pac_e769d5ee.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/cap_20260816_234252_selection-from-13-neil-shah-on-x-talking-about-pac_e769d5ee.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-16/cap_20260816_234252_selection-from-13-neil-shah-on-x-talking-about-pac_e769d5ee.analysis_prompt.md"
+  }
+}

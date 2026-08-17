@@ -1,0 +1,26 @@
+{
+  "id": "27b2a6d6-2c96-48e7-8962-7059841d031d",
+  "capture_type": "page",
+  "url": "https://x.com/home",
+  "canonical_url": null,
+  "title": "今天办了一张浦发万事达的卡 ，绑定 applepay 消费外币秒级支付成功。\n\n对比之下 不知道为什么 招商的 visa 卡 applepay 死活过不去支付。",
+  "source_domain": "x.com",
+  "author": "Go学长",
+  "published_at": "2026-08-16T10:13:31.000Z",
+  "captured_at": "2026-08-17T00:14:30.219140+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "75606bf5fc92fe04962ad632acfc4f56e41ac7543c38bdfeadfc4a466628caff",
+  "tags": [],
+  "priority": "normal",
+  "research_intent": "",
+  "user_notes": "",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/cap_20260817_001430_今天办了一张浦发万事达的卡-绑定-applepay-消费外币秒级支付成功-对比之下-不知道为什么-招_27b2a6d6.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/cap_20260817_001430_今天办了一张浦发万事达的卡-绑定-applepay-消费外币秒级支付成功-对比之下-不知道为什么-招_27b2a6d6.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/cap_20260817_001430_今天办了一张浦发万事达的卡-绑定-applepay-消费外币秒级支付成功-对比之下-不知道为什么-招_27b2a6d6.analysis_prompt.md"
+  }
+}

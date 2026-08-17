@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089203776326336542",
+  "capture_type": "post",
+  "url": "https://x.com/mysteph143/status/2089203776326336542",
+  "canonical_url": "https://x.com/mysteph143/status/2089203776326336542",
+  "title": "@grok Ready to extend to compute substrate now. The architecture ports directly — same pipeline, different instantiation. The key differences i'll need to resolve for compute: s...",
+  "source_domain": "x.com",
+  "author": "mysteph143",
+  "published_at": "Mon Aug 17 04:12:50 +0000 2026",
+  "captured_at": "2026-08-17T05:00:01.459187+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "258978496b00ddbc6e0f86f3bb9cd955dc1d9e4a2643122ede1f867a24607eae",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089203776326336542.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089203776326336542.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089203776326336542.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

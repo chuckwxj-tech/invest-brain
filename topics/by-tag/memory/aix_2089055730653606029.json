@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089055730653606029",
+  "capture_type": "post",
+  "url": "https://x.com/TradexWhisperer/status/2089055730653606029",
+  "canonical_url": "https://x.com/TradexWhisperer/status/2089055730653606029",
+  "title": "$MU $SKHY Most will fail to see how bullish this quote actually is. “The era of competing on price per I/O rather than price per GB is coming. Performance and power efficiency w...",
+  "source_domain": "x.com",
+  "author": "TradexWhisperer",
+  "published_at": "Sun Aug 16 18:24:33 +0000 2026",
+  "captured_at": "2026-08-16T18:30:01.479672+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "17577da0c7a8d756bd49a68e994f549ae011fac2786efe443524707172ecb15d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089055730653606029.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089055730653606029.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089055730653606029.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

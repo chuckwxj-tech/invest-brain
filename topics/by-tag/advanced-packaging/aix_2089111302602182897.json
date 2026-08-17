@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089111302602182897",
+  "capture_type": "post",
+  "url": "https://x.com/FABYMETAL4/status/2089111302602182897",
+  "canonical_url": "https://x.com/FABYMETAL4/status/2089111302602182897",
+  "title": "🧭Googleの次世代TPUに名が挙がったのはAMD | 選ばれる条件が配線の速さから積み方とCPUへ移っている $AVGO $AMD 「すべての設計で勝ちたい。ただ、パートナーであるGoogleでもAI計算の開発と消費が伸びている以上、供給元がある程度多様になることは十分に想定している」 6月3日の決算説明会で、Broadcom $AVGO のHoc...",
+  "source_domain": "x.com",
+  "author": "FABYMETAL4",
+  "published_at": "Sun Aug 16 22:05:23 +0000 2026",
+  "captured_at": "2026-08-16T22:30:01.204529+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "f5954e097b87297748e74d9fba2139d408a3fe0507831b43f366b44ecdb657e6",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089111302602182897.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089111302602182897.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089111302602182897.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

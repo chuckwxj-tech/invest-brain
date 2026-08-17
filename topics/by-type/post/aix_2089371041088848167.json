@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089371041088848167",
+  "capture_type": "post",
+  "url": "https://x.com/Afigy1/status/2089371041088848167",
+  "canonical_url": "https://x.com/Afigy1/status/2089371041088848167",
+  "title": "Applied Materials’ latest quarterly revenue reached $9.12 billion, up 25% year over year. Lam Research reported $6.72 billion in its latest quarter, up 15% sequentially, while K...",
+  "source_domain": "x.com",
+  "author": "Afigy1",
+  "published_at": "Mon Aug 17 15:17:29 +0000 2026",
+  "captured_at": "2026-08-17T16:00:01.532788+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "0802f05c8d1f57b2bc94d92706717fb0a86fbf648d2b0fc077c4996b6db21afe",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089371041088848167.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089371041088848167.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089371041088848167.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

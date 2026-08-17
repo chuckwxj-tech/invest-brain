@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089142385641128098",
+  "capture_type": "post",
+  "url": "https://x.com/sixpanny159920/status/2089142385641128098",
+  "canonical_url": "https://x.com/sixpanny159920/status/2089142385641128098",
+  "title": "大摩最新半导体研报的核心结论：AI硬件景气没有见顶，但行情会从“只买GPU”进一步扩散到先进制程、CoWoS、HBM、ASIC、测试、CPO与国产算力。 1、AI半导体仍是最强增长主线 大摩预计全球半导体市场2030年达到1.5万亿美元，其中AI半导体约7530亿美元，占据一半，2023—2030年CAGR约30%。 在2026年牛市情景下，全球云Ca...",
+  "source_domain": "x.com",
+  "author": "sixpanny159920",
+  "published_at": "Mon Aug 17 00:08:53 +0000 2026",
+  "captured_at": "2026-08-17T00:30:01.279769+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "2045cb3a7769f7bb3227f995fbd6be8292fedab0ac45e186c4293c8fdc8ac020",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089142385641128098.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089142385641128098.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089142385641128098.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

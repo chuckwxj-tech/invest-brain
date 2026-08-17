@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089255686966514020",
+  "capture_type": "post",
+  "url": "https://x.com/Dajuchengzhu/status/2089255686966514020",
+  "canonical_url": "https://x.com/Dajuchengzhu/status/2089255686966514020",
+  "title": "[红包][红包]【天风电子】先进封测持续强call：业绩兑现+先进封装扩产共振 🌟核心观点： 近期长电、通富、华天Q2利润均明显改善，验证封测景气已从产业趋势进入业绩兑现。同时，日月光先进封装涨价、国内OSAT持续扩产、国产AI芯片向Chiplet+HBM演进，先进封装正从工程验证迈向规模量产。 我们认为，当前封测板块具备两层逻辑：传统封测景气上行提供...",
+  "source_domain": "x.com",
+  "author": "Dajuchengzhu",
+  "published_at": "Mon Aug 17 07:39:06 +0000 2026",
+  "captured_at": "2026-08-17T08:00:01.688541+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "af0bfa45b0f973adb2191b9bf6352f999ccef754d8b8fe51e6a7b9b043efd2a3",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089255686966514020.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089255686966514020.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089255686966514020.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

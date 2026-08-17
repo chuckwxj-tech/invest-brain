@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089345754725011735",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2089345754725011735",
+  "canonical_url": "https://x.com/high_tech_stock/status/2089345754725011735",
+  "title": "【月曜に読みたい｜海外AIインフラ必読ポスト10選｜8/10〜8/17】 前週月曜21時から今週月曜21時までの海外投稿から、 AIインフラ投資を考えるうえで後から読み返したい 10本を選びました👀 今週特に見えてきたのは、 ① 光接続は本格量産と実装方式の選択が進む一方、上流材料では供給制約が顕在化 ② メモリー接続や大規模クラスターの共通仕様が、柔...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Mon Aug 17 13:37:00 +0000 2026",
+  "captured_at": "2026-08-17T14:00:02.087478+00:00",
+  "storage_date": "2026-08-17",
+  "content_hash": "05177dd854c77027c53913c2bd856a96531af8cc0f969bbb7317d21cfe5b511c",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089345754725011735.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089345754725011735.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-17/aix_2089345754725011735.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
