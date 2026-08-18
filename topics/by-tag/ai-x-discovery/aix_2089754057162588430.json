@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089754057162588430",
+  "capture_type": "post",
+  "url": "https://x.com/crux_capital_/status/2089754057162588430",
+  "canonical_url": "https://x.com/crux_capital_/status/2089754057162588430",
+  "title": "$FN earnings TLDR: > Revenue $1.316B, +45% YoY, above guide > Adj EPS $4.10 > Q1 guide $1.375B-$1.425B, ~43% YoY at midpoint > Data Center $669M, +68% YoY, now 51% of revenue > ...",
+  "source_domain": "x.com",
+  "author": "crux_capital_",
+  "published_at": "Tue Aug 18 16:39:27 +0000 2026",
+  "captured_at": "2026-08-18T17:00:01.223485+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "814b4a6f0dc3a71baa47bb98108177cdbe71d86faecd05f33b241802ec758299",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089754057162588430.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089754057162588430.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089754057162588430.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

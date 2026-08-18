@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089656459751506270",
+  "capture_type": "post",
+  "url": "https://x.com/PepInvestStocks/status/2089656459751506270",
+  "canonical_url": "https://x.com/PepInvestStocks/status/2089656459751506270",
+  "title": "$AAOI designs and manufactures the lasers, optical components and high-speed transceivers that move data through hyperscale data centers. Its current growth cycle is being drive...",
+  "source_domain": "x.com",
+  "author": "PepInvestStocks",
+  "published_at": "Tue Aug 18 10:11:38 +0000 2026",
+  "captured_at": "2026-08-18T11:00:01.635310+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "acbab852a92aee18e187bd5f050e59dd7c9d26abc17d6cacfc03ad12063a8a86",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089656459751506270.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089656459751506270.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089656459751506270.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

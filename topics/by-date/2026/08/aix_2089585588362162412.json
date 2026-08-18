@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089585588362162412",
+  "capture_type": "post",
+  "url": "https://x.com/antfeedapp/status/2089585588362162412",
+  "canonical_url": "https://x.com/antfeedapp/status/2089585588362162412",
+  "title": "Follow the AI Money Across Korea’s Supply Chain: HANMI SEMICONDUCTOR IS BUILDING ITS BIGGEST FACTORY EVER — HBM BONDER CAPACITY IS EXPANDING AGAIN TIL: Hanmi Semiconductor is in...",
+  "source_domain": "x.com",
+  "author": "antfeedapp",
+  "published_at": "Tue Aug 18 05:30:01 +0000 2026",
+  "captured_at": "2026-08-18T06:00:01.313744+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "0ea6dad589afb6b79f347f1009dbdd023fa073447c88c64224b4cbeb09cd34f4",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089585588362162412.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089585588362162412.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089585588362162412.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

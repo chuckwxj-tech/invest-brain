@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089548944187834756",
+  "capture_type": "post",
+  "url": "https://x.com/abraaoreef/status/2089548944187834756",
+  "canonical_url": "https://x.com/abraaoreef/status/2089548944187834756",
+  "title": "先进封装，五大技术路线及国内5家核心公司（重点看！） 先进封装已从\"后端工序\" 升级为决定AI算力供给的核心瓶颈。到2031年，先进封装将占整个半导体封装营收的多数席位，封测环节的战略价值正在系统性重估。多家机构最新测算：2025年全球先进封装市场550亿美元,2031年全球市场预期超1200亿美元,2025-2031年CAGR~12.4%,2026年...",
+  "source_domain": "x.com",
+  "author": "abraaoreef",
+  "published_at": "Tue Aug 18 03:04:24 +0000 2026",
+  "captured_at": "2026-08-18T04:00:01.134985+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "b2eebdfc10db283336a6fcb48e12e3da772b09ac538618aee5edf3e988b5f166",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089548944187834756.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089548944187834756.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089548944187834756.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

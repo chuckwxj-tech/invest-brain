@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089669107654295761",
+  "capture_type": "post",
+  "url": "https://x.com/Just_Hodl_store/status/2089669107654295761",
+  "canonical_url": "https://x.com/Just_Hodl_store/status/2089669107654295761",
+  "title": "🚨 Whoever wins the AI chip war, this one gets paid anyway.🚨 @ALABS Astera Labs doesn't make AI chips. It makes the connectivity = the retimers, fabric switches, memory controlle...",
+  "source_domain": "x.com",
+  "author": "Just_Hodl_store",
+  "published_at": "Tue Aug 18 11:01:54 +0000 2026",
+  "captured_at": "2026-08-18T12:00:01.237143+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "d1b6b84edd6437aebbf78c1589741027734a8805c3068e07a77d006f3bb8a55f",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089669107654295761.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089669107654295761.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089669107654295761.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

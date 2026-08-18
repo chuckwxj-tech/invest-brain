@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089731942782583065",
+  "capture_type": "post",
+  "url": "https://x.com/Afigy1/status/2089731942782583065",
+  "canonical_url": "https://x.com/Afigy1/status/2089731942782583065",
+  "title": "Yesterday, NVIDIA invested $1.5 billion in SB Energy, and a lot of people asked me what I think about it. So here’s how I’m looking at it. From my perspective, the most importan...",
+  "source_domain": "x.com",
+  "author": "Afigy1",
+  "published_at": "Tue Aug 18 15:11:35 +0000 2026",
+  "captured_at": "2026-08-18T16:00:01.412292+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "a6e2500e48ab5253d7b99118f51090c6ab32b4cfe6dfd03658100b38ec1ebcb6",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089731942782583065.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089731942782583065.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089731942782583065.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

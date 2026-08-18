@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089496927633015206",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2089496927633015206",
+  "canonical_url": "https://x.com/TheValueist/status/2089496927633015206",
+  "title": "INVENTORY BUILDING SUPPORTS NEAR-TERM COMPONENT DEMAND BUT CREATES A FUTURE DESTOCKING TAIL RISK (READ-THROUGH 13) Affected companies: Fabrinet (FN: US), Coherent Corp. (COHR: U...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Mon Aug 17 23:37:43 +0000 2026",
+  "captured_at": "2026-08-18T00:00:01.575139+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "aaffc82e9ca90bd3d027ba3b443cbf246f36a05948fd18226ddf68b09036791d",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089496927633015206.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089496927633015206.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089496927633015206.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

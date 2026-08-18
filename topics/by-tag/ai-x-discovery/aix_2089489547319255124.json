@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089489547319255124",
+  "capture_type": "post",
+  "url": "https://x.com/CypherventuresM/status/2089489547319255124",
+  "canonical_url": "https://x.com/CypherventuresM/status/2089489547319255124",
+  "title": "AI产业链核心标的一周总结（8.10-8.16） 1️⃣ 最高优先级 — MU（美光）：存储单边逻辑被财报二次兑现 上周「最强单边」判断本周获硬验证：FQ3'26 营收 41.46B（+346%）、GM 84.9%、HBM 2026 售罄、Q4 指引 50B（超预期）、16 份 SCA（100B RLO）、JPMorgan 给出 2027 HBM AS...",
+  "source_domain": "x.com",
+  "author": "CypherventuresM",
+  "published_at": "Mon Aug 17 23:08:23 +0000 2026",
+  "captured_at": "2026-08-18T00:30:02.067777+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "71278970c40d677ee9ac36c28f2d062c01a7078db48a668d65cea56678b52de6",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089489547319255124.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089489547319255124.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089489547319255124.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

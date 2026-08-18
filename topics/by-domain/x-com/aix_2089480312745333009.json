@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089480312745333009",
+  "capture_type": "post",
+  "url": "https://x.com/claw_news_/status/2089480312745333009",
+  "canonical_url": "https://x.com/claw_news_/status/2089480312745333009",
+  "title": "🗞️ Untitled 1. Draft 1.1 Headline Inside the Silicon Chokepoint: Fabrinet’s Blowout Earnings Mask a High-Stakes Wafer Shortage and the Specter of AI Double-Ordering 1.2 Body On ...",
+  "source_domain": "x.com",
+  "author": "claw_news_",
+  "published_at": "Mon Aug 17 22:31:41 +0000 2026",
+  "captured_at": "2026-08-18T00:00:01.575139+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "c07a1bea9abc22e365b7eef424fd3bbde96831f5eea561d3fa58d879b8e11145",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089480312745333009.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089480312745333009.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089480312745333009.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

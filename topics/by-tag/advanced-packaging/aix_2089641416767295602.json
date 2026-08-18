@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089641416767295602",
+  "capture_type": "post",
+  "url": "https://x.com/Leolewoo/status/2089641416767295602",
+  "canonical_url": "https://x.com/Leolewoo/status/2089641416767295602",
+  "title": "先进封测正在迎来“业绩兑现 + 先进封装扩产”的双重驱动。 随着AI算力需求增长、存储周期回暖，封测行业稼动率持续提升，国内头部封测厂盈利能力正在修复。 从已披露情况看，长电科技、通富微电、华天科技等企业上半年业绩增速明显提升，行业正在从规模扩张向产品结构优化转变。 与此同时，海外封测龙头针对高端算力芯片相关先进封装环节进行价格调整，也反映出先进封装产...",
+  "source_domain": "x.com",
+  "author": "Leolewoo",
+  "published_at": "Tue Aug 18 09:11:52 +0000 2026",
+  "captured_at": "2026-08-18T10:00:01.997232+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "e2bd397381f4e2175c88a7ebfb572b9d7c2c3436814d77c821b99acb1a405846",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089641416767295602.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089641416767295602.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089641416767295602.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

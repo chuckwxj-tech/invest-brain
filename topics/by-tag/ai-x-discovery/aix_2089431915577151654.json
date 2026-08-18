@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089431915577151654",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2089431915577151654",
+  "canonical_url": "https://x.com/TheValueist/status/2089431915577151654",
+  "title": "LAYOUT IMAGE ASSESSMENT The full-layout image shows a square or near-square core boundary with highly uniform occupancy and no visually dominant SRAM blocks, analog macros or la...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Mon Aug 17 19:19:23 +0000 2026",
+  "captured_at": "2026-08-17T20:00:01.634111+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "4a2cbdc6d65bbf1d252d6a6323eb6d4a1da509d93b6f0f34dc43a91a3aa1c736",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089431915577151654.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089431915577151654.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089431915577151654.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

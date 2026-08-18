@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089498330846077022",
+  "capture_type": "post",
+  "url": "https://x.com/abraaoreef/status/2089498330846077022",
+  "canonical_url": "https://x.com/abraaoreef/status/2089498330846077022",
+  "title": "算力硬件上游核心产业链梳理 算力上游分为核心芯片、高速光互联、PCB/载板、高速连接器线缆、存储配套、先进封装、电源、液冷热管理、半导体材料九大板块，是AI服务器整机的前置硬件环节。 一、核心算力芯片（算力心脏，壁垒最高） 包含AI加速芯片、通用CPU、交换芯片、内存接口芯片，决定服务器算力与集群组网能力。 AI加速芯片（GPU/DCU/NPU） 海光...",
+  "source_domain": "x.com",
+  "author": "abraaoreef",
+  "published_at": "Mon Aug 17 23:43:17 +0000 2026",
+  "captured_at": "2026-08-18T00:00:01.575139+00:00",
+  "storage_date": "2026-08-18",
+  "content_hash": "2c1c2ffd0b336bba4b1a76e83e8def5d8eaac416220b0c55bb92bfd16f8e149a",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089498330846077022.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089498330846077022.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-18/aix_2089498330846077022.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
