@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089848901239267708",
+  "capture_type": "post",
+  "url": "https://x.com/got/status/2089848901239267708",
+  "canonical_url": "https://x.com/got/status/2089848901239267708",
+  "title": "TrendForce Newsは、新光電気工業がAI半導体向けに22層のガラスコア・ビルドアップ基板を開発したと報じた。ガラスコアの両面へ銅配線層を11層ずつ積み重ねる構造で、内部クラックや層間剥離を意味する「SeWaRe」問題への対策も施した。AIアクセラレーターではGPUやASIC、複数のHBMを一つの巨大なパッケージへ収めるため、従来の有機基板で...",
+  "source_domain": "x.com",
+  "author": "got",
+  "published_at": "Tue Aug 18 22:56:20 +0000 2026",
+  "captured_at": "2026-08-18T23:00:01.192999+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "c029eba762671252c5163ba39a14ef2a41436586539b6ab1ae45f45efe01f853",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089848901239267708.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089848901239267708.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089848901239267708.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

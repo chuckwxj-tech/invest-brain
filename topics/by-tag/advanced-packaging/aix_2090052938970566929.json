@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090052938970566929",
+  "capture_type": "post",
+  "url": "https://x.com/neil_shah/status/2090052938970566929",
+  "canonical_url": "https://x.com/neil_shah/status/2090052938970566929",
+  "title": "LG Display (@lgdisplayoled ) just unveiled FLiPP (FMM-Less innovative Pixel Patterning), a breakthrough that could solve OLED’s biggest manufacturing bottleneck. For over a deca...",
+  "source_domain": "x.com",
+  "author": "neil_shah",
+  "published_at": "Wed Aug 19 12:27:06 +0000 2026",
+  "captured_at": "2026-08-19T13:00:01.823037+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "8f152df9bd2126f3cb9d1fe5c95bab16724a78b5d5a63e96d1f40a2d35dc8144",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "risk_warning",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2090052938970566929.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2090052938970566929.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2090052938970566929.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089887058999566528",
+  "capture_type": "post",
+  "url": "https://x.com/ianai_lab/status/2089887058999566528",
+  "canonical_url": "https://x.com/ianai_lab/status/2089887058999566528",
+  "title": "Memory Update｜产业向上，价格向下？ 继续更新 Memory。 2028 HBM 需求预测里，Broadcom 35–40bn Gb、NVIDIA 30bn Gb、Google 20bn Gb、AMD 10bn Gb。真正重要的不是谁超过谁，而是 HBM 正从 GPU 单引擎 → GPU + Custom ASIC 多引擎。 但价格周期正在...",
+  "source_domain": "x.com",
+  "author": "ianai_lab",
+  "published_at": "Wed Aug 19 01:27:57 +0000 2026",
+  "captured_at": "2026-08-19T01:30:01.760030+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "45528b8e7f77aa24d875c863463ee750c00dd1bd80614f31db472dc4ccca1ef3",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089887058999566528.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089887058999566528.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089887058999566528.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

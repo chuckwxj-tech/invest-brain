@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089911214713475522",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2089911214713475522",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2089911214713475522",
+  "title": "Taiwan’s IC design houses are now treating R&D compute as a strategic asset. MediaTek, Global Unichip and Novatek are all building or expanding private data centers to handle th...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Wed Aug 19 03:03:56 +0000 2026",
+  "captured_at": "2026-08-19T04:00:01.623098+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "b57c222bc401c93116d6695a4ddab4411b74a7e9ef1f755afbaaad3c896fccde",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089911214713475522.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089911214713475522.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089911214713475522.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

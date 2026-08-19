@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2089801627125362800",
+  "capture_type": "post",
+  "url": "https://x.com/p0lybender/status/2089801627125362800",
+  "canonical_url": "https://x.com/p0lybender/status/2089801627125362800",
+  "title": "THE CHEAPEST WAY TO ADD A SCREEN TO ANY ELECTRONICS PROJECT COSTS $5. HERE'S EVERYTHING NOBODY TELLS YOU BEFORE YOU BUY ONE $5 that's the price of the most satisfying upgrade yo...",
+  "source_domain": "x.com",
+  "author": "p0lybender",
+  "published_at": "Tue Aug 18 19:48:29 +0000 2026",
+  "captured_at": "2026-08-18T20:00:01.713379+00:00",
+  "storage_date": "2026-08-19",
+  "content_hash": "ecb24289609541f9ab9808640268c6268d05d7a82a6d23303e94bb0a9fe7cf1e",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089801627125362800.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089801627125362800.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-19/aix_2089801627125362800.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
