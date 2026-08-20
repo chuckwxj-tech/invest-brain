@@ -1,0 +1,46 @@
+{
+  "id": "ai-x:2090335870687883396",
+  "capture_type": "post",
+  "url": "https://x.com/Dajuchengzhu/status/2090335870687883396",
+  "canonical_url": "https://x.com/Dajuchengzhu/status/2090335870687883396",
+  "title": "🔥# 海力士NatureElectronics首发CPO终极蓝图：光从机架打到内存接口&算力池与内存池彻底解耦 SK海力士联合弗吉尼亚大学等机构在《Nature Electronics》首发CPO路线图：HBM解决内存储墙，但千卡级AI集群的机架间传输撞上“带宽墙”，CPO把光收发器与处理器共封装，短电长光，目标>100Tb/s、<1pJ/bit、<1...",
+  "source_domain": "x.com",
+  "author": "Dajuchengzhu",
+  "published_at": "Thu Aug 20 07:11:22 +0000 2026",
+  "captured_at": "2026-08-20T07:30:01.834478+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "1761adbb59725a95e62bd2451618e8262e59a62cfdf4a6d053c955edb8a03b95",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090335870687883396.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090335870687883396.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090335870687883396.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging",
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090190485243773336",
+  "capture_type": "post",
+  "url": "https://x.com/paurooteri/status/2090190485243773336",
+  "canonical_url": "https://x.com/paurooteri/status/2090190485243773336",
+  "title": "台湾ではテスト装置周りで高利益率企業が発生していますね NVIDIAとTSMCが巨額の利益を上げる先頭に立ち、機器業界では「高利益率クラブ」が徐々に形成されつつある。 AI需要の継続的な高まりに牽引され、半導体サプライチェーンは同時に高い収益性を享受している。2027会計年度第1四半期（2026年4月期）の粗利益率はNVIDIAの75%に次ぐTSMCで...",
+  "source_domain": "x.com",
+  "author": "paurooteri",
+  "published_at": "Wed Aug 19 21:33:40 +0000 2026",
+  "captured_at": "2026-08-19T22:00:01.847714+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "1506bf36f72cc5b8911eb027322ad94d8cc878cac3123ab0d5fb32eb1c252551",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090190485243773336.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090190485243773336.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090190485243773336.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

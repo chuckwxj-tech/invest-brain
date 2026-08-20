@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090346013815099552",
+  "capture_type": "post",
+  "url": "https://x.com/DrNHJ/status/2090346013815099552",
+  "canonical_url": "https://x.com/DrNHJ/status/2090346013815099552",
+  "title": "JP모건, 마벨 테크놀로지(Marvell, $MRVL) 구글과의 커스텀 실리콘 장기 파트너십 확대 발표는 핵심 TPU 수주가 아닌 'TPU 주변 어태치(Attach) 칩' 공급 계약이나, 워런트 구조상 FY33까지 최대 1,200억 달러 규모의 잠재 매출을 시사하여 강력한 실적 상향 모멘텀을 제공 1. 파트너십의 본...",
+  "source_domain": "x.com",
+  "author": "DrNHJ",
+  "published_at": "Thu Aug 20 07:51:41 +0000 2026",
+  "captured_at": "2026-08-20T09:00:01.689037+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "10d36f859a2973103b78fc360580bb358630897fffc51c19c811a074f459091c",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090346013815099552.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090346013815099552.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090346013815099552.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

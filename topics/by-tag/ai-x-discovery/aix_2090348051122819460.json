@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090348051122819460",
+  "capture_type": "post",
+  "url": "https://x.com/Teo_Sinamin/status/2090348051122819460",
+  "canonical_url": "https://x.com/Teo_Sinamin/status/2090348051122819460",
+  "title": "China is displacing Japan in the WF6 supply chain for semiconductor. Japan WF6's production has been hit with China's Tungsten export control. July's WF6 export continues to gro...",
+  "source_domain": "x.com",
+  "author": "Teo_Sinamin",
+  "published_at": "Thu Aug 20 07:59:46 +0000 2026",
+  "captured_at": "2026-08-20T08:30:01.755298+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "23c58f253d6693a7ae8796bb0c5e6b9086b6cf4ba5f65b4ab1f7ea5d0a5a8366",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090348051122819460.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090348051122819460.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090348051122819460.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090139047914348817",
+  "capture_type": "post",
+  "url": "https://x.com/PhotonCap/status/2090139047914348817",
+  "canonical_url": "https://x.com/PhotonCap/status/2090139047914348817",
+  "title": "Back in July, I argued that the memory wall was forcing the industry down three architectural paths: Distance → $QCOM HBC Compression → $NVDA Rubin 3.125-bit LUT Pooling → CXL /...",
+  "source_domain": "x.com",
+  "author": "PhotonCap",
+  "published_at": "Wed Aug 19 18:09:16 +0000 2026",
+  "captured_at": "2026-08-19T18:30:02.107372+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "7e2852b41c488a0606e6008df516871586cdc780aa55c09d6c2ab8be1585ad73",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090139047914348817.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090139047914348817.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090139047914348817.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

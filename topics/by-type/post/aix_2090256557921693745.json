@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090256557921693745",
+  "capture_type": "post",
+  "url": "https://x.com/LEAPSTrading/status/2090256557921693745",
+  "canonical_url": "https://x.com/LEAPSTrading/status/2090256557921693745",
+  "title": "@jukan05 $MRVL sells custom silicon in exchange for…giving away its stock! Not really… It’s like a credit card rewards bonus: get this new card and spend $3000 in 3 months and y...",
+  "source_domain": "x.com",
+  "author": "LEAPSTrading",
+  "published_at": "Thu Aug 20 01:56:13 +0000 2026",
+  "captured_at": "2026-08-20T02:00:01.397908+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "e327cb4a54483ee4291502e522e9b06d0ff2781bc597183c2b9e7ea5009e8369",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090256557921693745.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090256557921693745.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090256557921693745.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

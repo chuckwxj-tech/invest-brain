@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090312211403247958",
+  "capture_type": "post",
+  "url": "https://x.com/datastaion/status/2090312211403247958",
+  "canonical_url": "https://x.com/datastaion/status/2090312211403247958",
+  "title": "반도체 수요는 다양화 맞춤형으로 확장 과거 재고 사이클이 아니다 브로드컴 VS 마벨경쟁도 좋음 ---------------- 에테르팀 JP모건) 마벨(MRVL); 구글 파트너십, FY33까지 1,200억 달러 규모의 TPU 어태치(attach) 기회를 시사; ASIC TAM 논지를 입증하고 시장 컨센서스 추정치 대비...",
+  "source_domain": "x.com",
+  "author": "datastaion",
+  "published_at": "Thu Aug 20 05:37:21 +0000 2026",
+  "captured_at": "2026-08-20T06:00:01.150256+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "5c4898fab2640ed4d41c9b56d6c21f193302d489bcea83ef866dd0ed4185b1d3",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090312211403247958.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090312211403247958.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090312211403247958.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

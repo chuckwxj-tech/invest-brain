@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090254558912192769",
+  "capture_type": "post",
+  "url": "https://x.com/WorldTechRsrch/status/2090254558912192769",
+  "canonical_url": "https://x.com/WorldTechRsrch/status/2090254558912192769",
+  "title": "The next bottleneck in AI infrastructure is not compute chips but the lines connecting them. GPU count stays at 72, but networking cost per rack jumps from $315,000 to $1,169,00...",
+  "source_domain": "x.com",
+  "author": "WorldTechRsrch",
+  "published_at": "Thu Aug 20 01:48:16 +0000 2026",
+  "captured_at": "2026-08-20T02:30:01.211464+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "bbf24855c50e42e1753e368c4a5b4b5c1febb6d7afb14a2acc2492a02d3e0e2d",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090254558912192769.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090254558912192769.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090254558912192769.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "optical_switching",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

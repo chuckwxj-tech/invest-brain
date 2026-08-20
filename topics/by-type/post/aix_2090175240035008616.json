@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090175240035008616",
+  "capture_type": "post",
+  "url": "https://x.com/semioticghostt/status/2090175240035008616",
+  "canonical_url": "https://x.com/semioticghostt/status/2090175240035008616",
+  "title": "Let's unpack the elephant in the room. MRVL is NOT competing for the logic processor, aka ASIC, in TPU. Also, NOT working on A TPU. MRVL, with this deal, will supply their speci...",
+  "source_domain": "x.com",
+  "author": "semioticghostt",
+  "published_at": "Wed Aug 19 20:33:05 +0000 2026",
+  "captured_at": "2026-08-19T21:00:01.603696+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "2422e3ec37b7be10263c921c07438c97a118592d50264fab41fb221ff04e824e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090175240035008616.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090175240035008616.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090175240035008616.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

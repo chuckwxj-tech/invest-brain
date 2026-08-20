@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090455333139550393",
+  "capture_type": "post",
+  "url": "https://x.com/maryjokringas/status/2090455333139550393",
+  "canonical_url": "https://x.com/maryjokringas/status/2090455333139550393",
+  "title": "@Teo_Sinamin Fascinating because I also read that the shortage of tungsten has stopped Japanese production of WF6 specialty gas, which is used to make semiconductors.",
+  "source_domain": "x.com",
+  "author": "maryjokringas",
+  "published_at": "Thu Aug 20 15:06:04 +0000 2026",
+  "captured_at": "2026-08-20T16:30:01.381235+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "b96623e9e99dec4fd9b6e2a8fc587a78fc25b824dc5c725ba930dd4f9c61a0b4",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090455333139550393.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090455333139550393.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090455333139550393.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

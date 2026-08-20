@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090496770405220701",
+  "capture_type": "post",
+  "url": "https://x.com/debugliesnews/status/2090496770405220701",
+  "canonical_url": "https://x.com/debugliesnews/status/2090496770405220701",
+  "title": "6G: When Networks Begin to See - BLUF: 6G is evolving from a communications network into a distributed communications–sensing–computing–AI infrastructure capable of observing an...",
+  "source_domain": "x.com",
+  "author": "debugliesnews",
+  "published_at": "Thu Aug 20 17:50:44 +0000 2026",
+  "captured_at": "2026-08-20T18:00:01.780145+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "3061c45b7c6a459112cd596e86a4f15f323d805ec01048804a5735c68fd16ebc",
+  "tags": [
+    "ai-x-discovery",
+    "ai_supply_chain",
+    "risk_warning",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090496770405220701.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090496770405220701.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090496770405220701.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "ai_supply_chain",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

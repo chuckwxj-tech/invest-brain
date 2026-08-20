@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090354158306222263",
+  "capture_type": "post",
+  "url": "https://x.com/GyujinAAIG/status/2090354158306222263",
+  "canonical_url": "https://x.com/GyujinAAIG/status/2090354158306222263",
+  "title": "@NathanOu6 대형 회사들의 유리기판 ramp up production 일정이 늦어질수록 경쟁사가 기술 보완해서 치고들어올 가능성은 있습니다 하지만, 지금 유리기판은 수율이 문제입니다 도금이 수율의 핵심 방해물로 알려져있고 TGV 레이저 방식과 도금은 뗄레야 뗄 수가 없는 관계입니다. LPKF가 수년간 개발/q...",
+  "source_domain": "x.com",
+  "author": "GyujinAAIG",
+  "published_at": "Thu Aug 20 08:24:02 +0000 2026",
+  "captured_at": "2026-08-20T08:30:01.755298+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "2de7c0a8e99f0a8099760476a319950fa06fdd967d755a5601cba09125d454e2",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090354158306222263.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090354158306222263.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090354158306222263.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

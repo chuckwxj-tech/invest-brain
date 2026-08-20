@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090301455899201910",
+  "capture_type": "post",
+  "url": "https://x.com/dubidubabap/status/2090301455899201910",
+  "canonical_url": "https://x.com/dubidubabap/status/2090301455899201910",
+  "title": "구글이 AI 반도체 공급망을 크게 재편하기 시작했다. Google은 Marvell과 커스텀 AI 반도체 협력을 확대하면서 Marvell 주식 최대 5,897만 주를 주당 206.58달러에 매수할 수 있는 워런트를 확보했다. 전량 행사 기준 약 122억 달러 규모다. 계약 조건이 충족되면 Marvell은 FY2033까...",
+  "source_domain": "x.com",
+  "author": "dubidubabap",
+  "published_at": "Thu Aug 20 04:54:37 +0000 2026",
+  "captured_at": "2026-08-20T05:30:01.571249+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "cf73b2048ac78c37f4e8d9636a54cafec314d539042260e3fa45203f5deb8bc2",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090301455899201910.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090301455899201910.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090301455899201910.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "optical_switching",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

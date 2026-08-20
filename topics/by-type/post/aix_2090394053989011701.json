@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090394053989011701",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2090394053989011701",
+  "canonical_url": "https://x.com/high_tech_stock/status/2090394053989011701",
+  "title": "AIインフラの次のボトルネック。 「推論で扱うデータを、どこに置くんだ？」 この特集、最初から数銘柄に絞るのはやめます。 まずは「推論データの置き場所」に関わる米国株の調査母集団を、広めに整理してみる。 【Memory】 HBM / DRAM → $MU CXL Memory / KV Cache System → $MU $PENG CXL Cont...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Thu Aug 20 11:02:34 +0000 2026",
+  "captured_at": "2026-08-20T11:30:02.019375+00:00",
+  "storage_date": "2026-08-20",
+  "content_hash": "570f4a441135ec661ee6a94097c396fc758c90439a79b12ee6164e9dff711943",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090394053989011701.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090394053989011701.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-20/aix_2090394053989011701.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
