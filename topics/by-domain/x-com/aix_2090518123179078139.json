@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090518123179078139",
+  "capture_type": "post",
+  "url": "https://x.com/4568jtmd/status/2090518123179078139",
+  "canonical_url": "https://x.com/4568jtmd/status/2090518123179078139",
+  "title": "🔲技術的結節点にいる企業①💥 私がいま最も注目している1社が、 Astera Labs $ALAB です。 この会社を単なる 「AI半導体銘柄」 だと思っているなら、少しもったいない。 私はむしろ、 「GPU時代の交通整理をする会社」 だと考えています。 なぜか。 AIデータセンターの競争は、 すでにGPU単体の性能競争から変わり始めています。 NVI...",
+  "source_domain": "x.com",
+  "author": "4568jtmd",
+  "published_at": "Thu Aug 20 19:15:35 +0000 2026",
+  "captured_at": "2026-08-20T20:00:02.071620+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "20fc25db0bd77b6d88a1bba0a01fead05329356ce4c8d5986824e7ea2adec04d",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090518123179078139.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090518123179078139.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090518123179078139.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

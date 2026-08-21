@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090574267536883789",
+  "capture_type": "post",
+  "url": "https://x.com/crux_capital_/status/2090574267536883789",
+  "canonical_url": "https://x.com/crux_capital_/status/2090574267536883789",
+  "title": "$MRVL was left for dead last year The last few months of 2025 it really didn't participate in the optical run up. Now it has become one of the more interesting setups over the n...",
+  "source_domain": "x.com",
+  "author": "crux_capital_",
+  "published_at": "Thu Aug 20 22:58:41 +0000 2026",
+  "captured_at": "2026-08-20T23:30:01.909620+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "503fc4a9952bd15b4793523fb7c100f15b50fe8e1251766d346509111db334e6",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090574267536883789.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090574267536883789.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090574267536883789.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090621535879098566",
+  "capture_type": "post",
+  "url": "https://x.com/LachHughesCFA/status/2090621535879098566",
+  "canonical_url": "https://x.com/LachHughesCFA/status/2090621535879098566",
+  "title": "@LunarThinkTrade @jukan05 You’ve made the case that CPO + HBF + CXL pooling could push SK hynix from commodity memory toward custom memory systems. What do you think is the actu...",
+  "source_domain": "x.com",
+  "author": "LachHughesCFA",
+  "published_at": "Fri Aug 21 02:06:30 +0000 2026",
+  "captured_at": "2026-08-21T03:00:02.089070+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "5344b668c93373783a2943099a95b31f29167b7f9e6809a9ff86e7bd38152886",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090621535879098566.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090621535879098566.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090621535879098566.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

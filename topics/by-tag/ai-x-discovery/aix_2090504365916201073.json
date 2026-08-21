@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090504365916201073",
+  "capture_type": "post",
+  "url": "https://x.com/HideAIInvestor/status/2090504365916201073",
+  "canonical_url": "https://x.com/HideAIInvestor/status/2090504365916201073",
+  "title": "競合も強力。 AVGO → Switch/XPU/SerDes/Opticsを一体提供 MRVL → Optical DSP/CPO/Custom XPUで強い ALAB → PCIe/CXL/Scale-UpからCRDO領域へ拡大 CRDOが勝つには、AECの高シェアを守るだけでは不十分。 今後見るべきKPIは、 ① Optical売上 >$600M...",
+  "source_domain": "x.com",
+  "author": "HideAIInvestor",
+  "published_at": "Thu Aug 20 18:20:55 +0000 2026",
+  "captured_at": "2026-08-20T18:30:01.939385+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "4c75dd39726173a0b50e16070abafab69fef7eb607edd05d263b5277fdcce200",
+  "tags": [
+    "ai-x-discovery",
+    "optical_switching",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090504365916201073.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090504365916201073.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090504365916201073.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "optical_switching",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

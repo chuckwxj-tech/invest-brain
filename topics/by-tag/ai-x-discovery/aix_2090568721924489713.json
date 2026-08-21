@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090568721924489713",
+  "capture_type": "post",
+  "url": "https://x.com/mzYFdGI4OdOEeD2/status/2090568721924489713",
+  "canonical_url": "https://x.com/mzYFdGI4OdOEeD2/status/2090568721924489713",
+  "title": "＜私の質問＞ これは、GPUの中のHMBを減らしても、推論にもっとHBMが必要なら、外付けで光接続したＨＢＭを増設すればよいということでしょうか。 ＜GROKの回答＞ はい、その理解で概ね正しいです。 当該投稿（および引用されているDamnang氏の記事）が指摘しているのは、まさに「ローカルHBM密度の追求がピークを迎え、価値が「接続性（data mo...",
+  "source_domain": "x.com",
+  "author": "mzYFdGI4OdOEeD2",
+  "published_at": "Thu Aug 20 22:36:38 +0000 2026",
+  "captured_at": "2026-08-20T23:30:01.909620+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "54e2efd5889f0c8fc4b58bc9547ebea9d52a19e8eae6e6a334976ac9f80b8b1f",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090568721924489713.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090568721924489713.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090568721924489713.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

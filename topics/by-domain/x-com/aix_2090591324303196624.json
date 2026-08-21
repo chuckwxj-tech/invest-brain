@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090591324303196624",
+  "capture_type": "post",
+  "url": "https://x.com/sssjeffpu/status/2090591324303196624",
+  "canonical_url": "https://x.com/sssjeffpu/status/2090591324303196624",
+  "title": "Abstracts of $MRVL: AI Outlook (Google, AWS) & Preview 📈Rating & Target: Maintained Buy rating with a $290 price target based on 20x FY29E EPS of $14.50. * Strong positioning in...",
+  "source_domain": "x.com",
+  "author": "sssjeffpu",
+  "published_at": "Fri Aug 21 00:06:27 +0000 2026",
+  "captured_at": "2026-08-21T01:00:01.189034+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "db5a860f80d547490d41193ab5d44660c5d3a1a449613458743bd28e812d39d4",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090591324303196624.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090591324303196624.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090591324303196624.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

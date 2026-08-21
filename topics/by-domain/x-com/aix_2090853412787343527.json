@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090853412787343527",
+  "capture_type": "post",
+  "url": "https://x.com/MLB_Connection/status/2090853412787343527",
+  "canonical_url": "https://x.com/MLB_Connection/status/2090853412787343527",
+  "title": "タイトル TSMC 2nm GAA 商用フルマスク量産テープアウト（Tape-out）完遂、64ノード分散 CXL クラスタ統合 PoC 実証（電力 $-43.8\\%$、線形スケーリング効率 $96.4\\%$）、および IEEE JSSC / JACM 共同特集号「最終採録（Acceptance）」確定 サブタイトル マスクデータ生成（MDP）0 エラ...",
+  "source_domain": "x.com",
+  "author": "MLB_Connection",
+  "published_at": "Fri Aug 21 17:27:54 +0000 2026",
+  "captured_at": "2026-08-21T18:00:01.257602+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "600c19d4205e6e6a301e3823a45179ffa453f9e20c3e9e13a684bd22871f1ec3",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090853412787343527.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090853412787343527.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090853412787343527.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

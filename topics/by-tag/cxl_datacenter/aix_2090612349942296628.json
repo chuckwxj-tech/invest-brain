@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090612349942296628",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2090612349942296628",
+  "canonical_url": "https://x.com/high_tech_stock/status/2090612349942296628",
+  "title": "AI推論で見るべきMemoryは1種類じゃない。 HBM → 最速 DRAM → Server内 CXL → 容量拡張/Pooling Shared Memory → 複数Computeで活用 Optical → Rackを越えて延長 つまり勝負は 「どのMemoryが勝つか」より「どう階層化するか」。 MRVLとALABを追う理由がここでつながります。 👇",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Fri Aug 21 01:30:00 +0000 2026",
+  "captured_at": "2026-08-21T02:00:02.010377+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "02ea4ca48a95ef4e7bc9f836dfc7914d687255f8ff72839177cebc61a9a1bc53",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090612349942296628.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090612349942296628.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090612349942296628.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

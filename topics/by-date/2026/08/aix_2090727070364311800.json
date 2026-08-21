@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090727070364311800",
+  "capture_type": "post",
+  "url": "https://x.com/mindmoon_108/status/2090727070364311800",
+  "canonical_url": "https://x.com/mindmoon_108/status/2090727070364311800",
+  "title": "@David_ 단기적으로 보면 HBM 수요가 줄어들 수도 있겠지만 길게보면 하이닉스가 단순히 메모리만 파는 회사가 아니라 CXL, custom solution,CPO까지 설계 단계부터 깊숙히 관여하는 full stack ai memory creator 회사로 변하고 있다 생각합니다.",
+  "source_domain": "x.com",
+  "author": "mindmoon_108",
+  "published_at": "Fri Aug 21 09:05:52 +0000 2026",
+  "captured_at": "2026-08-21T09:30:01.587288+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "46e0676b704c9f8edd228d00423f7a4dcea1e4f584b05c96f26fd4564c1ab8e3",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090727070364311800.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090727070364311800.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090727070364311800.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

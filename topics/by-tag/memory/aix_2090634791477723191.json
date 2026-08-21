@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090634791477723191",
+  "capture_type": "post",
+  "url": "https://x.com/Crisallingogogo/status/2090634791477723191",
+  "canonical_url": "https://x.com/Crisallingogogo/status/2090634791477723191",
+  "title": "This paper connects two technology roadmaps. The first is memory disaggregation: Local Memory → CXL Expansion → CXL Pooling → Memory becomes a pooled resource The question it tr...",
+  "source_domain": "x.com",
+  "author": "Crisallingogogo",
+  "published_at": "Fri Aug 21 02:59:11 +0000 2026",
+  "captured_at": "2026-08-21T04:00:01.625917+00:00",
+  "storage_date": "2026-08-21",
+  "content_hash": "4f90c42e2a5c4debccd20674a301ae818aefd480258edd51ba991e77b81f17ab",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090634791477723191.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090634791477723191.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-21/aix_2090634791477723191.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
