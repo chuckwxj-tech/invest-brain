@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090864113920467093",
+  "capture_type": "post",
+  "url": "https://x.com/Invest2Growcom/status/2090864113920467093",
+  "canonical_url": "https://x.com/Invest2Growcom/status/2090864113920467093",
+  "title": "$MRVL (Marvell Technology) is down around 4.96% today to ~$238.47 — giving back a portion of Tuesday's +13.19% Google warrant surge — as the entire high-valuation semiconductor ...",
+  "source_domain": "x.com",
+  "author": "Invest2Growcom",
+  "published_at": "Fri Aug 21 18:10:25 +0000 2026",
+  "captured_at": "2026-08-21T19:00:02.085894+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "1cf56f074e36c0d0b424cc1e8c69646b541a99c62a4edf2b35e726a87f40b684",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090864113920467093.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090864113920467093.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090864113920467093.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

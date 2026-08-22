@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091079957959332266",
+  "capture_type": "post",
+  "url": "https://x.com/SVTrivo/status/2091079957959332266",
+  "canonical_url": "https://x.com/SVTrivo/status/2091079957959332266",
+  "title": "6-tech as the most noteworthy for the next 10 years KAIST Professor Kim Jung-ho on the TTimes listed these six technologies as the most noteworthy for the next 10 years. I liste...",
+  "source_domain": "x.com",
+  "author": "SVTrivo",
+  "published_at": "Sat Aug 22 08:28:07 +0000 2026",
+  "captured_at": "2026-08-22T09:00:01.925672+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "e94158d0d0e5806182cab90bf5382860cdb22e6c33a8c50548a47828e4344777",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091079957959332266.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091079957959332266.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091079957959332266.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

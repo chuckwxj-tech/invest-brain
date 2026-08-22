@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091142592738333128",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2091142592738333128",
+  "canonical_url": "https://x.com/high_tech_stock/status/2091142592738333128",
+  "title": "「推論データの置き場所」特集⑥ CXL最大のライバルは、SOCAMMなのか？ 結論から言うと、 SOCAMMはCXLの完全な代替ではない。 ただし、 CXL Memoryが必要になるタイミングを遅らせる、強力な競合 にはなり得ると思う。 SOCAMMは、低消費電力なLPDDRをサーバー向けの着脱可能なメモリモジュールにしたもの。 NVIDIA Vera...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Sat Aug 22 12:37:00 +0000 2026",
+  "captured_at": "2026-08-22T13:00:01.694291+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "118e02b9c3ea51657a4f469051ca5a215ca1dae1e49b3916713e5cdf369128cb",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091142592738333128.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091142592738333128.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091142592738333128.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

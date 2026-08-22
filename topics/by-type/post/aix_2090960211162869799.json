@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090960211162869799",
+  "capture_type": "post",
+  "url": "https://x.com/kirkpaper/status/2090960211162869799",
+  "canonical_url": "https://x.com/kirkpaper/status/2090960211162869799",
+  "title": "📊 全球半导体材料与耗材日报｜2026/08/22 🧭 今日核心结论 Low-DK电子布与铜箔涨价确认，推动CCL厂主动提价，材料景气从“需求周期”全面迈向“价格周期”。 调研显示，随着AI服务器对高速传输及低损耗材料的需求集中释放，上游核心原材料Low-DK/Low-CTE电子布及低粗糙度铜箔出现供需缺口。 电子布厂家率先主动上调价格5%-10%，铜...",
+  "source_domain": "x.com",
+  "author": "kirkpaper",
+  "published_at": "Sat Aug 22 00:32:17 +0000 2026",
+  "captured_at": "2026-08-22T01:00:01.234260+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "8f778c39a9609209f25464d96c1206ff2432379c7ab5d2247ab34b0e320b247f",
+  "tags": [
+    "ai-x-discovery",
+    "cn_hardware_signal",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090960211162869799.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090960211162869799.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090960211162869799.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cn_hardware_signal",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

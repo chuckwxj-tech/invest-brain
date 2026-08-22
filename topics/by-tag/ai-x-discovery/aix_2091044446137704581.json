@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091044446137704581",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2091044446137704581",
+  "canonical_url": "https://x.com/high_tech_stock/status/2091044446137704581",
+  "title": "「推論データの置き場所」特集⑤ CXLは、いつ本格普及するのか？ 現時点の私の仮説は、 2026年：初期導入 2027年：量産採用の選別 2028年以降：Memory Pooling本格化の候補 ただし、2028年に突然すべてがCXLへ切り替わるわけではない。 CXLは、 ① Memory Expansion ② KV Cache Offload ③ ...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Sat Aug 22 06:07:00 +0000 2026",
+  "captured_at": "2026-08-22T07:00:01.237584+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "b5314552064e14a3af2bf764ecbb8550cd711ec4d49b8dc113264e2827acd37b",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091044446137704581.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091044446137704581.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2091044446137704581.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

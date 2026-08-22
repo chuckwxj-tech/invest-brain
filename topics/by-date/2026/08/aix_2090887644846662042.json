@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2090887644846662042",
+  "capture_type": "post",
+  "url": "https://x.com/TomSzczypka/status/2090887644846662042",
+  "canonical_url": "https://x.com/TomSzczypka/status/2090887644846662042",
+  "title": "$MRVL Marvell Technology, the next trillion dollar company Joining the circular money tree bros by handing Google a warrant for 6.7% of the company! And the vesting formula tell...",
+  "source_domain": "x.com",
+  "author": "TomSzczypka",
+  "published_at": "Fri Aug 21 19:43:56 +0000 2026",
+  "captured_at": "2026-08-21T20:00:01.352576+00:00",
+  "storage_date": "2026-08-22",
+  "content_hash": "2257d0821ce2492b84a8e00edafaeb3cd01dc889b5bb4c30ce862cd72613d145",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090887644846662042.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090887644846662042.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-22/aix_2090887644846662042.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
