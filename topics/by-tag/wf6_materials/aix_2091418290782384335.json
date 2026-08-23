@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091418290782384335",
+  "capture_type": "post",
+  "url": "https://x.com/StragglerLiu/status/2091418290782384335",
+  "canonical_url": "https://x.com/StragglerLiu/status/2091418290782384335",
+  "title": "@TheValueist The W→Mo transition in advanced NAND is real, but the investment implication is more nuanced than “more Mo = miners win.” As wordlines shrink, tungsten’s nanoscale ...",
+  "source_domain": "x.com",
+  "author": "StragglerLiu",
+  "published_at": "Sun Aug 23 06:52:31 +0000 2026",
+  "captured_at": "2026-08-23T07:00:01.558156+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "3d3a3a7c67d75c0359b42c0972effa26b61e979e7263ae9951f7f0de4956d9ac",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "emerging_term",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091418290782384335.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091418290782384335.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091418290782384335.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

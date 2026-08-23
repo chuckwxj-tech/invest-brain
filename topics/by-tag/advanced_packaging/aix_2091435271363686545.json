@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091435271363686545",
+  "capture_type": "post",
+  "url": "https://x.com/l_m_s15/status/2091435271363686545",
+  "canonical_url": "https://x.com/l_m_s15/status/2091435271363686545",
+  "title": "𝗦𝗺𝗮𝗹𝗹-𝗖𝗮𝗽 𝗠𝗼𝗺𝗲𝗻𝘁 𝗼𝗳 𝘁𝗵𝗲 𝗪𝗲𝗲𝗸: PLANOPTIK AG Wafers for tomorrow's invisible components This week, PLANOPTIK AG published its 2026 half-year financial report – a micro-cap still u...",
+  "source_domain": "x.com",
+  "author": "l_m_s15",
+  "published_at": "Sun Aug 23 08:00:00 +0000 2026",
+  "captured_at": "2026-08-23T09:00:01.808700+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "e695f77fbc54f99d6336fc62d7e6a15b3b92cdd8d376990581b360c73774172e",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091435271363686545.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091435271363686545.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091435271363686545.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

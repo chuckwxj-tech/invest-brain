@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091314886194176051",
+  "capture_type": "post",
+  "url": "https://x.com/TheValueist/status/2091314886194176051",
+  "canonical_url": "https://x.com/TheValueist/status/2091314886194176051",
+  "title": "I wanted to look into this molybdenum vector, given my view on NAND, and that I have been researching FCX. Additionally, a positive for the debasement trade, gold is a meaningfu...",
+  "source_domain": "x.com",
+  "author": "TheValueist",
+  "published_at": "Sun Aug 23 00:01:38 +0000 2026",
+  "captured_at": "2026-08-23T01:00:01.858579+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "67a4fdcebd1cfd2c9bb3dd9de98ecf0add22326a708339c959102761cbc2572f",
+  "tags": [
+    "ai-x-discovery",
+    "wf6_materials",
+    "risk_warning",
+    "Semiconductor Materials"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091314886194176051.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091314886194176051.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091314886194176051.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "wf6_materials",
+    "chains": [
+      "Semiconductor Materials"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

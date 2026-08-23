@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091479957080039738",
+  "capture_type": "post",
+  "url": "https://x.com/algotradingdesk/status/2091479957080039738",
+  "canonical_url": "https://x.com/algotradingdesk/status/2091479957080039738",
+  "title": "23 Aug 2026 🇺🇸 🚨 Astera Labs — $ALAB The AI infrastructure boom is creating a new bottleneck beyond GPUs: Connectivity. And Astera Labs is building the silicon that helps massiv...",
+  "source_domain": "x.com",
+  "author": "algotradingdesk",
+  "published_at": "Sun Aug 23 10:57:34 +0000 2026",
+  "captured_at": "2026-08-23T11:00:01.996250+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "e1f17aee95e0efcfca10f1304bd32dce953f989be16c3ab4194fab5ba7aa1507",
+  "tags": [
+    "ai-x-discovery",
+    "hbm_supply",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091479957080039738.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091479957080039738.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091479957080039738.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "hbm_supply",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

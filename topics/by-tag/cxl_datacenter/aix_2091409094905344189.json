@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091409094905344189",
+  "capture_type": "post",
+  "url": "https://x.com/WDChokepoint/status/2091409094905344189",
+  "canonical_url": "https://x.com/WDChokepoint/status/2091409094905344189",
+  "title": "@damnang2 Points 3 and 5 are the same point. Samsung does CPO with its own foundry and builds its own CXL controller. Its custom HBM logic die is going in-house at 2nm while SK ...",
+  "source_domain": "x.com",
+  "author": "WDChokepoint",
+  "published_at": "Sun Aug 23 06:15:59 +0000 2026",
+  "captured_at": "2026-08-23T07:00:01.558156+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "c185a5f149c3bb87bd74717229afc6d4e086352b0751396a0073b8b3e54bfaa0",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091409094905344189.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091409094905344189.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091409094905344189.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

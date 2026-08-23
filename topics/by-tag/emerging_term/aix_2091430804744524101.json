@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091430804744524101",
+  "capture_type": "post",
+  "url": "https://x.com/SemiconductorsX/status/2091430804744524101",
+  "canonical_url": "https://x.com/SemiconductorsX/status/2091430804744524101",
+  "title": "Samsung’s memory side just offered some clear signals. zHBM could arrive sooner than many expect. Hybrid bonding is the critical enabler, and the thermal challenges look more ma...",
+  "source_domain": "x.com",
+  "author": "SemiconductorsX",
+  "published_at": "Sun Aug 23 07:42:15 +0000 2026",
+  "captured_at": "2026-08-23T08:00:01.260875+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "30ab8362eba05fc5141034d6c8d9858618f4b46f51d30cbb41a0608e45004f9b",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091430804744524101.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091430804744524101.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091430804744524101.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

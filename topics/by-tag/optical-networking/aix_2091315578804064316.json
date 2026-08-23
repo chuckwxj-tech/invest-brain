@@ -1,0 +1,46 @@
+{
+  "id": "ai-x:2091315578804064316",
+  "capture_type": "post",
+  "url": "https://x.com/high_tech_stock/status/2091315578804064316",
+  "canonical_url": "https://x.com/high_tech_stock/status/2091315578804064316",
+  "title": "【今週のAIインフラ主要ポストまとめ｜8/16〜8/22】 今週の投稿から、後から読み返したいAIインフラ主要ポスト10本をまとめました👀 今週特に見えてきたのは、 ① 推論データの膨張がメモリ・ストレージ階層を再設計 ② 高速化と高密度化が接続・給電・検証需要を拡大 ③ 製品の採用段階と業績レバレッジを分けて評価 今週の主要10本👇 ① CXL × ...",
+  "source_domain": "x.com",
+  "author": "high_tech_stock",
+  "published_at": "Sun Aug 23 00:04:23 +0000 2026",
+  "captured_at": "2026-08-23T01:00:01.858579+00:00",
+  "storage_date": "2026-08-23",
+  "content_hash": "d8b8ab10b7bf034ff8e5ee2dc9edc7a043a79ba3d02cfd541a602b73bdf78d2b",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091315578804064316.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091315578804064316.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-23/aix_2091315578804064316.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory",
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
