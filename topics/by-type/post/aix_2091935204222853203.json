@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091935204222853203",
+  "capture_type": "post",
+  "url": "https://x.com/jwat_5/status/2091935204222853203",
+  "canonical_url": "https://x.com/jwat_5/status/2091935204222853203",
+  "title": "New position in $ALAB after doing a deep dive into connectivity, optics, and photonics the last few weeks. > Valuation is palatable after a 45% pullback > Content per accelerato...",
+  "source_domain": "x.com",
+  "author": "jwat_5",
+  "published_at": "Mon Aug 24 17:06:33 +0000 2026",
+  "captured_at": "2026-08-24T17:30:02.121918+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "91b30e7835db9e2ac1440f26817aa4f852b03df877d16588b7b36fcac9fe74e7",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "new_asset",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091935204222853203.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091935204222853203.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091935204222853203.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "new_asset",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

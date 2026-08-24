@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091713449625636874",
+  "capture_type": "post",
+  "url": "https://x.com/FundaAI/status/2091713449625636874",
+  "canonical_url": "https://x.com/FundaAI/status/2091713449625636874",
+  "title": "Weekly|Enterprise AI Adoption Survey Series Goes Live, 6D Torus Points to 4x Optical Content per TPU, OCP APAC Takeaways, NVDA & CRM The question we get asked more than any othe...",
+  "source_domain": "x.com",
+  "author": "FundaAI",
+  "published_at": "Mon Aug 24 02:25:23 +0000 2026",
+  "captured_at": "2026-08-24T03:00:01.486246+00:00",
+  "storage_date": "2026-08-24",
+  "content_hash": "e33e8227bfefd39f425a9cc372ef05c940797253aaffc0287353d1270ae186c2",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Optical Networking"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091713449625636874.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091713449625636874.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091713449625636874.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Optical Networking"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

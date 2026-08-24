@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091847742020575519",
+  "capture_type": "post",
+  "url": "https://x.com/kirkpaper/status/2091847742020575519",
+  "canonical_url": "https://x.com/kirkpaper/status/2091847742020575519",
+  "title": "CPO 与光引擎迭代中的封装胶水与基板材料： 千亿级增量空间拆解 市场聊 CPO（共封装光学）大多停留在光芯片与硅光 EIC/PIC 阶段，却忽略了后道材料端的颠覆性重构。当光引擎从插拔式模块直接“沉降”到封装基板上，新型高透光特种胶水与低损耗基板材料正迎来千亿级的增量爆发。 随着单电柜算力密度突破 100kW，传统铜缆互连在长距离传输时的功耗与延迟彻...",
+  "source_domain": "x.com",
+  "author": "kirkpaper",
+  "published_at": "Mon Aug 24 11:19:01 +0000 2026",
+  "captured_at": "2026-08-24T11:30:02.022723+00:00",
+  "storage_date": "2026-08-24",
+  "content_hash": "83c55b1dfa65c57a8cede55a48086e60c407f3e5898b13303941fea3016a3dcb",
+  "tags": [
+    "ai-x-discovery",
+    "glass_substrate",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091847742020575519.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091847742020575519.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091847742020575519.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "glass_substrate",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

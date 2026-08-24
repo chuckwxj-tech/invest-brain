@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091730149561774345",
+  "capture_type": "post",
+  "url": "https://x.com/Ridhi9009/status/2091730149561774345",
+  "canonical_url": "https://x.com/Ridhi9009/status/2091730149561774345",
+  "title": "Yesterday, @ishmohit1 Sunday Session on the @soicfinance YouTube channel covered Temsons Instruments and its unique business model. Here are 10 key takeaways I noted from the se...",
+  "source_domain": "x.com",
+  "author": "Ridhi9009",
+  "published_at": "Mon Aug 24 03:31:44 +0000 2026",
+  "captured_at": "2026-08-24T04:30:01.345953+00:00",
+  "storage_date": "2026-08-24",
+  "content_hash": "0de59e445641ca6cbdea90ed3ec0082018e5b5b3d7b2b8511e7b0bcd28468a49",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091730149561774345.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091730149561774345.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091730149561774345.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091679915687186768",
+  "capture_type": "post",
+  "url": "https://x.com/fi56622380/status/2091679915687186768",
+  "canonical_url": "https://x.com/fi56622380/status/2091679915687186768",
+  "title": "@GavinSBaker agree, 3D DRAM/HBM is likely going to be standard solution in the coming years, from cloud to edge. Qcom/NV already started year ago at the end of day it's all abou...",
+  "source_domain": "x.com",
+  "author": "fi56622380",
+  "published_at": "Mon Aug 24 00:12:08 +0000 2026",
+  "captured_at": "2026-08-24T00:30:01.265857+00:00",
+  "storage_date": "2026-08-24",
+  "content_hash": "04c45f50babe3eecc1254975869da24a1b852183ca414722e008e950b6cc0e01",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091679915687186768.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091679915687186768.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-24/aix_2091679915687186768.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091917294993805430",
+  "capture_type": "post",
+  "url": "https://x.com/RohanTResearch/status/2091917294993805430",
+  "canonical_url": "https://x.com/RohanTResearch/status/2091917294993805430",
+  "title": "@soicfinance The AI capex cycle isn't limited to semiconductors and data centers - industrial equipment deep inside the supply chain can benefit too.",
+  "source_domain": "x.com",
+  "author": "RohanTResearch",
+  "published_at": "Mon Aug 24 15:55:23 +0000 2026",
+  "captured_at": "2026-08-24T18:00:01.551110+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "975fbd4f43c6fde8ac4fdd2152a123d4f4c00ff3d36caa7c72d5d02dee03c5ba",
+  "tags": [
+    "ai-x-discovery",
+    "ai_capex",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091917294993805430.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091917294993805430.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091917294993805430.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "ai_capex",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
