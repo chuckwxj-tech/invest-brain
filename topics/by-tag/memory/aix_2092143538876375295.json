@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092143538876375295",
+  "capture_type": "post",
+  "url": "https://x.com/ScarlettWeb3/status/2092143538876375295",
+  "canonical_url": "https://x.com/ScarlettWeb3/status/2092143538876375295",
+  "title": "字节群8月下半月群精华总结（上） 一、存储 vs 光：‘缺’不能当估值理由 8-17 群友抛出观点：“加上长协这些，基本面、可持续性，存储完全碾压光。AI 产业链里存储基本就是完美的，想不到 AI 要涨、存储不涨的道理。”还补了个数据：“从需求看，存储的量级是光的 10 倍+” 先纠正“量级”的方向：“‘量级 10 倍’这个说法完全反了。这里说的不是谁...",
+  "source_domain": "x.com",
+  "author": "ScarlettWeb3",
+  "published_at": "Tue Aug 25 06:54:24 +0000 2026",
+  "captured_at": "2026-08-25T08:00:01.932223+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "337d58c3957784c11f9ce7e57d28b1e5328a7f8d0161c4a606a2d8d7dee4f670",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092143538876375295.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092143538876375295.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092143538876375295.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092297273333952789",
+  "capture_type": "post",
+  "url": "https://x.com/ThematicTrader/status/2092297273333952789",
+  "canonical_url": "https://x.com/ThematicTrader/status/2092297273333952789",
+  "title": "$PENG if you give a conservative 12x earnings multiple for Integrated Memory and LED and apply a 20x earnings multiple for the Advanced Compute business, you get to a 17x blende...",
+  "source_domain": "x.com",
+  "author": "ThematicTrader",
+  "published_at": "Tue Aug 25 17:05:17 +0000 2026",
+  "captured_at": "2026-08-25T17:30:01.683654+00:00",
+  "storage_date": "2026-08-26",
+  "content_hash": "88226cd78c101f07dff301d2bce639f389caa00dcd9ff3af885753a10301173d",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092297273333952789.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092297273333952789.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092297273333952789.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

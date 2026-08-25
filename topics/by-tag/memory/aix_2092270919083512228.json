@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092270919083512228",
+  "capture_type": "post",
+  "url": "https://x.com/its_EveWeb3/status/2092270919083512228",
+  "canonical_url": "https://x.com/its_EveWeb3/status/2092270919083512228",
+  "title": "AI is not just models. It’s a full stack. That’s why my #MEXC0808 AI Cart is built across five different layers of the AI economy: ➜25% $META Meta is no longer just an open sour...",
+  "source_domain": "x.com",
+  "author": "its_EveWeb3",
+  "published_at": "Tue Aug 25 15:20:34 +0000 2026",
+  "captured_at": "2026-08-25T16:30:01.829646+00:00",
+  "storage_date": "2026-08-26",
+  "content_hash": "75248224601f319f41c7940eaa207d7182d0b9b4a5958de9540eb99b42785232",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "risk_warning",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092270919083512228.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092270919083512228.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092270919083512228.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "risk_warning",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

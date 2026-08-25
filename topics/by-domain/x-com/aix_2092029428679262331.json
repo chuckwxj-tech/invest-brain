@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092029428679262331",
+  "capture_type": "post",
+  "url": "https://x.com/Colosteve2000/status/2092029428679262331",
+  "canonical_url": "https://x.com/Colosteve2000/status/2092029428679262331",
+  "title": "𝗫 $𝗜𝗡𝗧𝗖 𝗘𝗡𝗗 𝗢𝗙 𝗗𝗔𝗬 𝗥𝗘𝗣𝗢𝗥𝗧 | 𝟴 𝟮𝟰 𝟮𝟬𝟮𝟲 𝗗𝗢𝗪𝗡 𝟭𝟱.𝟳% 𝗜𝗡 𝗙𝗜𝗩𝗘 𝗧𝗥𝗔𝗗𝗜𝗡𝗚 𝗗𝗔𝗬𝗦 $INTC closed Monday at $87.26. Five trading days ago it was $103.49. That is a 15.7% decline. There is no r...",
+  "source_domain": "x.com",
+  "author": "Colosteve2000",
+  "published_at": "Mon Aug 24 23:20:58 +0000 2026",
+  "captured_at": "2026-08-24T23:30:01.661659+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "c1cc81e8c5db759c273518905cea614fa21d4f6b348ca3ed89a0d117a8546302",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092029428679262331.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092029428679262331.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092029428679262331.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

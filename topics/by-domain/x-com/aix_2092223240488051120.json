@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092223240488051120",
+  "capture_type": "post",
+  "url": "https://x.com/RikkinMajani/status/2092223240488051120",
+  "canonical_url": "https://x.com/RikkinMajani/status/2092223240488051120",
+  "title": "AI Semiconductors (2/2) Absolics ~$280M (SKC, Applied Materials) Glass substrates for AI-chip advanced packaging (CHIPS Act). Pre-commercial; funds customer quals & yield upgrad...",
+  "source_domain": "x.com",
+  "author": "RikkinMajani",
+  "published_at": "Tue Aug 25 12:11:06 +0000 2026",
+  "captured_at": "2026-08-25T12:30:01.836438+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "d31109e45443f6a7cd5d89ad17648b752a75fce7bb31794bb3e78cb00f54c1f3",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Advanced Packaging"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092223240488051120.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092223240488051120.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092223240488051120.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Advanced Packaging"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2091977303727464551",
+  "capture_type": "post",
+  "url": "https://x.com/neil_shah/status/2091977303727464551",
+  "canonical_url": "https://x.com/neil_shah/status/2091977303727464551",
+  "title": "At #HotChips2026 @intel @Intel_Foundry executives shared some great perspectives and peek into the Agentic AI future powered by Intel from Cloud to Edge. 1. Diamond Rapids (next...",
+  "source_domain": "x.com",
+  "author": "neil_shah",
+  "published_at": "Mon Aug 24 19:53:50 +0000 2026",
+  "captured_at": "2026-08-24T21:00:01.978869+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "799846f0649ad8c0143152d3958a37e3cf95123009e7978b6bd412384bf782a7",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091977303727464551.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091977303727464551.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2091977303727464551.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

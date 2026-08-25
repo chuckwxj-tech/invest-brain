@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092193769332625517",
+  "capture_type": "post",
+  "url": "https://x.com/benjaminliang78/status/2092193769332625517",
+  "canonical_url": "https://x.com/benjaminliang78/status/2092193769332625517",
+  "title": "Scale-up fabric：量產的不是 scale-up 那條 三軌現在的真實位置，比新聞標題乾淨得多。 NVLink 仍是 scale-up 的實質標準。NVLink Fusion 自 2025 年 5 月開放後，陸續把 Arm、Samsung Foundry、SiFive 收進來；2026 年 3 月 31 日輝達再砸 20 億美元入股邁威爾（...",
+  "source_domain": "x.com",
+  "author": "benjaminliang78",
+  "published_at": "Tue Aug 25 10:14:00 +0000 2026",
+  "captured_at": "2026-08-25T11:00:02.035638+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "e82b15e378b8b25e388c7fb8ab2cb351af4dd4009aa26201b87f384559685849",
+  "tags": [
+    "ai-x-discovery",
+    "asic_tpu_design_win",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092193769332625517.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092193769332625517.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092193769332625517.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "asic_tpu_design_win",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}

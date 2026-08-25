@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092016621674197395",
+  "capture_type": "post",
+  "url": "https://x.com/zsdcxa13/status/2092016621674197395",
+  "canonical_url": "https://x.com/zsdcxa13/status/2092016621674197395",
+  "title": "2028년이 되면 구글 TPU 출하량이 엔비디아를 넘어설 수도 있다”고 본다는 거야 그래서 사람들이 좀 놀란 거지 자세히 보면 이렇다 우선 지금 긍정적으로 보는 종목은 마벨(MRVL), 미디어텍(MTK), 인텔이야. 특히 마벨이 구글이랑 아마존 커스텀 칩에서 계속 일 따내고 있다고 하더라 엔비디아 쪽은 아직 괜찮다고...",
+  "source_domain": "x.com",
+  "author": "zsdcxa13",
+  "published_at": "Mon Aug 24 22:30:05 +0000 2026",
+  "captured_at": "2026-08-24T23:30:01.661659+00:00",
+  "storage_date": "2026-08-25",
+  "content_hash": "28e9c224cc17ebeb247a9578cfe2607fbc358412dbda99e5ca6b9bdc8c7ec014",
+  "tags": [
+    "ai-x-discovery",
+    "advanced_packaging",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092016621674197395.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092016621674197395.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-25/aix_2092016621674197395.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "advanced_packaging",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
