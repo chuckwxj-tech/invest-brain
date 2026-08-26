@@ -1,0 +1,44 @@
+{
+  "id": "ai-x:2092311879301619809",
+  "capture_type": "post",
+  "url": "https://x.com/yizheng95/status/2092311879301619809",
+  "canonical_url": "https://x.com/yizheng95/status/2092311879301619809",
+  "title": "@SemiAnalysis_ 其实是好消息 - NVIDIA 减少的只是attached local HBM，大增的是shared memory (memory pool), 双赢 - NVIDIA Rubin Ultra ASP 更亲民，memory pool 强力增长，看好$skhy, $MU, 特别$ALAB，CXL (memory connec...",
+  "source_domain": "x.com",
+  "author": "yizheng95",
+  "published_at": "Tue Aug 25 18:03:19 +0000 2026",
+  "captured_at": "2026-08-25T18:30:01.591788+00:00",
+  "storage_date": "2026-08-26",
+  "content_hash": "bc30594ccfbe3f1a0ef9f303cbebecbe76947778aaa3e80e1057e5c21d19516e",
+  "tags": [
+    "ai-x-discovery",
+    "cxl_datacenter",
+    "emerging_term",
+    "Memory"
+  ],
+  "priority": "urgent",
+  "research_intent": "验证 AI 基建与半导体产业链信号",
+  "user_notes": "来源: ai-x-discovery；机器初筛，仍需外部核查。",
+  "dedup_status": "unique",
+  "duplicate_of": null,
+  "status": "raw_captured",
+  "paths": {
+    "markdown": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092311879301619809.md",
+    "json": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092311879301619809.json",
+    "raw_html": null,
+    "analysis_prompt": "/srv/cloud-vault/inbox/browser-capture/2026-08-26/aix_2092311879301619809.analysis_prompt.md"
+  },
+  "ai_x": {
+    "level": "S",
+    "signal_type": "emerging_term",
+    "query_group": "cxl_datacenter",
+    "chains": [
+      "Memory"
+    ],
+    "investment_interpretation": "This is a watchlist signal for AI hardware supply-chain research, not a trade instruction.",
+    "confidence": "medium_high",
+    "verification_needed": [
+      "verify source, customer relationship, timing, and supply-chain economics"
+    ]
+  }
+}
