@@ -1,0 +1,20 @@
+{
+  "task_id": "task-20260909-information-daily",
+  "created_at": "2026-09-09T09:15:41.638221+00:00",
+  "created_by": "codex-mac",
+  "target": "codex-mac",
+  "status": "done",
+  "priority": "high",
+  "requirement": "部署每日论坛热点、财经要闻及研报阅读网页，并实现每天定时采集和发布",
+  "context": {
+    "project": "information-daily"
+  },
+  "completed_at": "2026-09-09T09:34:07.229348+00:00",
+  "result": {
+    "url": "https://daily-information-desk.wxj635961658.chatgpt.site",
+    "runtime": "bwg-la-reality:/srv/information-daily",
+    "schedule": "07:30 Asia/Shanghai daily",
+    "verified_items": 506,
+    "cloud_vault_trial": "disabled and unused encrypted credential removed"
+  }
+}
